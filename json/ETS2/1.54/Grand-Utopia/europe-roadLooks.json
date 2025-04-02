@@ -1,0 +1,4739 @@
+[
+  {
+    "token": "look0",
+    "name": "Road 1 lane double",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1.25,
+    "shoulderSpaceRight": 1.25
+  },
+  {
+    "token": "look5",
+    "name": "Road 1 lane single",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1.25,
+    "shoulderSpaceRight": 1.25
+  },
+  {
+    "token": "look6",
+    "name": "Road 1 lane broken",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1.25,
+    "shoulderSpaceRight": 1.25
+  },
+  {
+    "token": "look7",
+    "name": "Road no center lane",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1.25,
+    "shoulderSpaceRight": 1.25
+  },
+  {
+    "token": "look1",
+    "name": "Highway 2 lanes 2m offset",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look2",
+    "name": "Highway 2 lanes 5m offset",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look3",
+    "name": "Highway 3 lanes 2m offset",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look4",
+    "name": "Highway 3 lanes 5m offset",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look8",
+    "name": "City 2 lanes 1m offset",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "look9",
+    "name": "Exit road",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [],
+    "offset": 0,
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 4.75
+  },
+  {
+    "token": "look10",
+    "name": "Road no lanes small",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1.25,
+    "shoulderSpaceRight": 1.25
+  },
+  {
+    "token": "look11",
+    "name": "Highway 2 lanes 1m offset",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "look12",
+    "name": "Ground road (ground texture only)",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 2,
+    "shoulderSpaceRight": 1.25
+  },
+  {
+    "token": "look13",
+    "name": "Highway 3 lanes 15m offset",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 15,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look14",
+    "name": "Highway 3 lanes 25m offset",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 25,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look15",
+    "name": "Highway 3 lanes 10m offset",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 10,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look16",
+    "name": "Highway 3 lanes one way",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look17",
+    "name": "Highway 3 lanes one way UK",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "look18",
+    "name": "Road broken no outer lanes",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1.25,
+    "shoulderSpaceRight": 1.25
+  },
+  {
+    "token": "look19",
+    "name": "Road single no outer lanes",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1.25,
+    "shoulderSpaceRight": 1.25
+  },
+  {
+    "token": "look20",
+    "name": "City 2 lanes 5m offset",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 5,
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "look21",
+    "name": "Highway 2 lanes 15m offset",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 15,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look22",
+    "name": "Highway 2 lanes 2m offset no lanes",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look23",
+    "name": "Highway 2 lanes 10m offset",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 10,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look24",
+    "name": "Highway 2 lanes one way",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look25",
+    "name": "narrow way no lanes no traffic",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "offset": 0,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "look26",
+    "name": "Highway 2 lanes 2.5m offset",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 2.5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "look27",
+    "name": "Exit road UK",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 4.75
+  },
+  {
+    "token": "look28",
+    "name": "Road double no outer lanes",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1.25,
+    "shoulderSpaceRight": 1.25
+  },
+  {
+    "token": "look29",
+    "name": "narrow way walkers",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "offset": 0,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "look30",
+    "name": "Road 2+1",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1.25,
+    "shoulderSpaceRight": 1.25
+  },
+  {
+    "token": "look31",
+    "name": "Road 1+2",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "offset": 0,
+    "shoulderSpaceLeft": 1.25,
+    "shoulderSpaceRight": 1.25
+  },
+  {
+    "token": "un01",
+    "name": "un 0-1",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un02",
+    "name": "un 0-2",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un03",
+    "name": "un 0-3",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un04",
+    "name": "un 0-4",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un05",
+    "name": "un 0-5",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un11",
+    "name": "un 1-1",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un11spec",
+    "name": "(DO NOT USE) un 1-1 special",
+    "lanesLeft": [
+      "traffic_lane.road.local.narrow.full_in_out"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.narrow.full_in_out"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un11_bridge",
+    "name": "un 1-1 bridge",
+    "lanesLeft": [
+      "traffic_lane.road.local.narrow.full_in_out"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.narrow.full_in_out"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un11_2m",
+    "name": "un 1-1 offset 2m",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "offset": 5.75,
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un11_nar",
+    "name": "un 1-1 narrow",
+    "lanesLeft": [
+      "traffic_lane.road.local.narrow"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.narrow"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un11_nar_d",
+    "name": "un 1-1 narrow dirt",
+    "lanesLeft": [
+      "traffic_lane.road.local.dust"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.dust"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un11_min",
+    "name": "un 1-1 minim",
+    "lanesLeft": [
+      "traffic_lane.road.local.narrow.full_in_out"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.narrow.full_in_out"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un11_min_d",
+    "name": "un 1-1 minim dirt",
+    "lanesLeft": [
+      "traffic_lane.road.local.dust"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.dust"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un11_spec",
+    "name": "(DO NOT USE) un 1-1 special",
+    "lanesLeft": [
+      "traffic_lane.road.local.narrow.full_in_out"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.narrow.full_in_out"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un11_onelane",
+    "name": "un 1-1 single lane",
+    "lanesLeft": [
+      "traffic_lane.road.local.narrow.full_in_out"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.narrow.full_in_out"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un11_sw",
+    "name": "un sidewalk road",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un101",
+    "name": "un 1-0-1",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un21",
+    "name": "un 2-1",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un12",
+    "name": "un 1-2",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un22",
+    "name": "un 2-2",
+    "lanesLeft": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un22_2m",
+    "name": "un 2-2 offset 2m",
+    "lanesLeft": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "offset": 5.75,
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un22_4m",
+    "name": "un 2-2 offset 4m",
+    "lanesLeft": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "offset": 6.75,
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un22_10m",
+    "name": "un 2-2 offset 10m",
+    "lanesLeft": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "offset": 9.75,
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un33_2m",
+    "name": "un 3-3 offset 2m",
+    "lanesLeft": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "offset": 10.25,
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un33_4m",
+    "name": "un 3-3 offset 4m",
+    "lanesLeft": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "offset": 11.25,
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un44_2m",
+    "name": "un 4-4 offset 2m",
+    "lanesLeft": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "offset": 10.25,
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "unr",
+    "name": "un 0-1 rail",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "unrd",
+    "name": "un 1-1 rail 4m offset",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "offset": 5.748,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "unrai",
+    "name": "un 0-1 rail AI",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.train"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "unrdai",
+    "name": "un 1-1 rail 4m offset AI",
+    "lanesLeft": [
+      "traffic_lane.rail.train"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.train"
+    ],
+    "offset": 5.748,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "untdai",
+    "name": "un 1-1 rail tram 2m offset",
+    "lanesLeft": [
+      "traffic_lane.rail.tram"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.tram"
+    ],
+    "offset": 2.25,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "untai",
+    "name": "un 0-1 rail tram",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.tram"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "un11_min_in",
+    "name": "invis road 1 minim",
+    "lanesLeft": [
+      "traffic_lane.slow_road"
+    ],
+    "lanesRight": [
+      "traffic_lane.slow_road"
+    ]
+  },
+  {
+    "token": "un11_nar_in",
+    "name": "invis road 1 narrow",
+    "lanesLeft": [
+      "traffic_lane.slow_road"
+    ],
+    "lanesRight": [
+      "traffic_lane.slow_road"
+    ]
+  },
+  {
+    "token": "un22_tdai",
+    "name": "un 2-2 tram",
+    "lanesLeft": [
+      "traffic_lane.rail.tram",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.tram",
+      "traffic_lane.road.local"
+    ],
+    "offset": 4.5,
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "un33_tdai",
+    "name": "un 3-3 tram",
+    "lanesLeft": [
+      "traffic_lane.rail.tram",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.tram",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "offset": 4.5,
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "template0",
+    "name": "*Road 1 city minim scan temp",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "shoulderSpaceLeft": -2.25,
+    "shoulderSpaceRight": -2.25
+  },
+  {
+    "token": "template1",
+    "name": "*Road 1 scan temp",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "template2",
+    "name": "*Road 1 city narrow scan temp",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "template3",
+    "name": "*Road 1 plus 2 temp",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "offset": 0.85,
+    "shoulderSpaceLeft": 0.1,
+    "shoulderSpaceRight": 0.1
+  },
+  {
+    "token": "template4",
+    "name": "*Road 2 plus 1 temp",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "offset": 0.85,
+    "shoulderSpaceLeft": 0.1,
+    "shoulderSpaceRight": 0.1
+  },
+  {
+    "token": "template5",
+    "name": "*Road 2 city narrow scan temp",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "template6",
+    "name": "*Road 2 city narrow np scan temp",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "template7",
+    "name": "*Road 1 city enter scan temp",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "template8",
+    "name": "*Road sidewalk scan temp",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "template9",
+    "name": "*Hw exit temp",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "template9a",
+    "name": "*Exit temp",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "template10",
+    "name": "*Hw2 exit one way temp",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template11",
+    "name": "rail1 temp",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "template12",
+    "name": "rail double temp",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "offset": 1,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "template13",
+    "name": "*Road 2 city narrow np hw scan temp",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "fr1",
+    "name": "fr road 2 narrow one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "template14",
+    "name": "fr hw 2 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template14b",
+    "name": "fr hw 2 lanes one way playeronly tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.no_vehicles",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template15",
+    "name": "fr hw 2 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template16",
+    "name": "fr hw 3 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template17",
+    "name": "fr hw 3 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template18",
+    "name": "fr hw exit one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "template18a",
+    "name": "fr exit one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "template19",
+    "name": "fr hw2 exit one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template20",
+    "name": "fr hw3 exit one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template21",
+    "name": "fr road1 hw 1m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "offset": 6.5,
+    "shoulderSpaceLeft": 2.5,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "template22",
+    "name": "fr road 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "template23",
+    "name": "fr hw exit one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template26",
+    "name": "fr road 1 minim tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "template27",
+    "name": "fr road 1 enter tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "template28",
+    "name": "fr road 2 narrow tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "template29",
+    "name": "fr gas road 1 tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "template30",
+    "name": "fr hw 2 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template32",
+    "name": "fr road 1 one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.3,
+    "shoulderSpaceRight": 0.3
+  },
+  {
+    "token": "template33",
+    "name": "fr tram 1",
+    "lanesLeft": [
+      "traffic_lane.rail.tram"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.tram"
+    ],
+    "offset": 0.8,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "template34",
+    "name": "fr road 1 minim village 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles.dirt"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles.dirt"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "template37",
+    "name": "fr sidewalk road tmpl",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "template98",
+    "name": "rail double AI 01 tmpl",
+    "lanesLeft": [
+      "traffic_lane.rail.train"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.train"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "template98b",
+    "name": "rail double AI 01 high speed tmpl",
+    "lanesLeft": [
+      "traffic_lane.rail.train.high_speed"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.train.high_speed"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "template99",
+    "name": "rail AI 01 tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.train"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "template36",
+    "name": "fr hw 2 lanes one way2 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "template994",
+    "name": "fr hw 3 lanes one way br 30 tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "template38",
+    "name": "it hw 2 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template1b",
+    "name": "it hw 2 lanes one way playeronly tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.no_vehicles",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template39",
+    "name": "it hw 2 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template40",
+    "name": "it hw 3 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template41",
+    "name": "it hw 3 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template42",
+    "name": "it hw exit one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "template42a",
+    "name": "it exit one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "template43",
+    "name": "it hw2 exit one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template44",
+    "name": "it hw3 exit one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template45",
+    "name": "it road1 hw 1m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "offset": 6.5,
+    "shoulderSpaceLeft": 2.5,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "template46",
+    "name": "it road 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "template48",
+    "name": "it road 1 minim tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "template49",
+    "name": "it road 1 enter tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "template50",
+    "name": "it road 2 narrow tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "template51",
+    "name": "it gas road 1 tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "template52",
+    "name": "it hw 2 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template53",
+    "name": "it road 1 one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "template54",
+    "name": "it tram 1",
+    "lanesLeft": [
+      "traffic_lane.rail.tram"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.tram"
+    ],
+    "offset": 0.8,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "template55",
+    "name": "it road 1 minim village 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles.dirt"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles.dirt"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "template56",
+    "name": "it sidewalk road tmpl",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "template57",
+    "name": "it hw 3 lanes one way br 15 tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "template58",
+    "name": "it hw 3 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template59",
+    "name": "it road 2 narrow one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "template60",
+    "name": "it road 2 city narrow tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "template61",
+    "name": "it rail AI 01 tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.train"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "template62",
+    "name": "it rail double AI high speed tmpl",
+    "lanesLeft": [
+      "traffic_lane.rail.train.high_speed"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.train.high_speed"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "template62a",
+    "name": "it rail double AI tmpl",
+    "lanesLeft": [
+      "traffic_lane.rail.train"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.train"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "template63",
+    "name": "it road 1 far tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "balt6",
+    "name": "balt hw 1 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "balt6_exp",
+    "name": "balt EXPRESSWAY 1 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "balt10",
+    "name": "balt road 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "balt11",
+    "name": "balt road 1 minim tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "balt14",
+    "name": "balt gas road 1 tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "balt32",
+    "name": "balt road 1 plus 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.4,
+    "shoulderSpaceRight": 0.4
+  },
+  {
+    "token": "balt36",
+    "name": "balt road 1 exits tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "balt37",
+    "name": "balt road 1 plus 2 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "balt38",
+    "name": "balt road 1 dirt minim tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "balt43",
+    "name": "balt road 1 dirt tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "balt44",
+    "name": "balt road 1 tmpl far",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "ger1",
+    "name": "ger road 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "ger2",
+    "name": "ger hw exit one lane",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "ger2a",
+    "name": "ger exit one lane",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "ger3",
+    "name": "ger road 1 enter",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ger4",
+    "name": "ger road 1 minim",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "ger5",
+    "name": "ger road 1 one way",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ger6",
+    "name": "DO NOT USE ger road 1 minim village 1",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "ger7",
+    "name": "ger road 2 city narrow tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ger8",
+    "name": "ger road 2 narrow tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ger9",
+    "name": "ger road 2 narrow one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "ger10",
+    "name": "ger gas road 1 tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "ger11",
+    "name": "ger hw 2 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ger12",
+    "name": "ger hw 2 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ger13",
+    "name": "ger hw 2 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ger14",
+    "name": "ger hw 3 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ger15",
+    "name": "ger hw 3 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ger16",
+    "name": "ger hw 3 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ger17",
+    "name": "ger hw2 exit one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ger18",
+    "name": "ger hw3 exit one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ger19",
+    "name": "ger hw4 one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ger20",
+    "name": "ger road 3",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 10.5,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "ger22",
+    "name": "ger road1 hw 1m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "offset": 6.5,
+    "shoulderSpaceLeft": 2.5,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "ger23",
+    "name": "ger road 3 tmpl one lane",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "ger23b",
+    "name": "ger road 3 tmpl one lane tram",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "ger24",
+    "name": "ger road 2 plus 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "ger25",
+    "name": "ger road 1 plus 2 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ger26",
+    "name": "ger road 1 plus 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.4,
+    "shoulderSpaceRight": 0.4
+  },
+  {
+    "token": "ger27",
+    "name": "road 2 plus 3 tmpl offset 1m",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 8.5,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "ger28",
+    "name": "ger hw5 one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ger29",
+    "name": "ger road 2 no offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "laneOffset": 0,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ger30",
+    "name": "ger road 2 no offset tram tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway.tram",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway.tram",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 4.75,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ger31",
+    "name": "at road 2 city narrow tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 5.75,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ger32",
+    "name": "at road 2 no offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 4.75,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "balt12",
+    "name": "balt road 1 enter tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "balt16",
+    "name": "balt road 1 one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.4,
+    "shoulderSpaceRight": 0.4
+  },
+  {
+    "token": "blke5",
+    "name": "blke hw 2 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blke5_l",
+    "name": "blke hw 2 lanes one way city tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blke6",
+    "name": "blke hw 2 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 6.5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blke6_l",
+    "name": "blke hw 2 lanes 2m offset city tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "offset": 6.5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blke8",
+    "name": "blke hw 3 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blke8_l",
+    "name": "blke hw 3 lanes one way city tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blke14",
+    "name": "blke road 1 tmpl ro",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "blke15",
+    "name": "blke road 1 minim tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blke16",
+    "name": "blke road 2 narrow tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 5.75,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blke17",
+    "name": "blke road 2 city narrow tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 5.75,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blke23",
+    "name": "blke road 1 damaged tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.overtake"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blke24",
+    "name": "blke road 2 narrow one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "blke27",
+    "name": "blke road 1 dirt minim tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blke30",
+    "name": "blke road 1 enter tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blke34",
+    "name": "rail blke AI 01 tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.train"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blke34w",
+    "name": "rail blke AI 01 wire tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.train.wire"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blke36",
+    "name": "blke road 1 one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blke40",
+    "name": "invis road 1",
+    "lanesLeft": [
+      "traffic_lane.slow_road"
+    ],
+    "lanesRight": [
+      "traffic_lane.slow_road"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "balt19",
+    "name": "balt sidewalk road tmpl",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "tram42",
+    "name": "balt tram 1 one rail",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.tram"
+    ]
+  },
+  {
+    "token": "blke33",
+    "name": "rail blke double AI 01 tmpl",
+    "lanesLeft": [
+      "traffic_lane.rail.train"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.train"
+    ],
+    "offset": 5.748,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blke1",
+    "name": "blke hw 1 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "blke1a",
+    "name": "blke hw 1 lanes one way city tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "blke_40",
+    "name": "invis road 1 one way",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.slow_road"
+    ],
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "ibe32",
+    "name": "rail ibe temp",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.train"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "ibe1",
+    "name": "ibe hw 1 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "ibe1b",
+    "name": "ibe hw 1 lanes one way city tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "ibe5",
+    "name": "ibe hw 2 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ibe6",
+    "name": "ibe hw 2 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 6.5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ibe8",
+    "name": "ibe hw 3 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ibe14",
+    "name": "ibe road 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "ibe15",
+    "name": "ibe road 1 one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ibe16",
+    "name": "ibe road 1 minim tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "ibe22",
+    "name": "ibe road 2 plus 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "ibe24",
+    "name": "ibe road 1 plus 1",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "blke21",
+    "name": "blke tram 1 one rail",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.tram"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blke31",
+    "name": "rail blke temp",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blke33b",
+    "name": "rail blke double AI 01 wire tmpl",
+    "lanesLeft": [
+      "traffic_lane.rail.train.wire"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.train.wire"
+    ],
+    "offset": 5.748,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blke1f",
+    "name": "blke hw 1 lanes one way tmpl far",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "blke2",
+    "name": "blke hw 1 lanes 1m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 6.5,
+    "shoulderSpaceLeft": 2.5,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "blke3",
+    "name": "blke hw 1 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 9.5,
+    "shoulderSpaceLeft": 2.5,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "blke5f",
+    "name": "blke hw 2 lanes one way tmpl far",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blke7",
+    "name": "blke hw 2 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 9.5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blke9",
+    "name": "blke hw 3 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 11,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blke10",
+    "name": "blke hw 3 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 14,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blke11",
+    "name": "blke hw 4 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blke12",
+    "name": "blke hw 4 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 11,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blke13",
+    "name": "blke hw 4 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 14,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blke14f",
+    "name": "blke road 1 tmpl far",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "blke14b",
+    "name": "blke road 1 tmpl bg",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "blke14c",
+    "name": "blke road 1 tmpl tr",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "blke14cf",
+    "name": "blke road 1 tmpl tr far",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "blke18",
+    "name": "blke road 2 tram",
+    "lanesLeft": [
+      "traffic_lane.rail.tram",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.tram",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 8,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blke18b",
+    "name": "blke road 2 tram no AI tram lines",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 8,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blke19",
+    "name": "blke tram 1",
+    "lanesLeft": [
+      "traffic_lane.rail.tram"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.tram"
+    ],
+    "offset": 2.25,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blke20",
+    "name": "blke road 1 tram",
+    "lanesLeft": [
+      "traffic_lane.road.local.tram"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.tram"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "blke22",
+    "name": "blke road 2 plus 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "blke24f",
+    "name": "blke road 2 narrow one way tmpl far",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "blke25",
+    "name": "blke road 1 plus 1",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "blke26",
+    "name": "blke road 1 plus 2",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blke28",
+    "name": "blke road dirt center",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "offset": 1.5,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blke29",
+    "name": "blke road 3 tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "blke35",
+    "name": "blke road 2 no offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "offset": 4.75,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blke36f",
+    "name": "blke road 1 one way tmpl far",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blke37",
+    "name": "blke road 2 no offset tram tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway.tram",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway.tram",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 4.75,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blke37b",
+    "name": "blke road 2 no offset tram no AI tram lines",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 4.75,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blke39",
+    "name": "blke road 3 bus one way tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway.bus_transit"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": -0.75,
+    "shoulderSpaceRight": 1
+  },
+  {
+    "token": "blke41",
+    "name": "invis road 2 one way",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.slow_road",
+      "traffic_lane.slow_road"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "balt17",
+    "name": "balt tram 1",
+    "lanesLeft": [
+      "traffic_lane.rail.tram"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.tram"
+    ],
+    "offset": 2.25
+  },
+  {
+    "token": "template64",
+    "name": "(DO NOT USE) invis road 2 one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "template65",
+    "name": "(DO NOT USE) invis rail",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.train"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "at1",
+    "name": "at road 1 one way",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "balt3",
+    "name": "balt hw 2 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt3_exp",
+    "name": "balt EXPRESSWAY 2 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt5",
+    "name": "balt hw 3 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt7",
+    "name": "balt hw 3 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt7_exp",
+    "name": "balt EXPRESSWAY 3 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt8",
+    "name": "balt hw5 exit one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt9_exp",
+    "name": "balt EXPRESSWAY road1 hw 1m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway.low_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway.low_density"
+    ],
+    "offset": 6.5,
+    "shoulderSpaceLeft": 2.5,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "balt13",
+    "name": "balt road 2 narrow tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "balt41",
+    "name": "balt road 2 narrow no offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "laneOffset": 0,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "balt22",
+    "name": "balt road 2 narrow one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "balt23",
+    "name": "balt road 2 city narrow tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 1,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "balt29",
+    "name": "balt hw 4 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt30",
+    "name": "balt hw 4 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt33",
+    "name": "balt road 2 plus 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "balt34",
+    "name": "balt road 3 one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "balt42",
+    "name": "balt road 3 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 10.5,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "balt35",
+    "name": "balt hw 2 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt35_exp",
+    "name": "balt EXPRESSWAY 2 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt39",
+    "name": "balt road dirt center",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "offset": 1.5,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "balt5_exp",
+    "name": "balt EXPRESSWAY hw 3 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt8_exp",
+    "name": "balt EXPRESSWAY hw5 exit one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt9",
+    "name": "balt road1 hw 1m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "offset": 6.5,
+    "shoulderSpaceLeft": 2.5,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "balt15",
+    "name": "balt hw 2 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt15_exp",
+    "name": "balt EXPRESSWAY hw 2 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt27",
+    "name": "balt hw 1 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt29_exp",
+    "name": "balt EXPRESSWAY hw 4 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt30_exp",
+    "name": "balt EXPRESSWAY hw 4 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "tram41",
+    "name": "balt road 2 tram",
+    "lanesLeft": [
+      "traffic_lane.rail.tram",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.tram",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 3.25,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "tram43",
+    "name": "balt road 2 city narrow tram offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 3.25,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "blkw1ow",
+    "name": "blkw road 1 one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blkw1min",
+    "name": "blkw road 1 minim tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blkw1md",
+    "name": "blkw road 1 minim dirt tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blkw1mdc",
+    "name": "blkw road 1 minim dirt center tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "offset": 1.5,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blkw1p1",
+    "name": "blkw road 1 plus 1",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "blkw1p2",
+    "name": "blkw road 1 plus 2",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blkw2",
+    "name": "blkw road 2 narrow tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 5.75,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blkw2ow",
+    "name": "blkw road 2 one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "blkw2c",
+    "name": "blkw road 2 city tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "offset": 5.75,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blkw2no",
+    "name": "blkw road 2 no offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "offset": 4.75,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blkw2p1",
+    "name": "blkw road 2 plus 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "blkw3ow",
+    "name": "blkw road 3 one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "blkwhw11",
+    "name": "blkw hw 1 1m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 6.5,
+    "shoulderSpaceLeft": 2.5,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "blkwhw1no",
+    "name": "blkw hw 1 no offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 5.5,
+    "shoulderSpaceLeft": 2.5,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "blkwhw2",
+    "name": "blkw hw2 one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blkwhw22",
+    "name": "blkw hw2 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 6.5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blkwhw3",
+    "name": "blkw hw3 one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blkwhw32",
+    "name": "blkw hw3 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 11,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blkwhw4",
+    "name": "blkw hw4 one lane tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blkwr",
+    "name": "rail blkw temp",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blkwrd",
+    "name": "rail blkw double temp 1m offset",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "offset": 4.76,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blkw1ai",
+    "name": "rail blkw double AI 1m offset",
+    "lanesLeft": [
+      "traffic_lane.rail.train"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.train"
+    ],
+    "offset": 4.76,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blkwrd2",
+    "name": "rail blkw double temp 2m offset",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "offset": 5.748,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blkwrai",
+    "name": "rail blkw AI 01 tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.train"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blkwaid",
+    "name": "rail blkw double AI 01 tmpl",
+    "lanesLeft": [
+      "traffic_lane.rail.train"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.train"
+    ],
+    "offset": 5.748,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "blkw1n",
+    "name": "blkw road 1 narrow tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local.narrow.full_in_out"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.narrow.full_in_out"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "blkw1",
+    "name": "blkw road 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.75,
+    "shoulderSpaceRight": 0.75
+  },
+  {
+    "token": "blkw2p1no",
+    "name": "blkw road 2-1 no offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blkw2p1p2",
+    "name": "blkw road 2 plus 1 plus 2",
+    "lanesLeft": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density",
+      "traffic_lane.road.local.high_density"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blkw3",
+    "name": "blkw road 3 narrow tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 10.5,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "blkwhw1",
+    "name": "blkw hw1 one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway.low_density"
+    ],
+    "shoulderSpaceLeft": 1,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "blkwhw15",
+    "name": "blkw hw 1 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 9.5,
+    "shoulderSpaceLeft": 2.5,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "blkwhw25",
+    "name": "blkw hw2 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 9.5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blkwhw35",
+    "name": "blkw hw3 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 14,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blkwhw42",
+    "name": "blkw hw4 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 11,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blkwhw45",
+    "name": "blkw hw4 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 14,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "blke32",
+    "name": "rail blke double temp",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "offset": 4.76,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "ger33",
+    "name": "ger tram 1",
+    "lanesLeft": [
+      "traffic_lane.rail.tram"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.tram"
+    ],
+    "offset": 2.25,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "ger34",
+    "name": "ger r2 tram",
+    "lanesLeft": [
+      "traffic_lane.rail.tram",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.tram",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 3.25,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ger37",
+    "name": "ger r1 minim dirt",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "ger39",
+    "name": "ger r1 minim dirt center",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "offset": 1.5,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "ger35",
+    "name": "ger r2 tram offset",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 3.25,
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 0
+  },
+  {
+    "token": "ger36",
+    "name": "ger tram 1 oneway",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.rail.tram"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "ger38",
+    "name": "ger road 2-1 no offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "template25",
+    "name": "fr road 2 plus 1 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local"
+    ],
+    "offset": 0.85,
+    "shoulderSpaceLeft": 0.1,
+    "shoulderSpaceRight": 0.1
+  },
+  {
+    "token": "balt2",
+    "name": "balt hw 2 lanes one way playeronly tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.no_vehicles",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt21",
+    "name": "balt hw 3 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt27_exp",
+    "name": "balt EXPRESSWAY hw 1 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 2,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt28",
+    "name": "balt hw 1 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt31",
+    "name": "balt hw 4 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "balt45",
+    "name": "balt road 3 no offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 9.5,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "balt46",
+    "name": "balt road 3 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 14.5,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "balt40",
+    "name": "balt road 1 tram",
+    "lanesLeft": [
+      "traffic_lane.road.local.tram"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.tram"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "template24",
+    "name": "fr road 1 plus 2 tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "offset": 0.85,
+    "shoulderSpaceLeft": 0.1,
+    "shoulderSpaceRight": 0.1
+  },
+  {
+    "token": "template31",
+    "name": "fr hw 3 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "template35",
+    "name": "fr hw 2 lanes 2 way tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ibe2",
+    "name": "ibe hw 1 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 6.5,
+    "shoulderSpaceLeft": 2.5,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "ibe3",
+    "name": "ibe hw 1 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 9.5,
+    "shoulderSpaceLeft": 2.5,
+    "shoulderSpaceRight": 2.5
+  },
+  {
+    "token": "ibe7",
+    "name": "ibe hw 2 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 9.5,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ibe9",
+    "name": "ibe hw 3 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 11,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ibe10",
+    "name": "ibe hw 3 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 14,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ibe11",
+    "name": "ibe hw 4 lanes one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ibe12",
+    "name": "ibe hw 4 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 11,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ibe13",
+    "name": "ibe hw 4 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 14,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ibe17",
+    "name": "ibe road 2 narrow tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 5.75,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ibe18",
+    "name": "ibe road 2 city narrow tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 5.75,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ibe19",
+    "name": "ibe road 2 narrow one way tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "ibe20",
+    "name": "ibe road 2 no offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "offset": 4.75,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ibe21",
+    "name": "ibe road 3 tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.25
+  },
+  {
+    "token": "ibe23",
+    "name": "ibe road 1 plus 2",
+    "lanesLeft": [
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ibe25",
+    "name": "ibe hw 2+3 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 8.75,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ibe26",
+    "name": "ibe hw 3+2 lanes 2m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 8.75,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ibe27",
+    "name": "ibe r1 plus 1 grass middle",
+    "lanesLeft": [
+      "traffic_lane.road.local.full_in_out"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local.full_in_out"
+    ],
+    "offset": 6.75,
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ibe28",
+    "name": "ibe road 2-1 no offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.expressway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.expressway",
+      "traffic_lane.road.expressway"
+    ],
+    "shoulderSpaceLeft": 0.5,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ibe29",
+    "name": "ibe road dirt center",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "offset": 1.5,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "ibe30",
+    "name": "ibe road 1 dirt minim tmpl",
+    "lanesLeft": [
+      "traffic_lane.no_vehicles"
+    ],
+    "lanesRight": [
+      "traffic_lane.no_vehicles"
+    ],
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "ibe31",
+    "name": "ibe hw 2+3 lanes 5m offset tmpl",
+    "lanesLeft": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "offset": 11.75,
+    "shoulderSpaceLeft": 3.5,
+    "shoulderSpaceRight": 3.5
+  },
+  {
+    "token": "ibe33",
+    "name": "rail ibe double temp",
+    "lanesLeft": [],
+    "lanesRight": [],
+    "offset": 5.748,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "ibe34",
+    "name": "rail ibe double AI 01 tmpl",
+    "lanesLeft": [
+      "traffic_lane.rail.train"
+    ],
+    "lanesRight": [
+      "traffic_lane.rail.train"
+    ],
+    "offset": 5.748,
+    "shoulderSpaceLeft": -1,
+    "shoulderSpaceRight": -1
+  },
+  {
+    "token": "ibe35",
+    "name": "ibe road 2 plus 1 plus 2",
+    "lanesLeft": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "lanesRight": [
+      "traffic_lane.road.local",
+      "traffic_lane.road.local",
+      "traffic_lane.road.local"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.5
+  },
+  {
+    "token": "ibe36",
+    "name": "ibe road 2 narrow one way motorway tmpl",
+    "lanesLeft": [],
+    "lanesRight": [
+      "traffic_lane.road.motorway",
+      "traffic_lane.road.motorway"
+    ],
+    "shoulderSpaceLeft": 0.25,
+    "shoulderSpaceRight": 0.25
+  }
+]

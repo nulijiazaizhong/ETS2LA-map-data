@@ -1,0 +1,861 @@
+[
+  {
+    "uid": "57bc2c52459c006d",
+    "type": 41,
+    "x": 3451.46875,
+    "y": 13615.5625,
+    "nodeUids": [
+      "57bc2c512e9c014b"
+    ],
+    "checkpoints": [
+      {
+        "route": "munch_inns1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "7aebbfd8dcc0001",
+    "type": 41,
+    "x": 11170.390625,
+    "y": 2392.61328125,
+    "nodeUids": [
+      "7aebbfdd80c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "prag_nurn1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "4e69ffac154c0001",
+    "type": 41,
+    "x": 11156.73828125,
+    "y": 29080.83203125,
+    "nodeUids": [
+      "4e69ffac160c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "kop_nov1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "57bc449c5f9c00af",
+    "type": 41,
+    "x": 10603.953125,
+    "y": -10950.03125,
+    "nodeUids": [
+      "57bc449c711c0187"
+    ],
+    "checkpoints": [
+      {
+        "route": "ber_szcz1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "4394d420b9cc0001",
+    "type": 41,
+    "x": 14365.16796875,
+    "y": 14189.80859375,
+    "nodeUids": [
+      "4394d420794c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "lin_br1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "43926c903bcc0001",
+    "type": 41,
+    "x": 24479.68359375,
+    "y": 14773.8984375,
+    "nodeUids": [
+      "43926c90118c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "brat_graz1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "24d3efc45ac30001",
+    "type": 41,
+    "x": 35896.0703125,
+    "y": 24443.3828125,
+    "nodeUids": [
+      "24d3efc4fe830000"
+    ],
+    "checkpoints": [
+      {
+        "route": "sze_deb1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "2cc86200894c0000",
+    "type": 41,
+    "x": -1347.02734375,
+    "y": 27988.00390625,
+    "nodeUids": [
+      "2cc86200154c0001"
+    ],
+    "checkpoints": [
+      {
+        "route": "ver_par1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "55accb488e1c0071",
+    "type": 41,
+    "x": -5506.125,
+    "y": -14468.1484375,
+    "nodeUids": [
+      "55accb492d9c0125"
+    ],
+    "checkpoints": [
+      {
+        "route": "bre_tra1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "535fd0e01d1c008e",
+    "type": 41,
+    "x": -11718.0234375,
+    "y": -1929.14453125,
+    "nodeUids": [
+      "535fd0e2fe1c017d"
+    ],
+    "checkpoints": [
+      {
+        "route": "koln_amster1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "52c103817a1c0097",
+    "type": 41,
+    "x": -10744.484375,
+    "y": -6490.25,
+    "nodeUids": [
+      "52c103825e9c0196"
+    ],
+    "checkpoints": [
+      {
+        "route": "dort_hann1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "7aebc7f2b4c0001",
+    "type": 41,
+    "x": -16253.5625,
+    "y": 4243.1015625,
+    "nodeUids": [
+      "7aebc7fd70c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "lux_lieg1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "7cbc241561c0001",
+    "type": 41,
+    "x": -21541.77734375,
+    "y": 2872.12890625,
+    "nodeUids": [
+      "7cbc24176dc0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "reim_stra1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "526b386e571c000d",
+    "type": 41,
+    "x": -22294.00390625,
+    "y": 16738.79296875,
+    "nodeUids": [
+      "526b386ee09c0082"
+    ],
+    "checkpoints": [
+      {
+        "route": "dij_gen1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "7aebd4cde1c0001",
+    "type": 41,
+    "x": -21512.91796875,
+    "y": -3448.18359375,
+    "nodeUids": [
+      "7aebd4c5c2c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "brus_amster1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "2490c690574c0001",
+    "type": 41,
+    "x": -39483.48046875,
+    "y": -11461.46484375,
+    "nodeUids": [
+      "2490c690fccc0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "lon_fel1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "7afdb09430c0001",
+    "type": 41,
+    "x": -42977.04296875,
+    "y": -26723.328125,
+    "nodeUids": [
+      "7afdb09241c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "shef_bir1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "7aebde2e30c0001",
+    "type": 41,
+    "x": -50073.59375,
+    "y": -48173.02734375,
+    "nodeUids": [
+      "7aebde2a14c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "glas_aber1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "253d2b405e8c0000",
+    "type": 41,
+    "x": -53858.7265625,
+    "y": -14691.84765625,
+    "nodeUids": [
+      "253d2b40098c0001"
+    ],
+    "checkpoints": [
+      {
+        "route": "car_bir1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "2d7144d8df4c0001",
+    "type": 41,
+    "x": -59665.23828125,
+    "y": -7824.10546875,
+    "nodeUids": [
+      "2d7144d8a0cc0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "ply_dov1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "35fd2b5ce78c0001",
+    "type": 41,
+    "x": 44356.078125,
+    "y": 29535.390625,
+    "nodeUids": [
+      "35fd2b5c88cc0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "res_tar1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "3676c46c758c0001",
+    "type": 41,
+    "x": 56160.01953125,
+    "y": 37313.01171875,
+    "nodeUids": [
+      "3676c46cd38c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "ple_sof1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "4092da64d88c0001",
+    "type": 41,
+    "x": 66679.015625,
+    "y": 24245.65625,
+    "nodeUids": [
+      "4092da640c4c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "gal_las1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "362844c8b8cc0000",
+    "type": 41,
+    "x": 77798.296875,
+    "y": 48840.20703125,
+    "nodeUids": [
+      "362844c8eb8c0001"
+    ],
+    "checkpoints": [
+      {
+        "route": "ist_edi1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "4e8a34dc45cc0001",
+    "type": 41,
+    "x": 28458.89453125,
+    "y": 35733.46875,
+    "nodeUids": [
+      "4e8a34dc4acc0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "zen_kar1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "4e650ff82bcc0001",
+    "type": 41,
+    "x": 38826.4921875,
+    "y": 31528.73046875,
+    "nodeUids": [
+      "4e650ff8170c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "beo_uzi1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "4e454a980c0c0001",
+    "type": 41,
+    "x": 40692.41796875,
+    "y": 37169.59375,
+    "nodeUids": [
+      "4e454a98540c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "kra_nov1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "4e8f6d88d70c0001",
+    "type": 41,
+    "x": 41556.44921875,
+    "y": 48980.2734375,
+    "nodeUids": [
+      "4e8f6d88a7cc0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "sko_bit1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "2c549da8094c0000",
+    "type": 41,
+    "x": 33858.53515625,
+    "y": -62428.57421875,
+    "nodeUids": [
+      "2c549da8d50c0001"
+    ],
+    "checkpoints": [
+      {
+        "route": "por_hel1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "40b443e0394c0000",
+    "type": 41,
+    "x": 53129.34765625,
+    "y": -31539.29296875,
+    "nodeUids": [
+      "40b443e094cc0001"
+    ],
+    "checkpoints": [
+      {
+        "route": "dau_rez1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "2c0eca20f28c0001",
+    "type": 41,
+    "x": 56278.03515625,
+    "y": -55924.97265625,
+    "nodeUids": [
+      "2c0eca2084cc0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "sos_pet1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "2d4b6d18c38c0000",
+    "type": 41,
+    "x": 34366.36328125,
+    "y": 3196.25390625,
+    "nodeUids": [
+      "2d4b6d187a0c0001"
+    ],
+    "checkpoints": [
+      {
+        "route": "kra_ban1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "7aebe7fbe1c0001",
+    "type": 41,
+    "x": 34782.02734375,
+    "y": -17781.96484375,
+    "nodeUids": [
+      "7aebe7f545c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "ols_bial1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "7aebec740bc0001",
+    "type": 41,
+    "x": 39154.27734375,
+    "y": 11278.921875,
+    "nodeUids": [
+      "7aebec7e3fc0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "kos_bud1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "4126d95c258c0000",
+    "type": 41,
+    "x": 37222.86328125,
+    "y": -9486.42578125,
+    "nodeUids": [
+      "4126d95cbd8c0001"
+    ],
+    "checkpoints": [
+      {
+        "route": "war_kat1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "252336fc2a830001",
+    "type": 41,
+    "x": -15568.83203125,
+    "y": 37272.6015625,
+    "nodeUids": [
+      "252336fcad830000"
+    ],
+    "checkpoints": [
+      {
+        "route": "nic_nic1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "2c92fa486e4c0000",
+    "type": 41,
+    "x": -38647.875,
+    "y": 35669.24609375,
+    "nodeUids": [
+      "2c92fa48084c0001"
+    ],
+    "checkpoints": [
+      {
+        "route": "tou_mon1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "7bfc5fa988c0001",
+    "type": 41,
+    "x": -48739.28125,
+    "y": 12968,
+    "nodeUids": [
+      "7bfc5fac59c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "nan_civ1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "4101bec838cc0000",
+    "type": 41,
+    "x": -56437.5078125,
+    "y": 5189.25390625,
+    "nodeUids": [
+      "4101bec8b70c0001"
+    ],
+    "checkpoints": [
+      {
+        "route": "bre_ren1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "57f5ea16f31c0048",
+    "type": 41,
+    "x": 41688.91015625,
+    "y": 60773.890625,
+    "nodeUids": [
+      "57f5ea16a41c00b5"
+    ],
+    "checkpoints": [
+      {
+        "route": "ioa_vlo1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "57decb2b449c0089",
+    "type": 41,
+    "x": 51153.41015625,
+    "y": 54479.58984375,
+    "nodeUids": [
+      "57decb2a919c012b"
+    ],
+    "checkpoints": [
+      {
+        "route": "the_tri1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "57fb4cac351c0055",
+    "type": 41,
+    "x": 57437.0546875,
+    "y": 70991.09375,
+    "nodeUids": [
+      "57fb4cacf11c00c7"
+    ],
+    "checkpoints": [
+      {
+        "route": "ath_ath1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "4b8f215c77400001",
+    "type": 41,
+    "x": -37453.5859375,
+    "y": 48006.8125,
+    "nodeUids": [
+      "4b8f215c6300007d"
+    ],
+    "checkpoints": [
+      {
+        "route": "barc_vand1",
+        "checkpoint": "active"
+      },
+      {
+        "route": "barc_vand1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "409f35acd8cc0001",
+    "type": 41,
+    "x": -59187.16796875,
+    "y": 41757.4296875,
+    "nodeUids": [
+      "409f35acb60c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "sor_ter1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "3ba6a94c408c0001",
+    "type": 41,
+    "x": -66141.375,
+    "y": 50795.3671875,
+    "nodeUids": [
+      "3ba6a94c6d4c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "mad_pue1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "3bf160500f4c0000",
+    "type": 41,
+    "x": -70567.96875,
+    "y": 30631.4609375,
+    "nodeUids": [
+      "3bf16050db0c0001"
+    ],
+    "checkpoints": [
+      {
+        "route": "gij_nav1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "3b832a94160c0002",
+    "type": 41,
+    "x": -83927.234375,
+    "y": 63869.55078125,
+    "nodeUids": [
+      "3b832a9495cc001c"
+    ],
+    "checkpoints": [
+      {
+        "route": "hue_sev1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "3bce1f6c9c0c0000",
+    "type": 41,
+    "x": -88931.09375,
+    "y": 62931.984375,
+    "nodeUids": [
+      "3bce1f6cbc4c0001"
+    ],
+    "checkpoints": [
+      {
+        "route": "olh_lis1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "3c171020f94c0001",
+    "type": 41,
+    "x": -92471.6171875,
+    "y": 50756.08984375,
+    "nodeUids": [
+      "3c17102091cc0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "lis_pon1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "249ff8c4d4830001",
+    "type": 41,
+    "x": 8464.8828125,
+    "y": 70651.5625,
+    "nodeUids": [
+      "249ff8c4f2830000"
+    ],
+    "checkpoints": [
+      {
+        "route": "pal_cat1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "24ef8d20220c0001",
+    "type": 41,
+    "x": 13232.2734375,
+    "y": 56792.3125,
+    "nodeUids": [
+      "24ef8d206acc0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "nap_ter1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "408eb64c9c8c0000",
+    "type": 41,
+    "x": -10083.3671875,
+    "y": 64437.8046875,
+    "nodeUids": [
+      "408eb648244c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "cag_sas1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "2d2b4eb0b10c0001",
+    "type": 41,
+    "x": 1157.40625,
+    "y": -25721.140625,
+    "nodeUids": [
+      "2d2b4eb07d8c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "ode_hir1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "40fc8bcc2c8c0001",
+    "type": 41,
+    "x": 7335.0234375,
+    "y": -40354.90625,
+    "nodeUids": [
+      "40fc8bccd88c0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "got_hel1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "252349ecac4c0000",
+    "type": 41,
+    "x": 10764.07421875,
+    "y": -25824.57421875,
+    "nodeUids": [
+      "252349ece8cc0001"
+    ],
+    "checkpoints": [
+      {
+        "route": "tre_esb1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "7aebf1ba07c0001",
+    "type": 41,
+    "x": 17020.95703125,
+    "y": -45038.39453125,
+    "nodeUids": [
+      "7aebf1b95ac0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "lin_kal1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  },
+  {
+    "uid": "7aebfff45ec0001",
+    "type": 41,
+    "x": -10721.74609375,
+    "y": -49426.7734375,
+    "nodeUids": [
+      "7aebfffb0fc0000"
+    ],
+    "checkpoints": [
+      {
+        "route": "stav_osl1",
+        "checkpoint": "offer_point"
+      }
+    ]
+  }
+]

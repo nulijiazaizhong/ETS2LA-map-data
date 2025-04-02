@@ -1,0 +1,292 @@
+[
+  {
+    "token": "munch_inns1",
+    "fromCity": "munchen",
+    "toCity": "salzburg"
+  },
+  {
+    "token": "koln_amster1",
+    "fromCity": "koln",
+    "toCity": "amsterdam"
+  },
+  {
+    "token": "prag_nurn1",
+    "fromCity": "prague",
+    "toCity": "nurnberg"
+  },
+  {
+    "token": "dort_hann1",
+    "fromCity": "dortmund",
+    "toCity": "hannover"
+  },
+  {
+    "token": "brat_graz1",
+    "fromCity": "bratislava",
+    "toCity": "graz"
+  },
+  {
+    "token": "lux_lieg1",
+    "fromCity": "luxembourg",
+    "toCity": "liege"
+  },
+  {
+    "token": "dres_wroc1",
+    "fromCity": "dresden",
+    "toCity": "wroclaw"
+  },
+  {
+    "token": "brus_amster1",
+    "fromCity": "brussel",
+    "toCity": "amsterdam"
+  },
+  {
+    "token": "glas_aber1",
+    "fromCity": "glasgow",
+    "toCity": "aberdeen"
+  },
+  {
+    "token": "ber_szcz1",
+    "fromCity": "berlin",
+    "toCity": "szczecin"
+  },
+  {
+    "token": "ols_bial1",
+    "fromCity": "olsztyn",
+    "toCity": "bialystok"
+  },
+  {
+    "token": "shef_bir1",
+    "fromCity": "sheffield",
+    "toCity": "birmingham"
+  },
+  {
+    "token": "kos_bud1",
+    "fromCity": "kosice",
+    "toCity": "budapest"
+  },
+  {
+    "token": "lin_kal1",
+    "fromCity": "linkoping",
+    "toCity": "kalmar"
+  },
+  {
+    "token": "stav_osl1",
+    "fromCity": "stavanger",
+    "toCity": "oslo"
+  },
+  {
+    "token": "nan_civ1",
+    "fromCity": "nantes",
+    "toCity": "civaux"
+  },
+  {
+    "token": "reim_stra1",
+    "fromCity": "reims",
+    "toCity": "strasbourg"
+  },
+  {
+    "token": "pal_cat1",
+    "fromCity": "palermo",
+    "toCity": "catania"
+  },
+  {
+    "token": "nap_ter1",
+    "fromCity": "napoli",
+    "toCity": "terni"
+  },
+  {
+    "token": "lon_fel1",
+    "fromCity": "london",
+    "toCity": "felixstowe"
+  },
+  {
+    "token": "dij_gen1",
+    "fromCity": "dijon",
+    "toCity": "geneve"
+  },
+  {
+    "token": "lin_br1",
+    "fromCity": "linz",
+    "toCity": "brno"
+  },
+  {
+    "token": "car_bir1",
+    "fromCity": "cardiff",
+    "toCity": "birmingham"
+  },
+  {
+    "token": "sze_deb1",
+    "fromCity": "szeged",
+    "toCity": "debrecen"
+  },
+  {
+    "token": "nic_nic1",
+    "fromCity": "nice",
+    "toCity": "nice"
+  },
+  {
+    "token": "tre_esb1",
+    "fromCity": "trelleborg",
+    "toCity": "esbjerg"
+  },
+  {
+    "token": "sos_pet1",
+    "fromCity": "petersburg",
+    "toCity": "petersburg"
+  },
+  {
+    "token": "por_hel1",
+    "fromCity": "pori",
+    "toCity": "helsinki"
+  },
+  {
+    "token": "tou_mon1",
+    "fromCity": "toulouse",
+    "toCity": "montpellier"
+  },
+  {
+    "token": "ver_par1",
+    "fromCity": "verona",
+    "toCity": "parma"
+  },
+  {
+    "token": "ode_hir1",
+    "fromCity": "odense",
+    "toCity": "hirtshals"
+  },
+  {
+    "token": "kra_ban1",
+    "fromCity": "krakow",
+    "toCity": "bystrica"
+  },
+  {
+    "token": "ply_dov1",
+    "fromCity": "plymouth",
+    "toCity": "dover"
+  },
+  {
+    "token": "ple_sof1",
+    "fromCity": "pleven",
+    "toCity": "sofia"
+  },
+  {
+    "token": "ist_edi1",
+    "fromCity": "istanbul",
+    "toCity": "edirne"
+  },
+  {
+    "token": "res_tar1",
+    "fromCity": "resita",
+    "toCity": "targu_mures"
+  },
+  {
+    "token": "hue_sev1",
+    "fromCity": "huelva",
+    "toCity": "sevilla"
+  },
+  {
+    "token": "mad_pue1",
+    "fromCity": "madrid",
+    "toCity": "puertollano"
+  },
+  {
+    "token": "olh_lis1",
+    "fromCity": "olhao",
+    "toCity": "setubal"
+  },
+  {
+    "token": "gij_nav1",
+    "fromCity": "gijon",
+    "toCity": "navia"
+  },
+  {
+    "token": "lis_pon1",
+    "fromCity": "lisboa",
+    "toCity": "ponte_de_sor"
+  },
+  {
+    "token": "cag_sas1",
+    "fromCity": "cagliari",
+    "toCity": "sassari"
+  },
+  {
+    "token": "dau_rez1",
+    "fromCity": "daugavpils",
+    "toCity": "rezekne"
+  },
+  {
+    "token": "gal_las1",
+    "fromCity": "galati",
+    "toCity": "iasi"
+  },
+  {
+    "token": "sor_ter1",
+    "fromCity": "soria",
+    "toCity": "teruel"
+  },
+  {
+    "token": "got_hel1",
+    "fromCity": "goteborg",
+    "toCity": "helsingborg"
+  },
+  {
+    "token": "bre_ren1",
+    "fromCity": "brest",
+    "toCity": "rennes"
+  },
+  {
+    "token": "bre_tra1",
+    "fromCity": "bremen",
+    "toCity": "travemunde"
+  },
+  {
+    "token": "war_kat1",
+    "fromCity": "warszawa",
+    "toCity": "katowice"
+  },
+  {
+    "token": "barc_vand1",
+    "fromCity": "barcelona",
+    "toCity": "vandellos"
+  },
+  {
+    "token": "kra_nov1",
+    "fromCity": "kragujevac",
+    "toCity": "novi_sad"
+  },
+  {
+    "token": "beo_uzi1",
+    "fromCity": "beograd",
+    "toCity": "kragujevac"
+  },
+  {
+    "token": "kop_nov1",
+    "fromCity": "koper",
+    "toCity": "novo_mesto"
+  },
+  {
+    "token": "zen_kar1",
+    "fromCity": "zenica",
+    "toCity": "karakaj"
+  },
+  {
+    "token": "sko_bit1",
+    "fromCity": "skopje",
+    "toCity": "bitola"
+  },
+  {
+    "token": "the_tri1",
+    "fromCity": "thessaloniki",
+    "toCity": "trikala"
+  },
+  {
+    "token": "ioa_vlo1",
+    "fromCity": "ioannina",
+    "toCity": "vlore"
+  },
+  {
+    "token": "ath_ath1",
+    "fromCity": "athens",
+    "toCity": "athens"
+  }
+]
