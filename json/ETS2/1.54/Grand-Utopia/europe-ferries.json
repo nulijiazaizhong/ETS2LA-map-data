@@ -1,0 +1,3661 @@
+[
+  {
+    "token": "priwall",
+    "name": "Priwall",
+    "connections": [
+      {
+        "token": "travemunde_p",
+        "price": 65,
+        "time": 30,
+        "distance": 1,
+        "intermediatePoints": [],
+        "name": "Travemünde",
+        "nodeUid": "4cd14de893e66d2e",
+        "x": 3542.48828125,
+        "y": -19462.359375
+      }
+    ],
+    "train": false,
+    "nodeUid": "4cd14de872a66d66",
+    "x": 3655.8984375,
+    "y": -19429.72265625
+  },
+  {
+    "token": "travemunde_p",
+    "name": "Travemünde",
+    "connections": [
+      {
+        "token": "priwall",
+        "price": 65,
+        "time": 30,
+        "distance": 1,
+        "intermediatePoints": [],
+        "name": "Priwall",
+        "nodeUid": "4cd14de872a66d66",
+        "x": 3655.8984375,
+        "y": -19429.72265625
+      }
+    ],
+    "train": false,
+    "nodeUid": "4cd14de893e66d2e",
+    "x": 3542.48828125,
+    "y": -19462.359375
+  },
+  {
+    "token": "calais",
+    "name": "Calais",
+    "connections": [
+      {
+        "token": "dover",
+        "price": 384,
+        "time": 91,
+        "distance": 49,
+        "intermediatePoints": [],
+        "name": "Dover",
+        "nodeUid": "2935de3e10bd9d",
+        "x": -32502.046875,
+        "y": -7178.51171875
+      }
+    ],
+    "train": false,
+    "nodeUid": "2935deecb08e89",
+    "x": -30888.0234375,
+    "y": -5464.48046875
+  },
+  {
+    "token": "dover",
+    "name": "Dover",
+    "connections": [
+      {
+        "token": "calais",
+        "price": 384,
+        "time": 91,
+        "distance": 49,
+        "intermediatePoints": [],
+        "name": "Calais",
+        "nodeUid": "2935deecb08e89",
+        "x": -30888.0234375,
+        "y": -5464.48046875
+      }
+    ],
+    "train": false,
+    "nodeUid": "2935de3e10bd9d",
+    "x": -32502.046875,
+    "y": -7178.51171875
+  },
+  {
+    "token": "europoort",
+    "name": "Europort",
+    "connections": [
+      {
+        "token": "harwich",
+        "price": 960,
+        "time": 480,
+        "distance": 207,
+        "intermediatePoints": [],
+        "name": "Harwich",
+        "nodeUid": "2935de4410bd9b",
+        "x": -32885.00390625,
+        "y": -13168.84375
+      },
+      {
+        "token": "hull",
+        "price": 995,
+        "time": 660,
+        "distance": 370,
+        "intermediatePoints": [],
+        "name": "Hull",
+        "nodeUid": "2935de5900bea9",
+        "x": -35762.10546875,
+        "y": -28856.4765625
+      }
+    ],
+    "train": false,
+    "nodeUid": "2935defcc0c09d",
+    "x": -22193.1328125,
+    "y": -9058.68359375
+  },
+  {
+    "token": "harwich",
+    "name": "Harwich",
+    "connections": [
+      {
+        "token": "europoort",
+        "price": 960,
+        "time": 480,
+        "distance": 207,
+        "intermediatePoints": [],
+        "name": "Europort",
+        "nodeUid": "2935defcc0c09d",
+        "x": -22193.1328125,
+        "y": -9058.68359375
+      }
+    ],
+    "train": false,
+    "nodeUid": "2935de4410bd9b",
+    "x": -32885.00390625,
+    "y": -13168.84375
+  },
+  {
+    "token": "hull",
+    "name": "Hull",
+    "connections": [
+      {
+        "token": "europoort",
+        "price": 995,
+        "time": 660,
+        "distance": 370,
+        "intermediatePoints": [],
+        "name": "Europort",
+        "nodeUid": "2935defcc0c09d",
+        "x": -22193.1328125,
+        "y": -9058.68359375
+      },
+      {
+        "token": "esbjerg",
+        "price": 1314,
+        "time": 1140,
+        "distance": 615,
+        "intermediatePoints": [],
+        "name": "Esbjerg",
+        "nodeUid": "35a4b5cefc60000",
+        "x": -5041.60546875,
+        "y": -27484.2734375
+      }
+    ],
+    "train": false,
+    "nodeUid": "2935de5900bea9",
+    "x": -35762.10546875,
+    "y": -28856.4765625
+  },
+  {
+    "token": "ijmuiden",
+    "name": "IJmuiden",
+    "connections": [
+      {
+        "token": "tyne",
+        "price": 1212,
+        "time": 990,
+        "distance": 508,
+        "intermediatePoints": [],
+        "name": "Tyne",
+        "nodeUid": "2935de6140bd99",
+        "x": -38335.5703125,
+        "y": -39469.046875
+      }
+    ],
+    "train": false,
+    "nodeUid": "2935dee6208e8b",
+    "x": -20193.05078125,
+    "y": -12237.359375
+  },
+  {
+    "token": "plymouth",
+    "name": "Plymouth",
+    "connections": [
+      {
+        "token": "roscoff",
+        "price": 910,
+        "time": 420,
+        "distance": 196,
+        "intermediatePoints": [],
+        "name": "Roscoff",
+        "nodeUid": "68843139eb50000",
+        "x": -53501.67578125,
+        "y": 2863.40234375
+      },
+      {
+        "token": "bilbao",
+        "price": 1172,
+        "time": 1076,
+        "distance": 842,
+        "intermediatePoints": [
+          {
+            "x": -60546.875,
+            "y": -5859.375,
+            "rotation": 1.5707963267948966
+          },
+          {
+            "x": -62500,
+            "y": 2343.75,
+            "rotation": 2.094407804564866
+          },
+          {
+            "x": -57890.625,
+            "y": 32558.59375,
+            "rotation": 1.5707963267948966
+          },
+          {
+            "x": -58125,
+            "y": 32792.96875,
+            "rotation": 2.967105828571459
+          }
+        ],
+        "name": "Bilbao",
+        "nodeUid": "3b26494851470000",
+        "x": -58280.36328125,
+        "y": 32802.8515625
+      },
+      {
+        "token": "santander",
+        "price": 1176,
+        "time": 1080,
+        "distance": 845,
+        "intermediatePoints": [
+          {
+            "x": -60546.875,
+            "y": -5859.375,
+            "rotation": 1.5707963267948966
+          },
+          {
+            "x": -62500,
+            "y": 2343.75,
+            "rotation": 2.094407804564866
+          },
+          {
+            "x": -61132.8125,
+            "y": 31796.875,
+            "rotation": 1.5707963267948966
+          },
+          {
+            "x": -61328.125,
+            "y": 31992.1875,
+            "rotation": 3.141592653589793
+          },
+          {
+            "x": -61445.3125,
+            "y": 31796.875,
+            "rotation": -0.5236114777699694
+          }
+        ],
+        "name": "Santander",
+        "nodeUid": "3b26475401c70000",
+        "x": -61328.66796875,
+        "y": 31760.48828125
+      }
+    ],
+    "train": false,
+    "nodeUid": "69a25e4cb810000",
+    "x": -60544.796875,
+    "y": -7383.90625
+  },
+  {
+    "token": "rostock",
+    "name": "Rostock",
+    "connections": [
+      {
+        "token": "gedser",
+        "price": 404,
+        "time": 105,
+        "distance": 65,
+        "intermediatePoints": [],
+        "name": "Gedser",
+        "nodeUid": "35a5a2aadfb0000",
+        "x": 6260.18359375,
+        "y": -21690.640625
+      },
+      {
+        "token": "trelleborg",
+        "price": 668,
+        "time": 335,
+        "distance": 180,
+        "intermediatePoints": [],
+        "name": "Trelleborg",
+        "nodeUid": "356380bce9b0000",
+        "x": 10742.9140625,
+        "y": -25829.14453125
+      }
+    ],
+    "train": false,
+    "nodeUid": "4cd14de818e6c111",
+    "x": 6125.2265625,
+    "y": -20549.5546875
+  },
+  {
+    "token": "tunnel_c",
+    "name": "Calais",
+    "connections": [
+      {
+        "token": "tunnel_d",
+        "price": 300,
+        "time": 35,
+        "distance": 60,
+        "intermediatePoints": [],
+        "name": "Folkestone",
+        "nodeUid": "2935dee590be1e",
+        "x": -36081.69140625,
+        "y": -7001.02734375
+      }
+    ],
+    "train": true,
+    "nodeUid": "2935de48308ece",
+    "x": -30793.66796875,
+    "y": -3107.8671875
+  },
+  {
+    "token": "tunnel_d",
+    "name": "Folkestone",
+    "connections": [
+      {
+        "token": "tunnel_c",
+        "price": 300,
+        "time": 35,
+        "distance": 60,
+        "intermediatePoints": [],
+        "name": "Calais",
+        "nodeUid": "2935de48308ece",
+        "x": -30793.66796875,
+        "y": -3107.8671875
+      }
+    ],
+    "train": true,
+    "nodeUid": "2935dee590be1e",
+    "x": -36081.69140625,
+    "y": -7001.02734375
+  },
+  {
+    "token": "tyne",
+    "name": "Tyne",
+    "connections": [
+      {
+        "token": "ijmuiden",
+        "price": 1212,
+        "time": 990,
+        "distance": 508,
+        "intermediatePoints": [],
+        "name": "IJmuiden",
+        "nodeUid": "2935dee6208e8b",
+        "x": -20193.05078125,
+        "y": -12237.359375
+      }
+    ],
+    "train": false,
+    "nodeUid": "2935de6140bd99",
+    "x": -38335.5703125,
+    "y": -39469.046875
+  },
+  {
+    "token": "travemunde",
+    "name": "Travemünde",
+    "connections": [
+      {
+        "token": "helsinki",
+        "price": 2525,
+        "time": 1770,
+        "distance": 1255,
+        "intermediatePoints": [
+          {
+            "x": 7415.71875,
+            "y": -21511.23046875,
+            "rotation": -0.41024416824378235
+          },
+          {
+            "x": 9086.9453125,
+            "y": -22767.3515625,
+            "rotation": -0.40527677688421415
+          },
+          {
+            "x": 11524.1640625,
+            "y": -23273.86328125,
+            "rotation": -0.025010638687933358
+          },
+          {
+            "x": 16842.765625,
+            "y": -22961.37109375,
+            "rotation": -0.12237825144990021
+          },
+          {
+            "x": 20944.921875,
+            "y": -24432.55078125,
+            "rotation": -0.7282370634777897
+          },
+          {
+            "x": 32308.07421875,
+            "y": -36752.515625,
+            "rotation": -1.0108274943015647
+          },
+          {
+            "x": 36448.703125,
+            "y": -49163.15234375,
+            "rotation": -0.9172864537724263
+          },
+          {
+            "x": 44819.25390625,
+            "y": -53090.83203125,
+            "rotation": -0.5694845427994281
+          },
+          {
+            "x": 45494.80078125,
+            "y": -54954.8359375,
+            "rotation": -1.3512091024538109
+          },
+          {
+            "x": 45300.9375,
+            "y": -55249.046875,
+            "rotation": -2.153420615102605
+          }
+        ],
+        "name": "Helsinki",
+        "nodeUid": "2a19f280b80a0001",
+        "x": 45252.69140625,
+        "y": -55317.1640625
+      },
+      {
+        "token": "liepaja",
+        "price": 1375,
+        "time": 1590,
+        "distance": 730,
+        "intermediatePoints": [
+          {
+            "x": 7415.71875,
+            "y": -21511.23046875,
+            "rotation": -0.41024416824378235
+          },
+          {
+            "x": 9086.9453125,
+            "y": -22767.3515625,
+            "rotation": -0.40527677688421415
+          },
+          {
+            "x": 11524.1640625,
+            "y": -23273.86328125,
+            "rotation": -0.025010638687933358
+          },
+          {
+            "x": 16842.765625,
+            "y": -22961.37109375,
+            "rotation": -0.12237825144990021
+          },
+          {
+            "x": 20944.921875,
+            "y": -24432.55078125,
+            "rotation": -0.6532680611822331
+          },
+          {
+            "x": 26940.45703125,
+            "y": -30689.87890625,
+            "rotation": -0.791461643623792
+          },
+          {
+            "x": 28981.37109375,
+            "y": -32567.0546875,
+            "rotation": -0.3091709965060099
+          },
+          {
+            "x": 35222.2265625,
+            "y": -33335.18359375,
+            "rotation": -0.12246482895747365
+          }
+        ],
+        "name": "Liepāja",
+        "nodeUid": "2a19bfbc11c10002",
+        "x": 35315.53515625,
+        "y": -33380.7734375
+      }
+    ],
+    "train": false,
+    "nodeUid": "4cd14de828e680bf",
+    "x": 2930.96875,
+    "y": -18988.32421875
+  },
+  {
+    "token": "trieste",
+    "name": "Trieste",
+    "connections": [
+      {
+        "token": "ancona",
+        "price": 335,
+        "time": 620,
+        "distance": 250,
+        "intermediatePoints": [
+          {
+            "x": 9765.625,
+            "y": 27343.75,
+            "rotation": 2.435166597933737
+          },
+          {
+            "x": 9174,
+            "y": 34264,
+            "rotation": 1.0802493779679874
+          },
+          {
+            "x": 11009,
+            "y": 39056,
+            "rotation": 1.3282448433677059
+          }
+        ],
+        "name": "Ancona",
+        "nodeUid": "4e29bb687c470000",
+        "x": 11071.125,
+        "y": 39279.2265625
+      },
+      {
+        "token": "bari",
+        "price": 660,
+        "time": 1150,
+        "distance": 645,
+        "intermediatePoints": [
+          {
+            "x": 9765.625,
+            "y": 27343.75,
+            "rotation": 2.435166597933737
+          },
+          {
+            "x": 9174,
+            "y": 34264,
+            "rotation": 1.0802493779679874
+          },
+          {
+            "x": 22656.25,
+            "y": 48828.125,
+            "rotation": 0.7853981633974483
+          },
+          {
+            "x": 24871,
+            "y": 53554,
+            "rotation": 1.9352039159400993
+          }
+        ],
+        "name": "Bari",
+        "nodeUid": "4e29c86c0dc70000",
+        "x": 24787.71875,
+        "y": 53956.23828125
+      },
+      {
+        "token": "igoumenitsa",
+        "price": 1590,
+        "time": 1620,
+        "distance": 1025,
+        "intermediatePoints": [
+          {
+            "x": 10018.12109375,
+            "y": 27310.84375,
+            "rotation": 2.739992330239924
+          },
+          {
+            "x": 9158.6875,
+            "y": 28758.1953125,
+            "rotation": 1.8862902725052078
+          },
+          {
+            "x": 10236.5390625,
+            "y": 34185.25,
+            "rotation": 0.7720044561015164
+          },
+          {
+            "x": 23180.0859375,
+            "y": 45780.98828125,
+            "rotation": 0.7467826504082777
+          },
+          {
+            "x": 29312.51953125,
+            "y": 52148.4375,
+            "rotation": 0.8679227554344952
+          },
+          {
+            "x": 38499.546875,
+            "y": 60970.4921875,
+            "rotation": 0.6336025490323247
+          },
+          {
+            "x": 39399.15625,
+            "y": 62634.9140625,
+            "rotation": 0.8731289473933347
+          }
+        ],
+        "name": "Igoumenitsa",
+        "nodeUid": "52c03084e906a0ca",
+        "x": 39570.68359375,
+        "y": 62912.69921875
+      },
+      {
+        "token": "patras",
+        "price": 1860,
+        "time": 1980,
+        "distance": 1200,
+        "intermediatePoints": [
+          {
+            "x": 9997.71875,
+            "y": 27236.69921875,
+            "rotation": 2.739992330239924
+          },
+          {
+            "x": 9000.9140625,
+            "y": 28752.9765625,
+            "rotation": 1.8862902725052078
+          },
+          {
+            "x": 10089.8125,
+            "y": 34294.12890625,
+            "rotation": 0.7720044561015164
+          },
+          {
+            "x": 29195.5625,
+            "y": 52242.171875,
+            "rotation": 0.8679227554344952
+          },
+          {
+            "x": 37995.5625,
+            "y": 64489.61328125,
+            "rotation": 0.9773875864216662
+          },
+          {
+            "x": 40922.58984375,
+            "y": 68146.34375,
+            "rotation": 0.4678348809607112
+          },
+          {
+            "x": 44060.4140625,
+            "y": 70229.25390625,
+            "rotation": 0.18766863585187146
+          },
+          {
+            "x": 46288.16796875,
+            "y": 69987.53125,
+            "rotation": 0.38094628948775283
+          }
+        ],
+        "name": "Patras",
+        "nodeUid": "55964afdb41e195f",
+        "x": 46600.04296875,
+        "y": 70306.4375
+      }
+    ],
+    "train": false,
+    "nodeUid": "4ebad234d5c70000",
+    "x": 10385.59765625,
+    "y": 27198.74609375
+  },
+  {
+    "token": "bralia",
+    "name": "Brăila",
+    "connections": [
+      {
+        "token": "smardan",
+        "price": 65,
+        "time": 30,
+        "distance": 1,
+        "intermediatePoints": [],
+        "name": "Smârdan",
+        "nodeUid": "3106c3500dcb0001",
+        "x": 68353.60546875,
+        "y": 27051.3203125
+      }
+    ],
+    "train": false,
+    "nodeUid": "3106c2d4888b0000",
+    "x": 68167.0703125,
+    "y": 26733.55078125
+  },
+  {
+    "token": "smardan",
+    "name": "Smârdan",
+    "connections": [
+      {
+        "token": "bralia",
+        "price": 65,
+        "time": 30,
+        "distance": 1,
+        "intermediatePoints": [],
+        "name": "Brăila",
+        "nodeUid": "3106c2d4888b0000",
+        "x": 68167.0703125,
+        "y": 26733.55078125
+      }
+    ],
+    "train": false,
+    "nodeUid": "3106c3500dcb0001",
+    "x": 68353.60546875,
+    "y": 27051.3203125
+  },
+  {
+    "token": "durres",
+    "name": "Durrës",
+    "connections": [
+      {
+        "token": "ancona",
+        "price": 615,
+        "time": 1080,
+        "distance": 580,
+        "intermediatePoints": [
+          {
+            "x": 35895,
+            "y": 51908,
+            "rotation": 2.6868733787688237
+          },
+          {
+            "x": 35753,
+            "y": 52275,
+            "rotation": 1.6413859166137703
+          },
+          {
+            "x": 34982,
+            "y": 52300,
+            "rotation": -2.4057991540578
+          },
+          {
+            "x": 12130,
+            "y": 38952,
+            "rotation": -2.534148055602145
+          },
+          {
+            "x": 11432,
+            "y": 38705,
+            "rotation": 3.049074032470146
+          },
+          {
+            "x": 11009,
+            "y": 39056,
+            "rotation": 1.3282448433677059
+          }
+        ],
+        "name": "Ancona",
+        "nodeUid": "4e29bb687c470000",
+        "x": 11071.125,
+        "y": 39279.2265625
+      },
+      {
+        "token": "bari",
+        "price": 420,
+        "time": 540,
+        "distance": 225,
+        "intermediatePoints": [
+          {
+            "x": 35895,
+            "y": 51908,
+            "rotation": 2.6868733787688237
+          },
+          {
+            "x": 35753,
+            "y": 52275,
+            "rotation": 1.6413859166137703
+          },
+          {
+            "x": 34982,
+            "y": 52300,
+            "rotation": -2.4057991540578
+          },
+          {
+            "x": 30728,
+            "y": 51052,
+            "rotation": -3.050932766389048
+          },
+          {
+            "x": 24871,
+            "y": 53554,
+            "rotation": 1.9352039159400993
+          }
+        ],
+        "name": "Bari",
+        "nodeUid": "4e29c86c0dc70000",
+        "x": 24787.71875,
+        "y": 53956.23828125
+      }
+    ],
+    "train": false,
+    "nodeUid": "4c9744fc49c70000",
+    "x": 36060.83203125,
+    "y": 51817.3203125
+  },
+  {
+    "token": "split",
+    "name": "Split",
+    "connections": [
+      {
+        "token": "ancona",
+        "price": 315,
+        "time": 600,
+        "distance": 240,
+        "intermediatePoints": [
+          {
+            "x": 11432,
+            "y": 38705,
+            "rotation": 3.049074032470146
+          },
+          {
+            "x": 11009,
+            "y": 39056,
+            "rotation": 1.3282448433677059
+          }
+        ],
+        "name": "Ancona",
+        "nodeUid": "4e29bb687c470000",
+        "x": 11071.125,
+        "y": 39279.2265625
+      }
+    ],
+    "train": false,
+    "nodeUid": "4c974368be470000",
+    "x": 21707.62890625,
+    "y": 41187.7421875
+  },
+  {
+    "token": "helsinki",
+    "name": "Helsinki",
+    "connections": [
+      {
+        "token": "tallinn",
+        "price": 430,
+        "time": 150,
+        "distance": 85,
+        "intermediatePoints": [],
+        "name": "Tallinn",
+        "nodeUid": "2a1994783a810004",
+        "x": 44250.62890625,
+        "y": -51486.29296875
+      },
+      {
+        "token": "travemunde",
+        "price": 2525,
+        "time": 1770,
+        "distance": 1255,
+        "intermediatePoints": [
+          {
+            "x": 45300.9375,
+            "y": -55249.046875,
+            "rotation": 0.9881720384871884
+          },
+          {
+            "x": 45494.80078125,
+            "y": -54954.8359375,
+            "rotation": 1.7903835511359825
+          },
+          {
+            "x": 44819.25390625,
+            "y": -53090.83203125,
+            "rotation": 2.5721081107903654
+          },
+          {
+            "x": 36448.703125,
+            "y": -49163.15234375,
+            "rotation": 2.224306199817367
+          },
+          {
+            "x": 32308.07421875,
+            "y": -36752.515625,
+            "rotation": 2.1307651592882286
+          },
+          {
+            "x": 20944.921875,
+            "y": -24432.55078125,
+            "rotation": 2.4133555901120034
+          },
+          {
+            "x": 16842.765625,
+            "y": -22961.37109375,
+            "rotation": 3.0192144021398932
+          },
+          {
+            "x": 11524.1640625,
+            "y": -23273.86328125,
+            "rotation": 3.11658201490186
+          },
+          {
+            "x": 9086.9453125,
+            "y": -22767.3515625,
+            "rotation": 2.736315876705579
+          },
+          {
+            "x": 7415.71875,
+            "y": -21511.23046875,
+            "rotation": 2.731348485346011
+          }
+        ],
+        "name": "Travemünde",
+        "nodeUid": "4cd14de828e680bf",
+        "x": 2930.96875,
+        "y": -18988.32421875
+      }
+    ],
+    "train": false,
+    "nodeUid": "2a19f280b80a0001",
+    "x": 45252.69140625,
+    "y": -55317.1640625
+  },
+  {
+    "token": "liepaja",
+    "name": "Liepāja",
+    "connections": [
+      {
+        "token": "travemunde",
+        "price": 1375,
+        "time": 1590,
+        "distance": 730,
+        "intermediatePoints": [
+          {
+            "x": 35222.2265625,
+            "y": -33335.18359375,
+            "rotation": 3.0191278246323194
+          },
+          {
+            "x": 28981.37109375,
+            "y": -32567.0546875,
+            "rotation": 2.8324216570837835
+          },
+          {
+            "x": 26940.45703125,
+            "y": -30689.87890625,
+            "rotation": 2.350131009966001
+          },
+          {
+            "x": 20944.921875,
+            "y": -24432.55078125,
+            "rotation": 2.48832459240756
+          },
+          {
+            "x": 16842.765625,
+            "y": -22961.37109375,
+            "rotation": 3.0192144021398932
+          },
+          {
+            "x": 11524.1640625,
+            "y": -23273.86328125,
+            "rotation": 3.11658201490186
+          },
+          {
+            "x": 9086.9453125,
+            "y": -22767.3515625,
+            "rotation": 2.736315876705579
+          },
+          {
+            "x": 7415.71875,
+            "y": -21511.23046875,
+            "rotation": 2.731348485346011
+          }
+        ],
+        "name": "Travemünde",
+        "nodeUid": "4cd14de828e680bf",
+        "x": 2930.96875,
+        "y": -18988.32421875
+      }
+    ],
+    "train": false,
+    "nodeUid": "2a19bfbc11c10002",
+    "x": 35315.53515625,
+    "y": -33380.7734375
+  },
+  {
+    "token": "naantali",
+    "name": "Naantali",
+    "connections": [
+      {
+        "token": "kapellskar",
+        "price": 1170,
+        "time": 540,
+        "distance": 207,
+        "intermediatePoints": [
+          {
+            "x": 35198.71484375,
+            "y": -56065.71484375,
+            "rotation": 1.8015158356996
+          },
+          {
+            "x": 34994.00390625,
+            "y": -55194.2421875,
+            "rotation": 2.3874310548501856
+          },
+          {
+            "x": 33633.8828125,
+            "y": -54595.7109375,
+            "rotation": 1.855254036038536
+          },
+          {
+            "x": 33852.45703125,
+            "y": -51290.015625,
+            "rotation": 2.4254458749537537
+          }
+        ],
+        "name": "Kapellskär",
+        "nodeUid": "2a19cdec9ec10002",
+        "x": 28238.1328125,
+        "y": -51119.76171875
+      }
+    ],
+    "train": false,
+    "nodeUid": "2a19f394aeca0001",
+    "x": 35228.5,
+    "y": -56090.1171875
+  },
+  {
+    "token": "paldiski",
+    "name": "Paldiski",
+    "connections": [
+      {
+        "token": "kapellskar",
+        "price": 1270,
+        "time": 570,
+        "distance": 284,
+        "intermediatePoints": [],
+        "name": "Kapellskär",
+        "nodeUid": "2a19cdec9ec10002",
+        "x": 28238.1328125,
+        "y": -51119.76171875
+      }
+    ],
+    "train": false,
+    "nodeUid": "2a19b29cfd810002",
+    "x": 42247.9765625,
+    "y": -50215.22265625
+  },
+  {
+    "token": "tallinn",
+    "name": "Tallinn",
+    "connections": [
+      {
+        "token": "helsinki",
+        "price": 430,
+        "time": 150,
+        "distance": 85,
+        "intermediatePoints": [],
+        "name": "Helsinki",
+        "nodeUid": "2a19f280b80a0001",
+        "x": 45252.69140625,
+        "y": -55317.1640625
+      }
+    ],
+    "train": false,
+    "nodeUid": "2a1994783a810004",
+    "x": 44250.62890625,
+    "y": -51486.29296875
+  },
+  {
+    "token": "ventspils",
+    "name": "Ventspils",
+    "connections": [
+      {
+        "token": "nynashamn",
+        "price": 1110,
+        "time": 510,
+        "distance": 276,
+        "intermediatePoints": [],
+        "name": "Nynäshamn",
+        "nodeUid": "35672e346800000",
+        "x": 25198.828125,
+        "y": -45949.640625
+      }
+    ],
+    "train": false,
+    "nodeUid": "2a19bd502fc10002",
+    "x": 36640.8203125,
+    "y": -39141.53515625
+  },
+  {
+    "token": "gdansk",
+    "name": "Gdańsk",
+    "connections": [
+      {
+        "token": "nynashamn",
+        "price": 531,
+        "time": 1140,
+        "distance": 515,
+        "intermediatePoints": [
+          {
+            "x": 24444.4765625,
+            "y": -37238.859375,
+            "rotation": -1.7528818719025614
+          }
+        ],
+        "name": "Nynäshamn",
+        "nodeUid": "35672e346800000",
+        "x": 25198.828125,
+        "y": -45949.640625
+      }
+    ],
+    "train": false,
+    "nodeUid": "35b9a3506610000",
+    "x": 28806.5234375,
+    "y": -20566.18359375
+  },
+  {
+    "token": "gdynia",
+    "name": "Gdynia",
+    "connections": [
+      {
+        "token": "karlskrona",
+        "price": 790,
+        "time": 630,
+        "distance": 325,
+        "intermediatePoints": [],
+        "name": "Karlskrona",
+        "nodeUid": "35a4ee333e10000",
+        "x": 17541.984375,
+        "y": -29640.83203125
+      }
+    ],
+    "train": false,
+    "nodeUid": "35b99c5ad710000",
+    "x": 28161.46875,
+    "y": -22095.12109375
+  },
+  {
+    "token": "roscoff",
+    "name": "Roscoff",
+    "connections": [
+      {
+        "token": "plymouth",
+        "price": 1000,
+        "time": 420,
+        "distance": 196,
+        "intermediatePoints": [],
+        "name": "Plymouth",
+        "nodeUid": "69a25e4cb810000",
+        "x": -60544.796875,
+        "y": -7383.90625
+      }
+    ],
+    "train": false,
+    "nodeUid": "68843139eb50000",
+    "x": -53501.67578125,
+    "y": 2863.40234375
+  },
+  {
+    "token": "ajaccio",
+    "name": "Ajaccio",
+    "connections": [
+      {
+        "token": "portotorres",
+        "price": 355,
+        "time": 210,
+        "distance": 135,
+        "intermediatePoints": [],
+        "name": "Porto Torres",
+        "nodeUid": "2feefbfc23470000",
+        "x": -12320.4921875,
+        "y": 54546.2109375
+      }
+    ],
+    "train": false,
+    "nodeUid": "306247104ec30004",
+    "x": -10367.8671875,
+    "y": 49338.2421875
+  },
+  {
+    "token": "porto_vec",
+    "name": "Porto-Vecchio",
+    "connections": [
+      {
+        "token": "marseille",
+        "price": 1193,
+        "time": 840,
+        "distance": 459,
+        "intermediatePoints": [
+          {
+            "x": -7328,
+            "y": 51049.1796875,
+            "rotation": -0.2125151290087295
+          },
+          {
+            "x": -7193.52734375,
+            "y": 51020.1640625,
+            "rotation": 0.19924123410524555
+          },
+          {
+            "x": -7081.5,
+            "y": 51098.953125,
+            "rotation": 1.969049460359445
+          },
+          {
+            "x": -7789.84765625,
+            "y": 52437.4921875,
+            "rotation": 2.1595452849639645
+          },
+          {
+            "x": -8077.59375,
+            "y": 52590.6796875,
+            "rotation": 2.9209650407708367
+          },
+          {
+            "x": -8795.921875,
+            "y": 52663.1328125,
+            "rotation": -3.0347052422644465
+          },
+          {
+            "x": -9546.10546875,
+            "y": 52433.11328125,
+            "rotation": -2.49107209021445
+          },
+          {
+            "x": -23500.37109375,
+            "y": 41472.66796875,
+            "rotation": -2.4575328498049265
+          }
+        ],
+        "name": "Marseille",
+        "nodeUid": "30624524cf830004",
+        "x": -22676.44921875,
+        "y": 40636.9453125
+      }
+    ],
+    "train": false,
+    "nodeUid": "306264208a430004",
+    "x": -7326.85546875,
+    "y": 51049.93359375
+  },
+  {
+    "token": "marseille",
+    "name": "Marseille",
+    "connections": [
+      {
+        "token": "porto_vec",
+        "price": 1193,
+        "time": 840,
+        "distance": 459,
+        "intermediatePoints": [
+          {
+            "x": -23500.37109375,
+            "y": 41472.66796875,
+            "rotation": 0.684059803784867
+          },
+          {
+            "x": -9546.10546875,
+            "y": 52433.11328125,
+            "rotation": 0.6505205633753434
+          },
+          {
+            "x": -8795.921875,
+            "y": 52663.1328125,
+            "rotation": 0.10688741132534674
+          },
+          {
+            "x": -8077.59375,
+            "y": 52590.6796875,
+            "rotation": -0.22062761281895638
+          },
+          {
+            "x": -7789.84765625,
+            "y": 52437.4921875,
+            "rotation": -0.9820473686258288
+          },
+          {
+            "x": -7081.5,
+            "y": 51098.953125,
+            "rotation": -1.1725431932303483
+          },
+          {
+            "x": -7193.52734375,
+            "y": 51020.1640625,
+            "rotation": -2.9423514194845475
+          },
+          {
+            "x": -7328,
+            "y": 51049.1796875,
+            "rotation": 2.929077524581064
+          }
+        ],
+        "name": "Porto-Vecchio",
+        "nodeUid": "306264208a430004",
+        "x": -7326.85546875,
+        "y": 51049.93359375
+      },
+      {
+        "token": "barcelona",
+        "price": 526,
+        "time": 458,
+        "distance": 368,
+        "intermediatePoints": [
+          {
+            "x": -36835.9375,
+            "y": 48437.5,
+            "rotation": -2.967105828571459
+          }
+        ],
+        "name": "Barcelona",
+        "nodeUid": "3b264d08a2870000",
+        "x": -37088.59375,
+        "y": 47999.3046875
+      }
+    ],
+    "train": false,
+    "nodeUid": "30624524cf830004",
+    "x": -22676.44921875,
+    "y": 40636.9453125
+  },
+  {
+    "token": "argostoli",
+    "name": "Argostoli",
+    "connections": [
+      {
+        "token": "igoumenitsb",
+        "price": 720,
+        "time": 460,
+        "distance": 240,
+        "intermediatePoints": [
+          {
+            "x": 41146.75,
+            "y": 71272.46484375,
+            "rotation": -3.1240507514028573
+          },
+          {
+            "x": 40888.3828125,
+            "y": 71455.28125,
+            "rotation": 2.0352721759176493
+          },
+          {
+            "x": 39607.39453125,
+            "y": 71478.99609375,
+            "rotation": -2.340288152093625
+          },
+          {
+            "x": 39598.85546875,
+            "y": 63747.08203125,
+            "rotation": -1.347269639297448
+          },
+          {
+            "x": 39346.5546875,
+            "y": 62900.37109375,
+            "rotation": -0.6871944012250026
+          }
+        ],
+        "name": "Igoumenitsa",
+        "nodeUid": "57b5ec2bfc060001",
+        "x": 39569.3984375,
+        "y": 62839.3671875
+      },
+      {
+        "token": "patras_b",
+        "price": 510,
+        "time": 240,
+        "distance": 131,
+        "intermediatePoints": [
+          {
+            "x": 41146.640625,
+            "y": 71307.1875,
+            "rotation": -3.1240507514028573
+          },
+          {
+            "x": 40933.82421875,
+            "y": 71785.2578125,
+            "rotation": 0.8013037832319978
+          },
+          {
+            "x": 41974.0859375,
+            "y": 72127.04296875,
+            "rotation": 0.04610130634258364
+          },
+          {
+            "x": 43857.76953125,
+            "y": 71408.40234375,
+            "rotation": -0.7652803200686085
+          },
+          {
+            "x": 46246.203125,
+            "y": 70237.02734375,
+            "rotation": 0.38094628948775283
+          }
+        ],
+        "name": "Patras",
+        "nodeUid": "57b55bf4ef060001",
+        "x": 46820.3828125,
+        "y": 70180.83203125
+      }
+    ],
+    "train": false,
+    "nodeUid": "52c03084b2069fac",
+    "x": 41300.85546875,
+    "y": 71354.59765625
+  },
+  {
+    "token": "heraklion",
+    "name": "Heraklion",
+    "connections": [
+      {
+        "token": "piraeus",
+        "price": 760,
+        "time": 540,
+        "distance": 320,
+        "intermediatePoints": [
+          {
+            "x": 66030.7421875,
+            "y": 84669.5859375,
+            "rotation": -1.7093906204592078
+          },
+          {
+            "x": 57517.078125,
+            "y": 71411.4453125,
+            "rotation": -1.238152455529067
+          }
+        ],
+        "name": "Piraeus",
+        "nodeUid": "52c030863e069fa0",
+        "x": 57625.66796875,
+        "y": 71086.09765625
+      }
+    ],
+    "train": false,
+    "nodeUid": "52c030859c069fa2",
+    "x": 66044.640625,
+    "y": 84767.67578125
+  },
+  {
+    "token": "chania",
+    "name": "Chania",
+    "connections": [
+      {
+        "token": "kalamata",
+        "price": 1140,
+        "time": 490,
+        "distance": 290,
+        "intermediatePoints": [
+          {
+            "x": 59191.98828125,
+            "y": 84328.40625,
+            "rotation": -1.8245827822419314
+          },
+          {
+            "x": 54006.7109375,
+            "y": 79505.86328125,
+            "rotation": -2.5939346466727926
+          },
+          {
+            "x": 51007.3359375,
+            "y": 77646.109375,
+            "rotation": -2.5785649708029403
+          }
+        ],
+        "name": "Kalamata",
+        "nodeUid": "52c03086fc069fad",
+        "x": 50955.328125,
+        "y": 77474.1953125
+      }
+    ],
+    "train": false,
+    "nodeUid": "57b77bc225060001",
+    "x": 59256.84375,
+    "y": 84477.2734375
+  },
+  {
+    "token": "chania_b",
+    "name": "Chania",
+    "connections": [
+      {
+        "token": "piraeus",
+        "price": 826,
+        "time": 540,
+        "distance": 290,
+        "intermediatePoints": [
+          {
+            "x": 59239.58984375,
+            "y": 84323.4609375,
+            "rotation": -1.4894797705254226
+          },
+          {
+            "x": 57486.015625,
+            "y": 71402.83203125,
+            "rotation": -1.238152455529067
+          }
+        ],
+        "name": "Piraeus",
+        "nodeUid": "52c030863e069fa0",
+        "x": 57625.66796875,
+        "y": 71086.09765625
+      }
+    ],
+    "train": false,
+    "nodeUid": "52c0308594869fa3",
+    "x": 59218.5859375,
+    "y": 84529.84375
+  },
+  {
+    "token": "chios",
+    "name": "Chios",
+    "connections": [
+      {
+        "token": "mitilini",
+        "price": 468,
+        "time": 135,
+        "distance": 120,
+        "intermediatePoints": [
+          {
+            "x": 66517.71484375,
+            "y": 65612.17578125,
+            "rotation": -2.0127300011758367
+          },
+          {
+            "x": 67702.0859375,
+            "y": 62466.984375,
+            "rotation": -2.167360000746676
+          }
+        ],
+        "name": "Mitilini",
+        "nodeUid": "57b12bc5fd060001",
+        "x": 67448.67578125,
+        "y": 62030.2578125
+      }
+    ],
+    "train": false,
+    "nodeUid": "57b15f8e43860001",
+    "x": 66235.87890625,
+    "y": 65796.3984375
+  },
+  {
+    "token": "chios_b",
+    "name": "Chios",
+    "connections": [
+      {
+        "token": "kavala",
+        "price": 1521,
+        "time": 690,
+        "distance": 350,
+        "intermediatePoints": [
+          {
+            "x": 66480.18359375,
+            "y": 65622.66796875,
+            "rotation": -2.0127300011758367
+          },
+          {
+            "x": 64198.0234375,
+            "y": 62670.81640625,
+            "rotation": -2.182074863086129
+          },
+          {
+            "x": 61731.62109375,
+            "y": 56364.49609375,
+            "rotation": -2.3423976924174355
+          },
+          {
+            "x": 58874.5390625,
+            "y": 53260.12109375,
+            "rotation": -2.3746814214589422
+          },
+          {
+            "x": 58157.91015625,
+            "y": 53030.5078125,
+            "rotation": -2.041696910006871
+          }
+        ],
+        "name": "Kavala",
+        "nodeUid": "52c030844b069fab",
+        "x": 58163.48828125,
+        "y": 52864.24609375
+      },
+      {
+        "token": "piraeus",
+        "price": 840,
+        "time": 540,
+        "distance": 290,
+        "intermediatePoints": [
+          {
+            "x": 66445.734375,
+            "y": 65635.140625,
+            "rotation": -2.0127300011758367
+          },
+          {
+            "x": 62569.953125,
+            "y": 66492.6875,
+            "rotation": 2.5450289796380137
+          },
+          {
+            "x": 60240.4375,
+            "y": 69211.75,
+            "rotation": 1.8723730198424902
+          },
+          {
+            "x": 58092.59765625,
+            "y": 72434.50390625,
+            "rotation": -2.8400159605421997
+          },
+          {
+            "x": 57578.625,
+            "y": 71423.13671875,
+            "rotation": -1.238152455529067
+          }
+        ],
+        "name": "Piraeus",
+        "nodeUid": "52c030863e069fa0",
+        "x": 57625.66796875,
+        "y": 71086.09765625
+      }
+    ],
+    "train": false,
+    "nodeUid": "52c0308460069fa1",
+    "x": 66233.91796875,
+    "y": 65874.296875
+  },
+  {
+    "token": "igoumenitsa",
+    "name": "Igoumenitsa",
+    "connections": [
+      {
+        "token": "ancona",
+        "price": 1425,
+        "time": 1110,
+        "distance": 810,
+        "intermediatePoints": [
+          {
+            "x": 39351.86328125,
+            "y": 62658.65625,
+            "rotation": -2.2684637061964583
+          },
+          {
+            "x": 38460.953125,
+            "y": 61009.859375,
+            "rotation": -2.5394058920606675
+          },
+          {
+            "x": 29075.91015625,
+            "y": 52334.41796875,
+            "rotation": -2.273669898155298
+          },
+          {
+            "x": 12692.55078125,
+            "y": 39365.55859375,
+            "rotation": -2.463836461328118
+          },
+          {
+            "x": 11207.2109375,
+            "y": 38749.31640625,
+            "rotation": 2.865655186911731
+          }
+        ],
+        "name": "Ancona",
+        "nodeUid": "4e29bb687c470000",
+        "x": 11071.125,
+        "y": 39279.2265625
+      },
+      {
+        "token": "bari",
+        "price": 745,
+        "time": 570,
+        "distance": 445,
+        "intermediatePoints": [
+          {
+            "x": 39304.41796875,
+            "y": 62679.7890625,
+            "rotation": -2.2684637061964583
+          },
+          {
+            "x": 38433.53515625,
+            "y": 61054.0078125,
+            "rotation": -2.5394058920606675
+          },
+          {
+            "x": 31682.90625,
+            "y": 56463.6875,
+            "rotation": -2.3151545207794055
+          },
+          {
+            "x": 25011.28125,
+            "y": 53703.453125,
+            "rotation": 2.792352436778194
+          }
+        ],
+        "name": "Bari",
+        "nodeUid": "4e29c86c0dc70000",
+        "x": 24787.71875,
+        "y": 53956.23828125
+      },
+      {
+        "token": "trieste",
+        "price": 1590,
+        "time": 1620,
+        "distance": 1025,
+        "intermediatePoints": [
+          {
+            "x": 39399.15625,
+            "y": 62634.9140625,
+            "rotation": -2.2684637061964583
+          },
+          {
+            "x": 38499.546875,
+            "y": 60970.4921875,
+            "rotation": -2.5079901045574684
+          },
+          {
+            "x": 29312.51953125,
+            "y": 52148.4375,
+            "rotation": -2.273669898155298
+          },
+          {
+            "x": 23180.0859375,
+            "y": 45780.98828125,
+            "rotation": -2.3948100031815156
+          },
+          {
+            "x": 10236.5390625,
+            "y": 34185.25,
+            "rotation": -2.3695881974882766
+          },
+          {
+            "x": 9158.6875,
+            "y": 28758.1953125,
+            "rotation": -1.2553023810845856
+          },
+          {
+            "x": 10018.12109375,
+            "y": 27310.84375,
+            "rotation": -0.4016003233498694
+          }
+        ],
+        "name": "Trieste",
+        "nodeUid": "4ebad234d5c70000",
+        "x": 10385.59765625,
+        "y": 27198.74609375
+      }
+    ],
+    "train": false,
+    "nodeUid": "52c03084e906a0ca",
+    "x": 39570.68359375,
+    "y": 62912.69921875
+  },
+  {
+    "token": "igoumenitsb",
+    "name": "Igoumenitsa",
+    "connections": [
+      {
+        "token": "argostoli",
+        "price": 720,
+        "time": 460,
+        "distance": 240,
+        "intermediatePoints": [
+          {
+            "x": 39346.5546875,
+            "y": 62900.37109375,
+            "rotation": 2.4543982523647907
+          },
+          {
+            "x": 39598.85546875,
+            "y": 63747.08203125,
+            "rotation": 1.7943230142923454
+          },
+          {
+            "x": 39607.39453125,
+            "y": 71478.99609375,
+            "rotation": 0.8013045014961685
+          },
+          {
+            "x": 40888.3828125,
+            "y": 71455.28125,
+            "rotation": -1.1063204776721438
+          },
+          {
+            "x": 41146.75,
+            "y": 71272.46484375,
+            "rotation": 0.017541902186936156
+          }
+        ],
+        "name": "Argostoli",
+        "nodeUid": "52c03084b2069fac",
+        "x": 41300.85546875,
+        "y": 71354.59765625
+      }
+    ],
+    "train": false,
+    "nodeUid": "57b5ec2bfc060001",
+    "x": 39569.3984375,
+    "y": 62839.3671875
+  },
+  {
+    "token": "kalamata",
+    "name": "Kalamata",
+    "connections": [
+      {
+        "token": "chania",
+        "price": 1140,
+        "time": 490,
+        "distance": 290,
+        "intermediatePoints": [
+          {
+            "x": 51007.3359375,
+            "y": 77646.109375,
+            "rotation": 0.563027682786853
+          },
+          {
+            "x": 54006.7109375,
+            "y": 79505.86328125,
+            "rotation": 0.5476580069170004
+          },
+          {
+            "x": 59191.98828125,
+            "y": 84328.40625,
+            "rotation": 1.317009871347862
+          }
+        ],
+        "name": "Chania",
+        "nodeUid": "57b77bc225060001",
+        "x": 59256.84375,
+        "y": 84477.2734375
+      }
+    ],
+    "train": false,
+    "nodeUid": "52c03086fc069fad",
+    "x": 50955.328125,
+    "y": 77474.1953125
+  },
+  {
+    "token": "kavala",
+    "name": "Kavala",
+    "connections": [
+      {
+        "token": "chios_b",
+        "price": 1521,
+        "time": 690,
+        "distance": 350,
+        "intermediatePoints": [
+          {
+            "x": 58157.91015625,
+            "y": 53030.5078125,
+            "rotation": 1.0998957435829222
+          },
+          {
+            "x": 58874.5390625,
+            "y": 53260.12109375,
+            "rotation": 0.7669112321308512
+          },
+          {
+            "x": 61731.62109375,
+            "y": 56364.49609375,
+            "rotation": 0.7991949611723577
+          },
+          {
+            "x": 64198.0234375,
+            "y": 62670.81640625,
+            "rotation": 0.9595177905036646
+          },
+          {
+            "x": 66480.18359375,
+            "y": 65622.66796875,
+            "rotation": 1.1288626524139564
+          }
+        ],
+        "name": "Chios",
+        "nodeUid": "52c0308460069fa1",
+        "x": 66233.91796875,
+        "y": 65874.296875
+      },
+      {
+        "token": "mitilini_b",
+        "price": 1440,
+        "time": 730,
+        "distance": 370,
+        "intermediatePoints": [
+          {
+            "x": 58193.8125,
+            "y": 52983.88671875,
+            "rotation": 1.0998957435829222
+          },
+          {
+            "x": 58910.44140625,
+            "y": 53213.5,
+            "rotation": 0.7669112059878549
+          },
+          {
+            "x": 61771.40234375,
+            "y": 56321.86328125,
+            "rotation": 0.7991949611723577
+          },
+          {
+            "x": 64517.76953125,
+            "y": 60186.703125,
+            "rotation": 0.9349717343565112
+          },
+          {
+            "x": 66182.3984375,
+            "y": 60229.26171875,
+            "rotation": -0.14870377865479006
+          },
+          {
+            "x": 67854.7109375,
+            "y": 61947.5234375,
+            "rotation": 1.758532229227981
+          }
+        ],
+        "name": "Mitilini",
+        "nodeUid": "52c0308642869fa4",
+        "x": 67562.84375,
+        "y": 62171.16796875
+      }
+    ],
+    "train": false,
+    "nodeUid": "52c030844b069fab",
+    "x": 58163.48828125,
+    "y": 52864.24609375
+  },
+  {
+    "token": "lixouri",
+    "name": "Lixouri",
+    "connections": [
+      {
+        "token": "argostoli",
+        "price": 40,
+        "time": 30,
+        "distance": 6,
+        "intermediatePoints": [],
+        "name": "Argostoli",
+        "nodeUid": "52c03084b2069fac",
+        "x": 41300.85546875,
+        "y": 71354.59765625
+      }
+    ],
+    "train": false,
+    "nodeUid": "52c030857106d017",
+    "x": 40732.10546875,
+    "y": 70581.87890625
+  },
+  {
+    "token": "mitilini",
+    "name": "Mitilini",
+    "connections": [
+      {
+        "token": "chios",
+        "price": 468,
+        "time": 135,
+        "distance": 120,
+        "intermediatePoints": [
+          {
+            "x": 67702.0859375,
+            "y": 62466.984375,
+            "rotation": 0.974232652843117
+          },
+          {
+            "x": 66517.71484375,
+            "y": 65612.17578125,
+            "rotation": 1.1288626524139564
+          }
+        ],
+        "name": "Chios",
+        "nodeUid": "57b15f8e43860001",
+        "x": 66235.87890625,
+        "y": 65796.3984375
+      }
+    ],
+    "train": false,
+    "nodeUid": "57b12bc5fd060001",
+    "x": 67448.67578125,
+    "y": 62030.2578125
+  },
+  {
+    "token": "mitilini_b",
+    "name": "Mitilini",
+    "connections": [
+      {
+        "token": "kavala",
+        "price": 1440,
+        "time": 730,
+        "distance": 370,
+        "intermediatePoints": [
+          {
+            "x": 67854.7109375,
+            "y": 61947.5234375,
+            "rotation": -1.3830604243618123
+          },
+          {
+            "x": 66182.3984375,
+            "y": 60229.26171875,
+            "rotation": 2.9928888749350033
+          },
+          {
+            "x": 64517.76953125,
+            "y": 60186.703125,
+            "rotation": -2.206620919233282
+          },
+          {
+            "x": 61771.40234375,
+            "y": 56321.86328125,
+            "rotation": -2.3423976924174355
+          },
+          {
+            "x": 58910.44140625,
+            "y": 53213.5,
+            "rotation": -2.3746814476019384
+          },
+          {
+            "x": 58193.8125,
+            "y": 52983.88671875,
+            "rotation": -2.041696910006871
+          }
+        ],
+        "name": "Kavala",
+        "nodeUid": "52c030844b069fab",
+        "x": 58163.48828125,
+        "y": 52864.24609375
+      }
+    ],
+    "train": false,
+    "nodeUid": "52c0308642869fa4",
+    "x": 67562.84375,
+    "y": 62171.16796875
+  },
+  {
+    "token": "patras",
+    "name": "Patras",
+    "connections": [
+      {
+        "token": "ancona",
+        "price": 1425,
+        "time": 1500,
+        "distance": 960,
+        "intermediatePoints": [
+          {
+            "x": 46271.92578125,
+            "y": 70075.5703125,
+            "rotation": -2.7606463641020405
+          },
+          {
+            "x": 44044.171875,
+            "y": 70317.29296875,
+            "rotation": -2.9539240177379216
+          },
+          {
+            "x": 40924.078125,
+            "y": 68235.8515625,
+            "rotation": -2.673757772629082
+          },
+          {
+            "x": 37912.83984375,
+            "y": 64529.13671875,
+            "rotation": -2.164205067168127
+          },
+          {
+            "x": 28940.6796875,
+            "y": 52446.515625,
+            "rotation": -2.284141613561917
+          },
+          {
+            "x": 12638.72265625,
+            "y": 39440.49609375,
+            "rotation": -2.463836461328118
+          },
+          {
+            "x": 11211.15234375,
+            "y": 38784.69921875,
+            "rotation": 2.865655186911731
+          }
+        ],
+        "name": "Ancona",
+        "nodeUid": "4e29bb687c470000",
+        "x": 11071.125,
+        "y": 39279.2265625
+      },
+      {
+        "token": "bari",
+        "price": 870,
+        "time": 1050,
+        "distance": 600,
+        "intermediatePoints": [
+          {
+            "x": 46258.30859375,
+            "y": 70152.8125,
+            "rotation": -2.7606463641020405
+          },
+          {
+            "x": 44023.73046875,
+            "y": 70394.53515625,
+            "rotation": -2.9539240177379216
+          },
+          {
+            "x": 40919.3046875,
+            "y": 68315.61328125,
+            "rotation": -2.673757772629082
+          },
+          {
+            "x": 37831.1484375,
+            "y": 64565.06640625,
+            "rotation": -2.164205067168127
+          },
+          {
+            "x": 31561.02734375,
+            "y": 56626.2421875,
+            "rotation": -2.3151545207794055
+          },
+          {
+            "x": 25011.28125,
+            "y": 53866.0078125,
+            "rotation": 2.792352436778194
+          }
+        ],
+        "name": "Bari",
+        "nodeUid": "4e29c86c0dc70000",
+        "x": 24787.71875,
+        "y": 53956.23828125
+      },
+      {
+        "token": "trieste",
+        "price": 1860,
+        "time": 1980,
+        "distance": 1200,
+        "intermediatePoints": [
+          {
+            "x": 46288.16796875,
+            "y": 69987.53125,
+            "rotation": -2.7606463641020405
+          },
+          {
+            "x": 44060.4140625,
+            "y": 70229.25390625,
+            "rotation": -2.9539240177379216
+          },
+          {
+            "x": 40922.58984375,
+            "y": 68146.34375,
+            "rotation": -2.673757772629082
+          },
+          {
+            "x": 37995.5625,
+            "y": 64489.61328125,
+            "rotation": -2.164205067168127
+          },
+          {
+            "x": 29195.5625,
+            "y": 52242.171875,
+            "rotation": -2.273669898155298
+          },
+          {
+            "x": 10089.8125,
+            "y": 34294.12890625,
+            "rotation": -2.3695881974882766
+          },
+          {
+            "x": 9000.9140625,
+            "y": 28752.9765625,
+            "rotation": -1.2553023810845856
+          },
+          {
+            "x": 9997.71875,
+            "y": 27236.69921875,
+            "rotation": -0.4016003233498694
+          }
+        ],
+        "name": "Trieste",
+        "nodeUid": "4ebad234d5c70000",
+        "x": 10385.59765625,
+        "y": 27198.74609375
+      }
+    ],
+    "train": false,
+    "nodeUid": "55964afdb41e195f",
+    "x": 46600.04296875,
+    "y": 70306.4375
+  },
+  {
+    "token": "patras_b",
+    "name": "Patras",
+    "connections": [
+      {
+        "token": "argostoli",
+        "price": 510,
+        "time": 240,
+        "distance": 131,
+        "intermediatePoints": [
+          {
+            "x": 46246.203125,
+            "y": 70237.02734375,
+            "rotation": -2.7606463641020405
+          },
+          {
+            "x": 43857.76953125,
+            "y": 71408.40234375,
+            "rotation": 2.376312333521185
+          },
+          {
+            "x": 41974.0859375,
+            "y": 72127.04296875,
+            "rotation": -3.0954913472472096
+          },
+          {
+            "x": 40933.82421875,
+            "y": 71785.2578125,
+            "rotation": -2.3402888703577953
+          },
+          {
+            "x": 41146.640625,
+            "y": 71307.1875,
+            "rotation": 0.017541902186936156
+          }
+        ],
+        "name": "Argostoli",
+        "nodeUid": "52c03084b2069fac",
+        "x": 41300.85546875,
+        "y": 71354.59765625
+      }
+    ],
+    "train": false,
+    "nodeUid": "57b55bf4ef060001",
+    "x": 46820.3828125,
+    "y": 70180.83203125
+  },
+  {
+    "token": "piraeus",
+    "name": "Piraeus",
+    "connections": [
+      {
+        "token": "chania_b",
+        "price": 826,
+        "time": 540,
+        "distance": 290,
+        "intermediatePoints": [
+          {
+            "x": 57486.015625,
+            "y": 71402.83203125,
+            "rotation": 1.9034401980607263
+          },
+          {
+            "x": 59239.58984375,
+            "y": 84323.4609375,
+            "rotation": 1.6521128830643708
+          }
+        ],
+        "name": "Chania",
+        "nodeUid": "52c0308594869fa3",
+        "x": 59218.5859375,
+        "y": 84529.84375
+      },
+      {
+        "token": "chios_b",
+        "price": 840,
+        "time": 540,
+        "distance": 290,
+        "intermediatePoints": [
+          {
+            "x": 57578.625,
+            "y": 71423.13671875,
+            "rotation": 1.9034401980607263
+          },
+          {
+            "x": 58092.59765625,
+            "y": 72434.50390625,
+            "rotation": 0.3015766930475933
+          },
+          {
+            "x": 60240.4375,
+            "y": 69211.75,
+            "rotation": -1.2692196337473032
+          },
+          {
+            "x": 62569.953125,
+            "y": 66492.6875,
+            "rotation": -0.5965636739517797
+          },
+          {
+            "x": 66445.734375,
+            "y": 65635.140625,
+            "rotation": 1.1288626524139564
+          }
+        ],
+        "name": "Chios",
+        "nodeUid": "52c0308460069fa1",
+        "x": 66233.91796875,
+        "y": 65874.296875
+      },
+      {
+        "token": "heraklion",
+        "price": 760,
+        "time": 540,
+        "distance": 320,
+        "intermediatePoints": [
+          {
+            "x": 57517.078125,
+            "y": 71411.4453125,
+            "rotation": 1.9034401980607263
+          },
+          {
+            "x": 66030.7421875,
+            "y": 84669.5859375,
+            "rotation": 1.4322020331305856
+          }
+        ],
+        "name": "Heraklion",
+        "nodeUid": "52c030859c069fa2",
+        "x": 66044.640625,
+        "y": 84767.67578125
+      },
+      {
+        "token": "rhodes",
+        "price": 1889,
+        "time": 810,
+        "distance": 480,
+        "intermediatePoints": [
+          {
+            "x": 57546.80859375,
+            "y": 71417.84765625,
+            "rotation": 1.9034401980607263
+          },
+          {
+            "x": 59994.44921875,
+            "y": 75232.09375,
+            "rotation": 0.3015766930475933
+          },
+          {
+            "x": 71020.57421875,
+            "y": 76950.65234375,
+            "rotation": 0.07959601324918097
+          },
+          {
+            "x": 77518.44140625,
+            "y": 76006.2265625,
+            "rotation": -0.13859429366431117
+          }
+        ],
+        "name": "Rhodes",
+        "nodeUid": "52c030844b869fa5",
+        "x": 77801.25,
+        "y": 76250.04296875
+      }
+    ],
+    "train": false,
+    "nodeUid": "52c030863e069fa0",
+    "x": 57625.66796875,
+    "y": 71086.09765625
+  },
+  {
+    "token": "rhodes",
+    "name": "Rhodes",
+    "connections": [
+      {
+        "token": "piraeus",
+        "price": 1889,
+        "time": 810,
+        "distance": 480,
+        "intermediatePoints": [
+          {
+            "x": 77518.44140625,
+            "y": 76006.2265625,
+            "rotation": 3.002998359925482
+          },
+          {
+            "x": 71020.57421875,
+            "y": 76950.65234375,
+            "rotation": -3.0619966403406123
+          },
+          {
+            "x": 59994.44921875,
+            "y": 75232.09375,
+            "rotation": -2.8400159605421997
+          },
+          {
+            "x": 57546.80859375,
+            "y": 71417.84765625,
+            "rotation": -1.238152455529067
+          }
+        ],
+        "name": "Piraeus",
+        "nodeUid": "52c030863e069fa0",
+        "x": 57625.66796875,
+        "y": 71086.09765625
+      }
+    ],
+    "train": false,
+    "nodeUid": "52c030844b869fa5",
+    "x": 77801.25,
+    "y": 76250.04296875
+  },
+  {
+    "token": "barcelona",
+    "name": "Barcelona",
+    "connections": [
+      {
+        "token": "marseille",
+        "price": 526,
+        "time": 458,
+        "distance": 368,
+        "intermediatePoints": [
+          {
+            "x": -36835.9375,
+            "y": 48437.5,
+            "rotation": 0.17448682501833415
+          }
+        ],
+        "name": "Marseille",
+        "nodeUid": "30624524cf830004",
+        "x": -22676.44921875,
+        "y": 40636.9453125
+      },
+      {
+        "token": "napoli",
+        "price": 1500,
+        "time": 1300,
+        "distance": 1050,
+        "intermediatePoints": [
+          {
+            "x": -36835.9375,
+            "y": 48437.5,
+            "rotation": 0.17448682501833415
+          },
+          {
+            "x": -11328.125,
+            "y": 52148.4375,
+            "rotation": 0.17448682501833415
+          },
+          {
+            "x": -7812.5,
+            "y": 52734.375,
+            "rotation": 0.17448682501833415
+          },
+          {
+            "x": 12758.87109375,
+            "y": 58519.06640625,
+            "rotation": -0.4992157555804284
+          }
+        ],
+        "name": "Naples",
+        "nodeUid": "81d77a118110000",
+        "x": 13156.7734375,
+        "y": 57011.58984375
+      },
+      {
+        "token": "portotorres",
+        "price": 827,
+        "time": 720,
+        "distance": 578,
+        "intermediatePoints": [
+          {
+            "x": -36835.9375,
+            "y": 48437.5,
+            "rotation": 0.17448682501833415
+          },
+          {
+            "x": -11328.125,
+            "y": 52148.4375,
+            "rotation": 0.17448682501833415
+          },
+          {
+            "x": -10546.875,
+            "y": 53320.3125,
+            "rotation": 2.268889478682053
+          }
+        ],
+        "name": "Porto Torres",
+        "nodeUid": "2feefbfc23470000",
+        "x": -12320.4921875,
+        "y": 54546.2109375
+      }
+    ],
+    "train": false,
+    "nodeUid": "3b264d08a2870000",
+    "x": -37088.59375,
+    "y": 47999.3046875
+  },
+  {
+    "token": "bilbao",
+    "name": "Bilbao",
+    "connections": [
+      {
+        "token": "plymouth",
+        "price": 1172,
+        "time": 1076,
+        "distance": 842,
+        "intermediatePoints": [
+          {
+            "x": -58125,
+            "y": 32792.96875,
+            "rotation": -0.17448682501833415
+          },
+          {
+            "x": -57890.625,
+            "y": 32558.59375,
+            "rotation": -1.5707963267948966
+          },
+          {
+            "x": -62500,
+            "y": 2343.75,
+            "rotation": -1.0471848490249271
+          },
+          {
+            "x": -60546.875,
+            "y": -5859.375,
+            "rotation": -1.5707963267948966
+          }
+        ],
+        "name": "Plymouth",
+        "nodeUid": "69a25e4cb810000",
+        "x": -60544.796875,
+        "y": -7383.90625
+      }
+    ],
+    "train": false,
+    "nodeUid": "3b26494851470000",
+    "x": -58280.36328125,
+    "y": 32802.8515625
+  },
+  {
+    "token": "santander",
+    "name": "Santander",
+    "connections": [
+      {
+        "token": "plymouth",
+        "price": 1176,
+        "time": 1080,
+        "distance": 845,
+        "intermediatePoints": [
+          {
+            "x": -61445.3125,
+            "y": 31796.875,
+            "rotation": 2.617981175819824
+          },
+          {
+            "x": -61328.125,
+            "y": 31992.1875,
+            "rotation": 0
+          },
+          {
+            "x": -61132.8125,
+            "y": 31796.875,
+            "rotation": -1.5707963267948966
+          },
+          {
+            "x": -62500,
+            "y": 2343.75,
+            "rotation": -1.0471848490249271
+          },
+          {
+            "x": -60546.875,
+            "y": -5859.375,
+            "rotation": -1.5707963267948966
+          }
+        ],
+        "name": "Plymouth",
+        "nodeUid": "69a25e4cb810000",
+        "x": -60544.796875,
+        "y": -7383.90625
+      }
+    ],
+    "train": false,
+    "nodeUid": "3b26475401c70000",
+    "x": -61328.66796875,
+    "y": 31760.48828125
+  },
+  {
+    "token": "valencia",
+    "name": "Valencia",
+    "connections": [
+      {
+        "token": "palermo",
+        "price": 1788,
+        "time": 1557,
+        "distance": 1250,
+        "intermediatePoints": [
+          {
+            "x": -50390.625,
+            "y": 57148.4375,
+            "rotation": 0.43631905298875623
+          },
+          {
+            "x": -42968.75,
+            "y": 59375,
+            "rotation": 0.43631905298875623
+          },
+          {
+            "x": -12109.375,
+            "y": 69140.625,
+            "rotation": 0.17448682501833415
+          },
+          {
+            "x": 8671.875,
+            "y": 70312.5,
+            "rotation": 1.5707963267948966
+          }
+        ],
+        "name": "Palermo",
+        "nodeUid": "81d79497c310000",
+        "x": 8542.8515625,
+        "y": 70557.8125
+      }
+    ],
+    "train": false,
+    "nodeUid": "3b264b2455470000",
+    "x": -50804.953125,
+    "y": 56889.80859375
+  },
+  {
+    "token": "ancona",
+    "name": "Ancona",
+    "connections": [
+      {
+        "token": "trieste",
+        "price": 335,
+        "time": 620,
+        "distance": 250,
+        "intermediatePoints": [
+          {
+            "x": 11009,
+            "y": 39056,
+            "rotation": -1.8133478102220875
+          },
+          {
+            "x": 9174,
+            "y": 34264,
+            "rotation": -2.061343275621806
+          },
+          {
+            "x": 9765.625,
+            "y": 27343.75,
+            "rotation": -0.7064260556560561
+          }
+        ],
+        "name": "Trieste",
+        "nodeUid": "4ebad234d5c70000",
+        "x": 10385.59765625,
+        "y": 27198.74609375
+      },
+      {
+        "token": "durres",
+        "price": 615,
+        "time": 1080,
+        "distance": 580,
+        "intermediatePoints": [
+          {
+            "x": 11009,
+            "y": 39056,
+            "rotation": -1.8133478102220875
+          },
+          {
+            "x": 11432,
+            "y": 38705,
+            "rotation": -0.09251862111964687
+          },
+          {
+            "x": 12130,
+            "y": 38952,
+            "rotation": 0.6074445979876479
+          },
+          {
+            "x": 34982,
+            "y": 52300,
+            "rotation": 0.7357934995319935
+          },
+          {
+            "x": 35753,
+            "y": 52275,
+            "rotation": -1.500206736976023
+          },
+          {
+            "x": 35895,
+            "y": 51908,
+            "rotation": -0.4547192748209694
+          }
+        ],
+        "name": "Durrës",
+        "nodeUid": "4c9744fc49c70000",
+        "x": 36060.83203125,
+        "y": 51817.3203125
+      },
+      {
+        "token": "split",
+        "price": 315,
+        "time": 600,
+        "distance": 240,
+        "intermediatePoints": [
+          {
+            "x": 11009,
+            "y": 39056,
+            "rotation": -1.8133478102220875
+          },
+          {
+            "x": 11432,
+            "y": 38705,
+            "rotation": -0.09251862111964687
+          }
+        ],
+        "name": "Split",
+        "nodeUid": "4c974368be470000",
+        "x": 21707.62890625,
+        "y": 41187.7421875
+      },
+      {
+        "token": "igoumenitsa",
+        "price": 1425,
+        "time": 1110,
+        "distance": 810,
+        "intermediatePoints": [
+          {
+            "x": 11207.2109375,
+            "y": 38749.31640625,
+            "rotation": -0.27593746667806257
+          },
+          {
+            "x": 12692.55078125,
+            "y": 39365.55859375,
+            "rotation": 0.6777561922616753
+          },
+          {
+            "x": 29075.91015625,
+            "y": 52334.41796875,
+            "rotation": 0.8679227554344952
+          },
+          {
+            "x": 38460.953125,
+            "y": 61009.859375,
+            "rotation": 0.6021867615291259
+          },
+          {
+            "x": 39351.86328125,
+            "y": 62658.65625,
+            "rotation": 0.8731289473933347
+          }
+        ],
+        "name": "Igoumenitsa",
+        "nodeUid": "52c03084e906a0ca",
+        "x": 39570.68359375,
+        "y": 62912.69921875
+      },
+      {
+        "token": "patras",
+        "price": 1425,
+        "time": 1500,
+        "distance": 960,
+        "intermediatePoints": [
+          {
+            "x": 11211.15234375,
+            "y": 38784.69921875,
+            "rotation": -0.27593746667806257
+          },
+          {
+            "x": 12638.72265625,
+            "y": 39440.49609375,
+            "rotation": 0.6777561922616753
+          },
+          {
+            "x": 28940.6796875,
+            "y": 52446.515625,
+            "rotation": 0.8574510400278765
+          },
+          {
+            "x": 37912.83984375,
+            "y": 64529.13671875,
+            "rotation": 0.9773875864216662
+          },
+          {
+            "x": 40924.078125,
+            "y": 68235.8515625,
+            "rotation": 0.4678348809607112
+          },
+          {
+            "x": 44044.171875,
+            "y": 70317.29296875,
+            "rotation": 0.18766863585187146
+          },
+          {
+            "x": 46271.92578125,
+            "y": 70075.5703125,
+            "rotation": 0.38094628948775283
+          }
+        ],
+        "name": "Patras",
+        "nodeUid": "55964afdb41e195f",
+        "x": 46600.04296875,
+        "y": 70306.4375
+      }
+    ],
+    "train": false,
+    "nodeUid": "4e29bb687c470000",
+    "x": 11071.125,
+    "y": 39279.2265625
+  },
+  {
+    "token": "bari",
+    "name": "Bari",
+    "connections": [
+      {
+        "token": "trieste",
+        "price": 660,
+        "time": 1150,
+        "distance": 645,
+        "intermediatePoints": [
+          {
+            "x": 24871,
+            "y": 53554,
+            "rotation": -1.206388737649694
+          },
+          {
+            "x": 22656.25,
+            "y": 48828.125,
+            "rotation": -2.356194490192345
+          },
+          {
+            "x": 9174,
+            "y": 34264,
+            "rotation": -2.061343275621806
+          },
+          {
+            "x": 9765.625,
+            "y": 27343.75,
+            "rotation": -0.7064260556560561
+          }
+        ],
+        "name": "Trieste",
+        "nodeUid": "4ebad234d5c70000",
+        "x": 10385.59765625,
+        "y": 27198.74609375
+      },
+      {
+        "token": "durres",
+        "price": 420,
+        "time": 540,
+        "distance": 225,
+        "intermediatePoints": [
+          {
+            "x": 24871,
+            "y": 53554,
+            "rotation": -1.206388737649694
+          },
+          {
+            "x": 30728,
+            "y": 51052,
+            "rotation": 0.09065988720074511
+          },
+          {
+            "x": 34982,
+            "y": 52300,
+            "rotation": 0.7357934995319935
+          },
+          {
+            "x": 35753,
+            "y": 52275,
+            "rotation": -1.500206736976023
+          },
+          {
+            "x": 35895,
+            "y": 51908,
+            "rotation": -0.4547192748209694
+          }
+        ],
+        "name": "Durrës",
+        "nodeUid": "4c9744fc49c70000",
+        "x": 36060.83203125,
+        "y": 51817.3203125
+      },
+      {
+        "token": "igoumenitsa",
+        "price": 745,
+        "time": 570,
+        "distance": 445,
+        "intermediatePoints": [
+          {
+            "x": 25011.28125,
+            "y": 53703.453125,
+            "rotation": -0.3492402168115994
+          },
+          {
+            "x": 31682.90625,
+            "y": 56463.6875,
+            "rotation": 0.8264381328103878
+          },
+          {
+            "x": 38433.53515625,
+            "y": 61054.0078125,
+            "rotation": 0.6021867615291259
+          },
+          {
+            "x": 39304.41796875,
+            "y": 62679.7890625,
+            "rotation": 0.8731289473933347
+          }
+        ],
+        "name": "Igoumenitsa",
+        "nodeUid": "52c03084e906a0ca",
+        "x": 39570.68359375,
+        "y": 62912.69921875
+      },
+      {
+        "token": "patras",
+        "price": 870,
+        "time": 1050,
+        "distance": 600,
+        "intermediatePoints": [
+          {
+            "x": 25011.28125,
+            "y": 53866.0078125,
+            "rotation": -0.3492402168115994
+          },
+          {
+            "x": 31561.02734375,
+            "y": 56626.2421875,
+            "rotation": 0.8264381328103878
+          },
+          {
+            "x": 37831.1484375,
+            "y": 64565.06640625,
+            "rotation": 0.9773875864216662
+          },
+          {
+            "x": 40919.3046875,
+            "y": 68315.61328125,
+            "rotation": 0.4678348809607112
+          },
+          {
+            "x": 44023.73046875,
+            "y": 70394.53515625,
+            "rotation": 0.18766863585187146
+          },
+          {
+            "x": 46258.30859375,
+            "y": 70152.8125,
+            "rotation": 0.38094628948775283
+          }
+        ],
+        "name": "Patras",
+        "nodeUid": "55964afdb41e195f",
+        "x": 46600.04296875,
+        "y": 70306.4375
+      }
+    ],
+    "train": false,
+    "nodeUid": "4e29c86c0dc70000",
+    "x": 24787.71875,
+    "y": 53956.23828125
+  },
+  {
+    "token": "cagliari",
+    "name": "Cagliari",
+    "connections": [
+      {
+        "token": "napoli",
+        "price": 879,
+        "time": 840,
+        "distance": 500,
+        "intermediatePoints": [
+          {
+            "x": -9995.11328125,
+            "y": 64717.1875,
+            "rotation": 0.8946596517968405
+          },
+          {
+            "x": -2863.953125,
+            "y": 65924.37890625,
+            "rotation": -0.3564834506070009
+          },
+          {
+            "x": 12758.87109375,
+            "y": 58519.06640625,
+            "rotation": -0.4992157555804284
+          }
+        ],
+        "name": "Naples",
+        "nodeUid": "81d77a118110000",
+        "x": 13156.7734375,
+        "y": 57011.58984375
+      },
+      {
+        "token": "palermo",
+        "price": 778,
+        "time": 720,
+        "distance": 420,
+        "intermediatePoints": [],
+        "name": "Palermo",
+        "nodeUid": "81d79497c310000",
+        "x": 8542.8515625,
+        "y": 70557.8125
+      }
+    ],
+    "train": false,
+    "nodeUid": "2c8e5f2870c70000",
+    "x": -10049.578125,
+    "y": 64535.49609375
+  },
+  {
+    "token": "giovanni",
+    "name": "Villa San Giovanni",
+    "connections": [
+      {
+        "token": "messina",
+        "price": 347,
+        "time": 20,
+        "distance": 8,
+        "intermediatePoints": [
+          {
+            "x": 19039.046875,
+            "y": 70331.453125,
+            "rotation": -2.0999181372880997
+          },
+          {
+            "x": 18538.625,
+            "y": 70184.984375,
+            "rotation": 2.7076391735477054
+          },
+          {
+            "x": 18324.77734375,
+            "y": 70666.20703125,
+            "rotation": 1.3257672159322933
+          }
+        ],
+        "name": "Messina",
+        "nodeUid": "81d79e8e3310000",
+        "x": 18421.1171875,
+        "y": 70809.78125
+      }
+    ],
+    "train": false,
+    "nodeUid": "81d7a832ff10000",
+    "x": 19112.09375,
+    "y": 70497.40234375
+  },
+  {
+    "token": "messina",
+    "name": "Messina",
+    "connections": [
+      {
+        "token": "giovanni",
+        "price": 347,
+        "time": 20,
+        "distance": 8,
+        "intermediatePoints": [
+          {
+            "x": 18324.77734375,
+            "y": 70666.20703125,
+            "rotation": -1.8158254376575
+          },
+          {
+            "x": 18538.625,
+            "y": 70184.984375,
+            "rotation": -0.43395348004208767
+          },
+          {
+            "x": 19039.046875,
+            "y": 70331.453125,
+            "rotation": 1.0416745163016936
+          }
+        ],
+        "name": "Villa San Giovanni",
+        "nodeUid": "81d7a832ff10000",
+        "x": 19112.09375,
+        "y": 70497.40234375
+      }
+    ],
+    "train": false,
+    "nodeUid": "81d79e8e3310000",
+    "x": 18421.1171875,
+    "y": 70809.78125
+  },
+  {
+    "token": "napoli",
+    "name": "Naples",
+    "connections": [
+      {
+        "token": "barcelona",
+        "price": 1500,
+        "time": 1300,
+        "distance": 1050,
+        "intermediatePoints": [
+          {
+            "x": 12758.87109375,
+            "y": 58519.06640625,
+            "rotation": 2.6423768980093647
+          },
+          {
+            "x": -7812.5,
+            "y": 52734.375,
+            "rotation": -2.967105828571459
+          },
+          {
+            "x": -11328.125,
+            "y": 52148.4375,
+            "rotation": -2.967105828571459
+          },
+          {
+            "x": -36835.9375,
+            "y": 48437.5,
+            "rotation": -2.967105828571459
+          }
+        ],
+        "name": "Barcelona",
+        "nodeUid": "3b264d08a2870000",
+        "x": -37088.59375,
+        "y": 47999.3046875
+      },
+      {
+        "token": "cagliari",
+        "price": 879,
+        "time": 840,
+        "distance": 500,
+        "intermediatePoints": [
+          {
+            "x": 12758.87109375,
+            "y": 58519.06640625,
+            "rotation": 2.6423768980093647
+          },
+          {
+            "x": -2863.953125,
+            "y": 65924.37890625,
+            "rotation": 2.785109202982792
+          },
+          {
+            "x": -9995.11328125,
+            "y": 64717.1875,
+            "rotation": -2.2469330017929527
+          }
+        ],
+        "name": "Cagliari",
+        "nodeUid": "2c8e5f2870c70000",
+        "x": -10049.578125,
+        "y": 64535.49609375
+      },
+      {
+        "token": "palermo",
+        "price": 750,
+        "time": 660,
+        "distance": 335,
+        "intermediatePoints": [],
+        "name": "Palermo",
+        "nodeUid": "81d79497c310000",
+        "x": 8542.8515625,
+        "y": 70557.8125
+      }
+    ],
+    "train": false,
+    "nodeUid": "81d77a118110000",
+    "x": 13156.7734375,
+    "y": 57011.58984375
+  },
+  {
+    "token": "palermo",
+    "name": "Palermo",
+    "connections": [
+      {
+        "token": "valencia",
+        "price": 1788,
+        "time": 1557,
+        "distance": 1250,
+        "intermediatePoints": [
+          {
+            "x": 8671.875,
+            "y": 70312.5,
+            "rotation": -1.5707963267948966
+          },
+          {
+            "x": -12109.375,
+            "y": 69140.625,
+            "rotation": -2.967105828571459
+          },
+          {
+            "x": -42968.75,
+            "y": 59375,
+            "rotation": -2.705273600601037
+          },
+          {
+            "x": -50390.625,
+            "y": 57148.4375,
+            "rotation": -2.705273600601037
+          }
+        ],
+        "name": "Valencia",
+        "nodeUid": "3b264b2455470000",
+        "x": -50804.953125,
+        "y": 56889.80859375
+      },
+      {
+        "token": "cagliari",
+        "price": 778,
+        "time": 720,
+        "distance": 420,
+        "intermediatePoints": [],
+        "name": "Cagliari",
+        "nodeUid": "2c8e5f2870c70000",
+        "x": -10049.578125,
+        "y": 64535.49609375
+      },
+      {
+        "token": "napoli",
+        "price": 750,
+        "time": 660,
+        "distance": 335,
+        "intermediatePoints": [],
+        "name": "Naples",
+        "nodeUid": "81d77a118110000",
+        "x": 13156.7734375,
+        "y": 57011.58984375
+      }
+    ],
+    "train": false,
+    "nodeUid": "81d79497c310000",
+    "x": 8542.8515625,
+    "y": 70557.8125
+  },
+  {
+    "token": "portotorres",
+    "name": "Porto Torres",
+    "connections": [
+      {
+        "token": "ajaccio",
+        "price": 355,
+        "time": 210,
+        "distance": 135,
+        "intermediatePoints": [],
+        "name": "Ajaccio",
+        "nodeUid": "306247104ec30004",
+        "x": -10367.8671875,
+        "y": 49338.2421875
+      },
+      {
+        "token": "barcelona",
+        "price": 827,
+        "time": 720,
+        "distance": 578,
+        "intermediatePoints": [
+          {
+            "x": -10546.875,
+            "y": 53320.3125,
+            "rotation": -0.8727031749077404
+          },
+          {
+            "x": -11328.125,
+            "y": 52148.4375,
+            "rotation": -2.967105828571459
+          },
+          {
+            "x": -36835.9375,
+            "y": 48437.5,
+            "rotation": -2.967105828571459
+          }
+        ],
+        "name": "Barcelona",
+        "nodeUid": "3b264d08a2870000",
+        "x": -37088.59375,
+        "y": 47999.3046875
+      }
+    ],
+    "train": false,
+    "nodeUid": "2feefbfc23470000",
+    "x": -12320.4921875,
+    "y": 54546.2109375
+  },
+  {
+    "token": "bergen",
+    "name": "Bergen",
+    "connections": [
+      {
+        "token": "hirtshals",
+        "price": 1793,
+        "time": 1035,
+        "distance": 590,
+        "intermediatePoints": [
+          {
+            "x": -11822.66796875,
+            "y": -53997.9453125,
+            "rotation": 2.62907512618589
+          },
+          {
+            "x": -11803.13671875,
+            "y": -41781.671875,
+            "rotation": 0.7479466938917243
+          }
+        ],
+        "name": "Hirtshals",
+        "nodeUid": "35a4cb80f000000",
+        "x": 1997.96484375,
+        "y": -39035.1015625
+      }
+    ],
+    "train": false,
+    "nodeUid": "35a5a7b9d5b0000",
+    "x": -10536.68359375,
+    "y": -55230.390625
+  },
+  {
+    "token": "esbjerg",
+    "name": "Esbjerg",
+    "connections": [
+      {
+        "token": "hull",
+        "price": 1314,
+        "time": 1140,
+        "distance": 615,
+        "intermediatePoints": [],
+        "name": "Hull",
+        "nodeUid": "2935de5900bea9",
+        "x": -35762.10546875,
+        "y": -28856.4765625
+      }
+    ],
+    "train": false,
+    "nodeUid": "35a4b5cefc60000",
+    "x": -5041.60546875,
+    "y": -27484.2734375
+  },
+  {
+    "token": "frederikshv",
+    "name": "Frederikshavn",
+    "connections": [
+      {
+        "token": "goteborg",
+        "price": 677,
+        "time": 195,
+        "distance": 95,
+        "intermediatePoints": [],
+        "name": "Gothenburg",
+        "nodeUid": "356723f322a0000",
+        "x": 7434.9375,
+        "y": -40404.8046875
+      },
+      {
+        "token": "oslo",
+        "price": 993,
+        "time": 720,
+        "distance": 290,
+        "intermediatePoints": [
+          {
+            "x": 3330.4140625,
+            "y": -48568.2578125,
+            "rotation": -1.369057562447553
+          }
+        ],
+        "name": "Oslo",
+        "nodeUid": "3566965da250000",
+        "x": 4558.72265625,
+        "y": -53234.765625
+      }
+    ],
+    "train": false,
+    "nodeUid": "35673e3ed000000",
+    "x": 2798.42578125,
+    "y": -38128.4140625
+  },
+  {
+    "token": "hirtshals",
+    "name": "Hirtshals",
+    "connections": [
+      {
+        "token": "bergen",
+        "price": 1793,
+        "time": 1035,
+        "distance": 590,
+        "intermediatePoints": [
+          {
+            "x": -11803.13671875,
+            "y": -41781.671875,
+            "rotation": -2.393645959698069
+          },
+          {
+            "x": -11822.66796875,
+            "y": -53997.9453125,
+            "rotation": -0.5125175274039032
+          }
+        ],
+        "name": "Bergen",
+        "nodeUid": "35a5a7b9d5b0000",
+        "x": -10536.68359375,
+        "y": -55230.390625
+      },
+      {
+        "token": "kristiansand",
+        "price": 1052,
+        "time": 195,
+        "distance": 145,
+        "intermediatePoints": [],
+        "name": "Kristiansand",
+        "nodeUid": "35a5ac2a21b0000",
+        "x": -5098.0625,
+        "y": -42996.8984375
+      },
+      {
+        "token": "stavanger",
+        "price": 1621,
+        "time": 570,
+        "distance": 385,
+        "intermediatePoints": [
+          {
+            "x": -11803.13671875,
+            "y": -41781.671875,
+            "rotation": -2.393645959698069
+          },
+          {
+            "x": -12814.85546875,
+            "y": -48568.2578125,
+            "rotation": -0.5125175274039032
+          }
+        ],
+        "name": "Stavanger",
+        "nodeUid": "35a16df56a50000",
+        "x": -11561.71484375,
+        "y": -48803.31640625
+      }
+    ],
+    "train": false,
+    "nodeUid": "35a4cb80f000000",
+    "x": 1997.96484375,
+    "y": -39035.1015625
+  },
+  {
+    "token": "stavanger",
+    "name": "Stavanger",
+    "connections": [
+      {
+        "token": "hirtshals",
+        "price": 1621,
+        "time": 570,
+        "distance": 385,
+        "intermediatePoints": [
+          {
+            "x": -12814.85546875,
+            "y": -48568.2578125,
+            "rotation": 2.62907512618589
+          },
+          {
+            "x": -11803.13671875,
+            "y": -41781.671875,
+            "rotation": 0.7479466938917243
+          }
+        ],
+        "name": "Hirtshals",
+        "nodeUid": "35a4cb80f000000",
+        "x": 1997.96484375,
+        "y": -39035.1015625
+      }
+    ],
+    "train": false,
+    "nodeUid": "35a16df56a50000",
+    "x": -11561.71484375,
+    "y": -48803.31640625
+  },
+  {
+    "token": "gedser",
+    "name": "Gedser",
+    "connections": [
+      {
+        "token": "rostock",
+        "price": 404,
+        "time": 105,
+        "distance": 65,
+        "intermediatePoints": [],
+        "name": "Rostock",
+        "nodeUid": "4cd14de818e6c111",
+        "x": 6125.2265625,
+        "y": -20549.5546875
+      }
+    ],
+    "train": false,
+    "nodeUid": "35a5a2aadfb0000",
+    "x": 6260.18359375,
+    "y": -21690.640625
+  },
+  {
+    "token": "goteborg",
+    "name": "Gothenburg",
+    "connections": [
+      {
+        "token": "frederikshv",
+        "price": 677,
+        "time": 195,
+        "distance": 95,
+        "intermediatePoints": [],
+        "name": "Frederikshavn",
+        "nodeUid": "35673e3ed000000",
+        "x": 2798.42578125,
+        "y": -38128.4140625
+      }
+    ],
+    "train": false,
+    "nodeUid": "356723f322a0000",
+    "x": 7434.9375,
+    "y": -40404.8046875
+  },
+  {
+    "token": "karlskrona",
+    "name": "Karlskrona",
+    "connections": [
+      {
+        "token": "gdynia",
+        "price": 790,
+        "time": 630,
+        "distance": 325,
+        "intermediatePoints": [],
+        "name": "Gdynia",
+        "nodeUid": "35b99c5ad710000",
+        "x": 28161.46875,
+        "y": -22095.12109375
+      }
+    ],
+    "train": false,
+    "nodeUid": "35a4ee333e10000",
+    "x": 17541.984375,
+    "y": -29640.83203125
+  },
+  {
+    "token": "kristiansand",
+    "name": "Kristiansand",
+    "connections": [
+      {
+        "token": "hirtshals",
+        "price": 1052,
+        "time": 195,
+        "distance": 145,
+        "intermediatePoints": [],
+        "name": "Hirtshals",
+        "nodeUid": "35a4cb80f000000",
+        "x": 1997.96484375,
+        "y": -39035.1015625
+      }
+    ],
+    "train": false,
+    "nodeUid": "35a5ac2a21b0000",
+    "x": -5098.0625,
+    "y": -42996.8984375
+  },
+  {
+    "token": "nynashamn",
+    "name": "Nynäshamn",
+    "connections": [
+      {
+        "token": "ventspils",
+        "price": 1110,
+        "time": 510,
+        "distance": 276,
+        "intermediatePoints": [],
+        "name": "Ventspils",
+        "nodeUid": "2a19bd502fc10002",
+        "x": 36640.8203125,
+        "y": -39141.53515625
+      },
+      {
+        "token": "gdansk",
+        "price": 531,
+        "time": 1140,
+        "distance": 515,
+        "intermediatePoints": [
+          {
+            "x": 24444.4765625,
+            "y": -37238.859375,
+            "rotation": 1.388710781687232
+          }
+        ],
+        "name": "Gdańsk",
+        "nodeUid": "35b9a3506610000",
+        "x": 28806.5234375,
+        "y": -20566.18359375
+      }
+    ],
+    "train": false,
+    "nodeUid": "35672e346800000",
+    "x": 25198.828125,
+    "y": -45949.640625
+  },
+  {
+    "token": "oslo",
+    "name": "Oslo",
+    "connections": [
+      {
+        "token": "frederikshv",
+        "price": 993,
+        "time": 720,
+        "distance": 290,
+        "intermediatePoints": [
+          {
+            "x": 3330.4140625,
+            "y": -48568.2578125,
+            "rotation": 1.7725350911422404
+          }
+        ],
+        "name": "Frederikshavn",
+        "nodeUid": "35673e3ed000000",
+        "x": 2798.42578125,
+        "y": -38128.4140625
+      }
+    ],
+    "train": false,
+    "nodeUid": "3566965da250000",
+    "x": 4558.72265625,
+    "y": -53234.765625
+  },
+  {
+    "token": "trelleborg",
+    "name": "Trelleborg",
+    "connections": [
+      {
+        "token": "rostock",
+        "price": 668,
+        "time": 335,
+        "distance": 180,
+        "intermediatePoints": [],
+        "name": "Rostock",
+        "nodeUid": "4cd14de818e6c111",
+        "x": 6125.2265625,
+        "y": -20549.5546875
+      }
+    ],
+    "train": false,
+    "nodeUid": "356380bce9b0000",
+    "x": 10742.9140625,
+    "y": -25829.14453125
+  },
+  {
+    "token": "kapellskar",
+    "name": "Kapellskär",
+    "connections": [
+      {
+        "token": "naantali",
+        "price": 1170,
+        "time": 540,
+        "distance": 207,
+        "intermediatePoints": [
+          {
+            "x": 33852.45703125,
+            "y": -51290.015625,
+            "rotation": -0.7161467786360393
+          },
+          {
+            "x": 33633.8828125,
+            "y": -54595.7109375,
+            "rotation": -1.2863386175512574
+          },
+          {
+            "x": 34994.00390625,
+            "y": -55194.2421875,
+            "rotation": -0.7541615987396075
+          },
+          {
+            "x": 35198.71484375,
+            "y": -56065.71484375,
+            "rotation": -1.3400768178901934
+          }
+        ],
+        "name": "Naantali",
+        "nodeUid": "2a19f394aeca0001",
+        "x": 35228.5,
+        "y": -56090.1171875
+      },
+      {
+        "token": "paldiski",
+        "price": 1270,
+        "time": 570,
+        "distance": 284,
+        "intermediatePoints": [],
+        "name": "Paldiski",
+        "nodeUid": "2a19b29cfd810002",
+        "x": 42247.9765625,
+        "y": -50215.22265625
+      }
+    ],
+    "train": false,
+    "nodeUid": "2a19cdec9ec10002",
+    "x": 28238.1328125,
+    "y": -51119.76171875
+  }
+]

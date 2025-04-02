@@ -1,0 +1,5537 @@
+[
+  {
+    "token": "es_ourense",
+    "editorName": "Ourense",
+    "defaultName": "Ourense",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -80748.56,
+    "y": 33184.36
+  },
+  {
+    "token": "es_vigo",
+    "editorName": "vigo",
+    "defaultName": "Vigo",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -84231.32,
+    "y": 32483.59
+  },
+  {
+    "token": "es_acoruna",
+    "editorName": "a_coruna",
+    "defaultName": "A Coruña",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -82561.39,
+    "y": 27476.16,
+    "searchRadius": 700
+  },
+  {
+    "token": "es_albacete",
+    "editorName": "albacete",
+    "defaultName": "Albacete",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -58775.38,
+    "y": 58206.3
+  },
+  {
+    "token": "es_algeciras",
+    "editorName": "algeciras",
+    "defaultName": "Algeciras",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -79281.83,
+    "y": 70007.29,
+    "searchRadius": 900
+  },
+  {
+    "token": "es_almaraz",
+    "editorName": "almaraz",
+    "defaultName": "Almaraz",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -74485.43,
+    "y": 49633.59
+  },
+  {
+    "token": "es_almeria",
+    "editorName": "almeria",
+    "defaultName": "Almería",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -62619,
+    "y": 69261.98
+  },
+  {
+    "token": "es_badajoz",
+    "editorName": "badajoz",
+    "defaultName": "Badajoz",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -82156.72,
+    "y": 53610.42,
+    "searchRadius": 500
+  },
+  {
+    "token": "es_bailen",
+    "editorName": "bailen",
+    "defaultName": "Bailén",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -69118.89,
+    "y": 61517.7,
+    "searchRadius": 200
+  },
+  {
+    "token": "es_barcelona",
+    "editorName": "barcelona",
+    "defaultName": "Barcelona",
+    "nameVariants": [
+      "BARCELONE"
+    ],
+    "distanceOffset": 0,
+    "x": -37622.3,
+    "y": 47846.07,
+    "searchRadius": 1500
+  },
+  {
+    "token": "es_bilbao",
+    "editorName": "bilbao",
+    "defaultName": "Bilbao",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -57716.81,
+    "y": 33518.27,
+    "searchRadius": 800
+  },
+  {
+    "token": "es_burgos",
+    "editorName": "burgos",
+    "defaultName": "Burgos",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -61810.99,
+    "y": 37990.08
+  },
+  {
+    "token": "es_creal",
+    "editorName": "ciudad_real",
+    "defaultName": "Ciudad Real",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -68755.3,
+    "y": 56793.83
+  },
+  {
+    "token": "es_cordoba",
+    "editorName": "cordoba",
+    "defaultName": "Córdoba",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -73595.96,
+    "y": 61194.21,
+    "searchRadius": 900
+  },
+  {
+    "token": "es_elejido",
+    "editorName": "el_ejido",
+    "defaultName": "El Ejido",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -67670.11,
+    "y": 69143.68
+  },
+  {
+    "token": "es_granada",
+    "editorName": "granada",
+    "defaultName": "Granada",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -69817.05,
+    "y": 65572.38
+  },
+  {
+    "token": "es_huelva",
+    "editorName": "huelva",
+    "defaultName": "Huelva",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -84653.19,
+    "y": 62262.59
+  },
+  {
+    "token": "es_leon",
+    "editorName": "leon",
+    "defaultName": "León",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -71017.41,
+    "y": 35038.14
+  },
+  {
+    "token": "es_lleida",
+    "editorName": "lleida",
+    "defaultName": "Lleida",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -45321.95,
+    "y": 45158.43
+  },
+  {
+    "token": "es_madrid",
+    "editorName": "madrid",
+    "defaultName": "Madrid",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -65635.79,
+    "y": 49132.72,
+    "searchRadius": 1500
+  },
+  {
+    "token": "es_murcia",
+    "editorName": "murcia",
+    "defaultName": "Murcia",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -56035.17,
+    "y": 64738.49,
+    "searchRadius": 500
+  },
+  {
+    "token": "es_navia",
+    "editorName": "navia",
+    "defaultName": "Navia",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -74841.72,
+    "y": 28053.43
+  },
+  {
+    "token": "es_obarco",
+    "editorName": "o_barco",
+    "defaultName": "O Barco",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -77429.13,
+    "y": 34100.82
+  },
+  {
+    "token": "es_pamplona",
+    "editorName": "pamplona",
+    "defaultName": "Pamplona",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -53389.54,
+    "y": 37563.62
+  },
+  {
+    "token": "es_portsag",
+    "editorName": "port_sagunt",
+    "defaultName": "Port de Sagunt",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -50837.57,
+    "y": 55157.6
+  },
+  {
+    "token": "es_puertol",
+    "editorName": "puertollano",
+    "defaultName": "Puertollano",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -70058.68,
+    "y": 58786.38,
+    "searchRadius": 500
+  },
+  {
+    "token": "es_salamanca",
+    "editorName": "salamanca",
+    "defaultName": "Salamanca",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -73559.43,
+    "y": 44197.36
+  },
+  {
+    "token": "es_santander",
+    "editorName": "santander",
+    "defaultName": "Santander",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -62188.34,
+    "y": 32183.28
+  },
+  {
+    "token": "es_sevilla",
+    "editorName": "sevilla",
+    "defaultName": "Sevilla",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -79490.01,
+    "y": 63007.48,
+    "searchRadius": 700
+  },
+  {
+    "token": "es_soria",
+    "editorName": "soria",
+    "defaultName": "Soria",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -58857.13,
+    "y": 42240.09
+  },
+  {
+    "token": "es_tarragona",
+    "editorName": "tarragona",
+    "defaultName": "Tarragona",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -42799.09,
+    "y": 48858.31
+  },
+  {
+    "token": "es_teruel",
+    "editorName": "teruel",
+    "defaultName": "Teruel",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -53665.1,
+    "y": 51307.53
+  },
+  {
+    "token": "es_valencia",
+    "editorName": "valencia",
+    "defaultName": "València",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -52704.77,
+    "y": 56900.79,
+    "searchRadius": 1000
+  },
+  {
+    "token": "es_vallado",
+    "editorName": "valladolid",
+    "defaultName": "Valladolid",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -66730.96,
+    "y": 40668.16
+  },
+  {
+    "token": "es_vandellos",
+    "editorName": "vandellos",
+    "defaultName": "Vandellòs",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -44865.41,
+    "y": 49584.22
+  },
+  {
+    "token": "es_villar",
+    "editorName": "villarreal",
+    "defaultName": "Vila-real",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -49561.6,
+    "y": 53953.35
+  },
+  {
+    "token": "es_zaragoza",
+    "editorName": "zaragoza",
+    "defaultName": "Zaragoza",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -50452.87,
+    "y": 44297.95,
+    "searchRadius": 500
+  },
+  {
+    "token": "pt_beja",
+    "editorName": "beja",
+    "defaultName": "Beja",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -88047.53,
+    "y": 57148.14
+  },
+  {
+    "token": "pt_coimbra",
+    "editorName": "coimbra",
+    "defaultName": "Coimbra",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -86799.63,
+    "y": 44612.11,
+    "searchRadius": 500
+  },
+  {
+    "token": "pt_corticad",
+    "editorName": "corticadas",
+    "defaultName": "Cortiçadas de Lavre",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -88622.68,
+    "y": 53039.64
+  },
+  {
+    "token": "pt_faro",
+    "editorName": "faro",
+    "defaultName": "Faro",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -89876.04,
+    "y": 62392.15
+  },
+  {
+    "token": "pt_evora",
+    "editorName": "evora",
+    "defaultName": "Évora",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -87231.39,
+    "y": 54438.52
+  },
+  {
+    "token": "pt_guarda",
+    "editorName": "guarda",
+    "defaultName": "Guarda",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -81442.08,
+    "y": 44227.34
+  },
+  {
+    "token": "pt_lisboa",
+    "editorName": "lisboa",
+    "defaultName": "Lisboa",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -92159.69,
+    "y": 49281.07
+  },
+  {
+    "token": "pt_olhao",
+    "editorName": "olhao",
+    "defaultName": "Olhão",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -88643.62,
+    "y": 62363
+  },
+  {
+    "token": "pt_pontedes",
+    "editorName": "ponte_de_sor",
+    "defaultName": "Ponte de Sôr",
+    "nameVariants": [
+      "P.<sup>te</sup> de Sôr"
+    ],
+    "distanceOffset": 0,
+    "x": -86641.83,
+    "y": 49573.2
+  },
+  {
+    "token": "pt_porto",
+    "editorName": "porto",
+    "defaultName": "Porto",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -85852.3,
+    "y": 38269.5,
+    "searchRadius": 500
+  },
+  {
+    "token": "pt_setubal",
+    "editorName": "setubal",
+    "defaultName": "Setúbal",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -91480.79,
+    "y": 53869.4
+  },
+  {
+    "token": "pt_sines",
+    "editorName": "sines",
+    "defaultName": "Sines",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -91532.03,
+    "y": 56309.56
+  },
+  {
+    "token": "dk_aalborg",
+    "editorName": "aalborg",
+    "defaultName": "Aalborg",
+    "nameVariants": [
+      "Aalborg C",
+      "Aalborg N"
+    ],
+    "distanceOffset": 0,
+    "x": 960.37,
+    "y": -36043.35,
+    "searchRadius": 500
+  },
+  {
+    "token": "dk_esbjerg",
+    "editorName": "esbjerg",
+    "defaultName": "Esbjerg",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -4831.79,
+    "y": -27594
+  },
+  {
+    "token": "dk_frederiks",
+    "editorName": "frederikshv",
+    "defaultName": "Frederikshavn",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 2594.2,
+    "y": -37770.06
+  },
+  {
+    "token": "dk_gedser",
+    "editorName": "gedser",
+    "defaultName": "Gedser",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 6213.91,
+    "y": -22239.52
+  },
+  {
+    "token": "dk_hirtshals",
+    "editorName": "hirtshals",
+    "defaultName": "Hirtshals",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 1247.88,
+    "y": -38539.44
+  },
+  {
+    "token": "dk_kobenhavn",
+    "editorName": "kobenhavn",
+    "defaultName": "København",
+    "nameVariants": [
+      "KÖPENHAMN"
+    ],
+    "distanceOffset": 0,
+    "x": 8074.57,
+    "y": -27635.07
+  },
+  {
+    "token": "dk_odense",
+    "editorName": "odense",
+    "defaultName": "Odense",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 1159.03,
+    "y": -26365.25
+  },
+  {
+    "token": "no_bergen",
+    "editorName": "bergen",
+    "defaultName": "Bergen",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -10391.41,
+    "y": -56399.73
+  },
+  {
+    "token": "no_kristians",
+    "editorName": "kristiansand",
+    "defaultName": "Kristiansand",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -5291.37,
+    "y": -43067.75,
+    "searchRadius": 500
+  },
+  {
+    "token": "no_oslo",
+    "editorName": "oslo",
+    "defaultName": "Oslo",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 3919.97,
+    "y": -54131.07,
+    "searchRadius": 2000
+  },
+  {
+    "token": "no_stavanger",
+    "editorName": "stavanger",
+    "defaultName": "Stavanger",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -10513.67,
+    "y": -48369.73
+  },
+  {
+    "token": "se_helsingbo",
+    "editorName": "helsingborg",
+    "defaultName": "HELSINGBORG",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 9711.43,
+    "y": -30014.43
+  },
+  {
+    "token": "se_goteborg",
+    "editorName": "goteborg",
+    "defaultName": "GÖTEBORG",
+    "nameVariants": [
+      "Gøteborg"
+    ],
+    "distanceOffset": 0,
+    "x": 8839.43,
+    "y": -39942.86
+  },
+  {
+    "token": "se_jonkoping",
+    "editorName": "jonkoping",
+    "defaultName": "JÖNKÖPING",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 14137.51,
+    "y": -39652.45
+  },
+  {
+    "token": "se_kalmar",
+    "editorName": "kalmar",
+    "defaultName": "KALMAR",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 19760.1,
+    "y": -34297.16
+  },
+  {
+    "token": "se_kapellska",
+    "editorName": "kapellskar",
+    "defaultName": "KAPELLSKÄR",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 27925.33,
+    "y": -50874.56
+  },
+  {
+    "token": "se_karlskron",
+    "editorName": "karlskrona",
+    "defaultName": "KARLSKRONA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 17153.97,
+    "y": -31004.89
+  },
+  {
+    "token": "se_linkoping",
+    "editorName": "linkoping",
+    "defaultName": "LINKÖPING",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 18078.6,
+    "y": -43235.97
+  },
+  {
+    "token": "se_malmo",
+    "editorName": "malmo",
+    "defaultName": "MALMÖ",
+    "nameVariants": [
+      "Malmø"
+    ],
+    "distanceOffset": 0,
+    "x": 10726.13,
+    "y": -27557.6,
+    "searchRadius": 500
+  },
+  {
+    "token": "se_nynashamn",
+    "editorName": "nynashamn",
+    "defaultName": "NYNÄSHAMN",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 25007.71,
+    "y": -46594.09
+  },
+  {
+    "token": "se_orebro",
+    "editorName": "orebro",
+    "defaultName": "ÖREBRO",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 16761.88,
+    "y": -48513.39
+  },
+  {
+    "token": "se_sodertalj",
+    "editorName": "sodertalje",
+    "defaultName": "SÖDERTÄLJE",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 23719,
+    "y": -46414.52
+  },
+  {
+    "token": "se_stockholm",
+    "editorName": "stockholm",
+    "defaultName": "STOCKHOLM",
+    "nameVariants": [
+      "Stockholm"
+    ],
+    "distanceOffset": 0,
+    "x": 24600.35,
+    "y": -49177.87
+  },
+  {
+    "token": "se_trellebor",
+    "editorName": "trelleborg",
+    "defaultName": "TRELLEBORG",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 10825.65,
+    "y": -25969.56
+  },
+  {
+    "token": "se_uppsala",
+    "editorName": "uppsala",
+    "defaultName": "UPPSALA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 24157.5,
+    "y": -51760.53
+  },
+  {
+    "token": "se_vasteraas",
+    "editorName": "vasteraas",
+    "defaultName": "VÄSTERÅS",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 20876.7,
+    "y": -50385.07
+  },
+  {
+    "token": "se_vaxjo",
+    "editorName": "vaxjo",
+    "defaultName": "VÄXJÖ",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 15916.79,
+    "y": -34831.28
+  },
+  {
+    "token": "it_ancona",
+    "editorName": "ancona",
+    "defaultName": "ANCONA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 9488.08,
+    "y": 40134.16
+  },
+  {
+    "token": "it_bari",
+    "editorName": "bari",
+    "defaultName": "BARI",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 24256.45,
+    "y": 54644.52
+  },
+  {
+    "token": "it_bologna",
+    "editorName": "bologna",
+    "defaultName": "BOLOGNA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 1266.45,
+    "y": 34078.55
+  },
+  {
+    "token": "it_cassino",
+    "editorName": "cassino",
+    "defaultName": "CASSINO",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 12441.7,
+    "y": 52184.08
+  },
+  {
+    "token": "it_cagliari",
+    "editorName": "cagliari",
+    "defaultName": "CAGLIARI",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -9661.75,
+    "y": 63112.78
+  },
+  {
+    "token": "it_catania",
+    "editorName": "catania",
+    "defaultName": "CATANIA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 16375.78,
+    "y": 75430.48,
+    "searchRadius": 600
+  },
+  {
+    "token": "it_catanzaro",
+    "editorName": "catanzaro",
+    "defaultName": "CATANZARO",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 23791.57,
+    "y": 66745.91
+  },
+  {
+    "token": "it_firenze",
+    "editorName": "firenze",
+    "defaultName": "FIRENZE",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 1146.49,
+    "y": 38692.03
+  },
+  {
+    "token": "it_genova",
+    "editorName": "genova",
+    "defaultName": "GENOVA",
+    "nameVariants": [
+      "GÈNES",
+      "(GENOVA)"
+    ],
+    "distanceOffset": 0,
+    "x": -8694.71,
+    "y": 34844.32
+  },
+  {
+    "token": "it_livorno",
+    "editorName": "livorno",
+    "defaultName": "LIVORNO",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -2117.32,
+    "y": 39900.68
+  },
+  {
+    "token": "it_messina",
+    "editorName": "messina",
+    "defaultName": "MESSINA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 17753.22,
+    "y": 71486.03
+  },
+  {
+    "token": "it_napoli",
+    "editorName": "napoli",
+    "defaultName": "NAPOLI",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 13787.76,
+    "y": 55487.93,
+    "searchRadius": 500
+  },
+  {
+    "token": "it_olbia",
+    "editorName": "olbia",
+    "defaultName": "OLBIA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -6891.7,
+    "y": 55496.66
+  },
+  {
+    "token": "it_palermo",
+    "editorName": "palermo",
+    "defaultName": "PALERMO",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 9531.73,
+    "y": 71986.07
+  },
+  {
+    "token": "it_parma",
+    "editorName": "parma",
+    "defaultName": "PARMA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -2973.22,
+    "y": 33752.49,
+    "searchRadius": 400
+  },
+  {
+    "token": "it_pescara",
+    "editorName": "pescara",
+    "defaultName": "PESCARA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 12645.66,
+    "y": 47239.84
+  },
+  {
+    "token": "it_roma",
+    "editorName": "roma",
+    "defaultName": "ROMA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 6382.79,
+    "y": 49929.64
+  },
+  {
+    "token": "it_sangiovan",
+    "editorName": "sangiovanni",
+    "defaultName": "VILLA SAN GIOVANNI",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 19407.97,
+    "y": 71464.91
+  },
+  {
+    "token": "it_sassari",
+    "editorName": "sassari",
+    "defaultName": "SASSARI",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -10953.2,
+    "y": 55508.05
+  },
+  {
+    "token": "it_suzzara",
+    "editorName": "suzzara",
+    "defaultName": "SUZZARA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -120.02,
+    "y": 32385.4
+  },
+  {
+    "token": "it_taranto",
+    "editorName": "taranto",
+    "defaultName": "TARANTO",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 26112.38,
+    "y": 57994.17
+  },
+  {
+    "token": "it_terni",
+    "editorName": "terni",
+    "defaultName": "TERNI",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 6549.93,
+    "y": 45952.61
+  },
+  {
+    "token": "ru_kaliningr",
+    "editorName": "kaliningrad",
+    "defaultName": "КАЛИНИНГРАД",
+    "nameVariants": [
+      "KALININGRAD",
+      "KARALIAUČIUS",
+      "KARALIAUČIUS<br>KALININGRAD"
+    ],
+    "distanceOffset": 0,
+    "x": 34501.34,
+    "y": -22925.11,
+    "searchRadius": 700
+  },
+  {
+    "token": "lt_kaunas",
+    "editorName": "kaunas",
+    "defaultName": "KAUNAS",
+    "nameVariants": [
+      "КАУНАС",
+      "КАУНАС<br>KAUNAS"
+    ],
+    "distanceOffset": 0,
+    "x": 46289.06,
+    "y": -25701.97
+  },
+  {
+    "token": "lt_klaipeda",
+    "editorName": "klaipeda",
+    "defaultName": "KLAIPĖDA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 37044.55,
+    "y": -28813.46
+  },
+  {
+    "token": "lt_siauliai",
+    "editorName": "siauliai",
+    "defaultName": "ŠIAULIAI",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 42713.05,
+    "y": -30639.5,
+    "searchRadius": 700
+  },
+  {
+    "token": "lt_vilnius",
+    "editorName": "vilnius",
+    "defaultName": "VILNIUS",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 50419.52,
+    "y": -24364.28,
+    "searchRadius": 1000
+  },
+  {
+    "token": "lt_panevezys",
+    "editorName": "panevezys",
+    "defaultName": "PANEVĖŽYS",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 46230.77,
+    "y": -30453.56,
+    "searchRadius": 600
+  },
+  {
+    "token": "lt_utena",
+    "editorName": "utena",
+    "defaultName": "UTENA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 51111.39,
+    "y": -29477.66,
+    "searchRadius": 500
+  },
+  {
+    "token": "lt_liepaja",
+    "editorName": "liepaja",
+    "defaultName": "LIEPĀJA",
+    "nameVariants": [
+      "LIEPOJA",
+      "LIEPOJA<br>LIEPĀJA"
+    ],
+    "distanceOffset": 0,
+    "x": 36029.41,
+    "y": -33565.18,
+    "searchRadius": 500
+  },
+  {
+    "token": "lv_ventspils",
+    "editorName": "ventspils",
+    "defaultName": "VENTSPILS",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 36925.38,
+    "y": -38362.11,
+    "searchRadius": 700
+  },
+  {
+    "token": "lv_daugavpil",
+    "editorName": "daugavpils",
+    "defaultName": "DAUGAVPILS",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 53533.65,
+    "y": -32356.32
+  },
+  {
+    "token": "lv_riga",
+    "editorName": "riga",
+    "defaultName": "RĪGA",
+    "nameVariants": [
+      "RIIA",
+      "РИГА",
+      "RYGA/RĪGA"
+    ],
+    "distanceOffset": 0,
+    "x": 44299.77,
+    "y": -36970.5,
+    "searchRadius": 1000
+  },
+  {
+    "token": "lv_valmiera",
+    "editorName": "valmiera",
+    "defaultName": "VALMIERA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 47553.79,
+    "y": -40956.64
+  },
+  {
+    "token": "ee_parnu",
+    "editorName": "parnu",
+    "defaultName": "PÄRNU",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 44270.05,
+    "y": -45617.93
+  },
+  {
+    "token": "ee_tartu",
+    "editorName": "tartu",
+    "defaultName": "TARTU",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 50457.51,
+    "y": -46753.64,
+    "searchRadius": 700
+  },
+  {
+    "token": "ee_paldiski",
+    "editorName": "paldiski",
+    "defaultName": "PALDISKI",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 43016.82,
+    "y": -49777.7
+  },
+  {
+    "token": "ee_tallinn",
+    "editorName": "tallinn",
+    "defaultName": "TALLINN",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 45000.45,
+    "y": -51254.6,
+    "searchRadius": 800
+  },
+  {
+    "token": "ee_narva",
+    "editorName": "narva",
+    "defaultName": "NARVA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 54101.91,
+    "y": -52570.97
+  },
+  {
+    "token": "ru_pskov",
+    "editorName": "pskov",
+    "defaultName": "ПСКОВ",
+    "nameVariants": [
+      "PSKOV",
+      "ПСКОВ<br>PSKOV"
+    ],
+    "distanceOffset": 0,
+    "x": 56969.05,
+    "y": -44488.82,
+    "searchRadius": 1000
+  },
+  {
+    "token": "ru_luga",
+    "editorName": "luga",
+    "defaultName": "ЛУГА",
+    "nameVariants": [
+      "LUGA"
+    ],
+    "distanceOffset": 0,
+    "x": 60718.08,
+    "y": -50019.1,
+    "searchRadius": 60
+  },
+  {
+    "token": "ru_petersbur",
+    "editorName": "petersburg",
+    "defaultName": "САНКТ-ПЕТЕРБУРГ",
+    "nameVariants": [
+      "SANKT-PETERSBURG",
+      "PIETARI",
+      "С.-ПЕТЕРБУРГ<br>St.PETERSBURG",
+      "St.PETERSBURG",
+      "PETERBURI"
+    ],
+    "distanceOffset": 0,
+    "x": 61619.29,
+    "y": -57124.29,
+    "searchRadius": 50
+  },
+  {
+    "token": "ru_vyborg",
+    "editorName": "vyborg",
+    "defaultName": "ВЫБОРГ",
+    "nameVariants": [
+      "VYBORG",
+      "ВЫБОРГ<br>VYBORG"
+    ],
+    "distanceOffset": 0,
+    "x": 54620.75,
+    "y": -60275.67
+  },
+  {
+    "token": "fi_kotka",
+    "editorName": "kotka",
+    "defaultName": "KOTKA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 49931.97,
+    "y": -58697.23
+  },
+  {
+    "token": "fi_kouvola",
+    "editorName": "kouvola",
+    "defaultName": "KOUVOLA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 49177.94,
+    "y": -60654.15,
+    "searchRadius": 500
+  },
+  {
+    "token": "fi_lahti",
+    "editorName": "lahti",
+    "defaultName": "LAHTI",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 45439.89,
+    "y": -60624.74,
+    "searchRadius": 300
+  },
+  {
+    "token": "fi_helsinki",
+    "editorName": "helsinki",
+    "defaultName": "HELSINKI",
+    "nameVariants": [
+      "ХЕЛЬСИНКИ",
+      "ХЕЛЬСИНКИ<br>HELSINKI"
+    ],
+    "distanceOffset": 0,
+    "x": 45090.64,
+    "y": -56005.7,
+    "searchRadius": 1000
+  },
+  {
+    "token": "fi_turku",
+    "editorName": "turku",
+    "defaultName": "TURKU",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 36288.68,
+    "y": -56873.61
+  },
+  {
+    "token": "fi_naantali",
+    "editorName": "naantali",
+    "defaultName": "NAANTALI",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 35333.74,
+    "y": -56736
+  },
+  {
+    "token": "fi_tampere",
+    "editorName": "tampere",
+    "defaultName": "TAMPERE",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 39693.07,
+    "y": -62826.2,
+    "searchRadius": 800
+  },
+  {
+    "token": "fi_pori",
+    "editorName": "pori",
+    "defaultName": "PORI",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 34358.73,
+    "y": -62097.64,
+    "searchRadius": 500
+  },
+  {
+    "token": "lv_rezekne",
+    "editorName": "rezekne",
+    "defaultName": "RĒZEKNE",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 54833.07,
+    "y": -36087.61,
+    "searchRadius": 1000
+  },
+  {
+    "token": "ee_kunda",
+    "editorName": "kunda",
+    "defaultName": "KUNDA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 49710.16,
+    "y": -52318.35
+  },
+  {
+    "token": "fi_olkiluoto",
+    "editorName": "olkiluoto",
+    "defaultName": "OLKILUOTO",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 34651.75,
+    "y": -60057.26
+  },
+  {
+    "token": "fi_loviisa",
+    "editorName": "loviisa",
+    "defaultName": "LOVIISA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 47252.93,
+    "y": -58025.41
+  },
+  {
+    "token": "lt_mazeikiai",
+    "editorName": "mazeikiai",
+    "defaultName": "MAŽEIKIAI",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 39217.68,
+    "y": -32630.36
+  },
+  {
+    "token": "fr_bordeaux",
+    "editorName": "bordeaux",
+    "defaultName": "BORDEAUX",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -46728.87,
+    "y": 27373.64,
+    "searchRadius": 1500
+  },
+  {
+    "token": "fr_clermont",
+    "editorName": "clermont",
+    "defaultName": "CLERMONT-FERRAND",
+    "nameVariants": [
+      "CLERMONT-F<sup>D</sup>"
+    ],
+    "distanceOffset": 0,
+    "x": -30200,
+    "y": 24678.16
+  },
+  {
+    "token": "fr_larochell",
+    "editorName": "larochelle",
+    "defaultName": "LA ROCHELLE",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -45717.04,
+    "y": 18748.28
+  },
+  {
+    "token": "fr_lehavre",
+    "editorName": "lehavre",
+    "defaultName": "LE HAVRE",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -36713.18,
+    "y": 1422.8
+  },
+  {
+    "token": "fr_lemans",
+    "editorName": "lemans",
+    "defaultName": "LE MANS",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -40117.17,
+    "y": 9252.93
+  },
+  {
+    "token": "fr_limoges",
+    "editorName": "limoges",
+    "defaultName": "LIMOGES",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -37396.91,
+    "y": 23867.91
+  },
+  {
+    "token": "fr_marseille",
+    "editorName": "marseille",
+    "defaultName": "MARSEILLE",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -22905.02,
+    "y": 39036.53
+  },
+  {
+    "token": "fr_montpelli",
+    "editorName": "montpellier",
+    "defaultName": "MONTPELLIER",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -29463.2,
+    "y": 35832.04,
+    "searchRadius": 700
+  },
+  {
+    "token": "fr_nantes",
+    "editorName": "nantes",
+    "defaultName": "NANTES",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -47825.36,
+    "y": 12907.3
+  },
+  {
+    "token": "fr_nice",
+    "editorName": "nice",
+    "defaultName": "NICE",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -16247.07,
+    "y": 37794.23
+  },
+  {
+    "token": "fr_rennes",
+    "editorName": "rennes",
+    "defaultName": "RENNES",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -45949.25,
+    "y": 8608.01
+  },
+  {
+    "token": "fr_toulouse",
+    "editorName": "toulouse",
+    "defaultName": "TOULOUSE",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -38672.14,
+    "y": 35395.38
+  },
+  {
+    "token": "fr_brest",
+    "editorName": "brest",
+    "defaultName": "BREST",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -56426.09,
+    "y": 4128.26
+  },
+  {
+    "token": "fr_roscoff",
+    "editorName": "roscoff",
+    "defaultName": "ROSCOFF",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -53504.39,
+    "y": 3610.03
+  },
+  {
+    "token": "fr_bourges",
+    "editorName": "bourges",
+    "defaultName": "BOURGES",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -32059.25,
+    "y": 16420
+  },
+  {
+    "token": "fr_civaux",
+    "editorName": "civaux",
+    "defaultName": "CIVAUX",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -39021.49,
+    "y": 18464.48
+  },
+  {
+    "token": "fr_laurent",
+    "editorName": "laurent",
+    "defaultName": "SAINT-LAURENT",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -35854.41,
+    "y": 13688.82
+  },
+  {
+    "token": "fr_paluel",
+    "editorName": "paluel",
+    "defaultName": "PALUEL",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -33421.54,
+    "y": 314.1
+  },
+  {
+    "token": "fr_golfech",
+    "editorName": "golfech",
+    "defaultName": "GOLFECH",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -40419.12,
+    "y": 31266.84
+  },
+  {
+    "token": "fr_ajaccio",
+    "editorName": "ajaccio",
+    "defaultName": "AJACCIO",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -9511.48,
+    "y": 48287.19,
+    "searchRadius": 300
+  },
+  {
+    "token": "fr_bastia",
+    "editorName": "bastia",
+    "defaultName": "BASTIA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -7029.43,
+    "y": 44249.64
+  },
+  {
+    "token": "fr_calvi",
+    "editorName": "calvi",
+    "defaultName": "CALVI",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -10112.3,
+    "y": 45908.73
+  },
+  {
+    "token": "fr_portovecc",
+    "editorName": "porto_vecchi",
+    "defaultName": "PORTO-VECCHIO",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -8036.55,
+    "y": 51064.75
+  },
+  {
+    "token": "fr_bonifacio",
+    "editorName": "bonifacio",
+    "defaultName": "BONIFACIO",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -8428.96,
+    "y": 51939.63
+  },
+  {
+    "token": "fr_bayonne",
+    "editorName": "bayonne",
+    "defaultName": "BAYONNE",
+    "nameVariants": [
+      "Baiona"
+    ],
+    "distanceOffset": 0,
+    "x": -51722.2,
+    "y": 33852.49
+  },
+  {
+    "token": "fr_lacq",
+    "editorName": "lacq",
+    "defaultName": "LACQ",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -48790.28,
+    "y": 35852.34
+  },
+  {
+    "token": "fr_alban",
+    "editorName": "alban",
+    "defaultName": "SAINT-ALBAN-DU-RHÔNE",
+    "nameVariants": [
+      "S<sup>T</sup> ALBAN"
+    ],
+    "distanceOffset": 0,
+    "x": -25762.89,
+    "y": 28756.11
+  },
+  {
+    "token": "fr_lilerous",
+    "editorName": "lile_rousse",
+    "defaultName": "L'ÎLE-ROUSSE",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -9000.82,
+    "y": 45086.8
+  },
+  {
+    "token": "tr_edirne",
+    "editorName": "edirne",
+    "defaultName": "Edirne",
+    "nameVariants": [
+      "ОДРИН"
+    ],
+    "distanceOffset": 0,
+    "x": 65901.2,
+    "y": 46546.79
+  },
+  {
+    "token": "tr_istanbul",
+    "editorName": "istanbul",
+    "defaultName": "İstanbul",
+    "nameVariants": [
+      "ИСТАНБУЛ",
+      "ISTANBUL",
+      "ИСТАНБУЛ<br>ISTANBUL"
+    ],
+    "distanceOffset": 0,
+    "x": 75662.29,
+    "y": 47080.71
+  },
+  {
+    "token": "tr_tekirdag",
+    "editorName": "tekirdag",
+    "defaultName": "Tekırdağ",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 68479.58,
+    "y": 49611.5,
+    "searchRadius": 500
+  },
+  {
+    "token": "bg_burgas",
+    "editorName": "burgas",
+    "defaultName": "БУРГАС",
+    "nameVariants": [
+      "BURGAS",
+      "БУРГАС<br>BURGAS"
+    ],
+    "distanceOffset": 0,
+    "x": 68669.77,
+    "y": 40405.01,
+    "searchRadius": 500
+  },
+  {
+    "token": "bg_karlovo",
+    "editorName": "karlovo",
+    "defaultName": "КАРЛОВО",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 58183.26,
+    "y": 42051.47
+  },
+  {
+    "token": "bg_kozloduy",
+    "editorName": "kozloduy",
+    "defaultName": "КОЗЛОДУЙ",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 52537.39,
+    "y": 36372.35
+  },
+  {
+    "token": "bg_pernik",
+    "editorName": "pernik",
+    "defaultName": "ПЕРНИК",
+    "nameVariants": [
+      "PERNIK",
+      "ПЕРНИК<br>PERNIK"
+    ],
+    "distanceOffset": 0,
+    "x": 48908.3,
+    "y": 45255.63
+  },
+  {
+    "token": "bg_pirdop",
+    "editorName": "pirdop",
+    "defaultName": "ПИРДОП",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 55955.13,
+    "y": 42158.61
+  },
+  {
+    "token": "bg_pleven",
+    "editorName": "pleven",
+    "defaultName": "ПЛЕВЕН",
+    "nameVariants": [
+      "PLEVEN",
+      "ПЛЕВЕН<br>PLEVEN"
+    ],
+    "distanceOffset": 0,
+    "x": 57622.93,
+    "y": 37502.62
+  },
+  {
+    "token": "bg_plovdiv",
+    "editorName": "plovdiv",
+    "defaultName": "ПЛОВДИВ",
+    "nameVariants": [
+      "PLOVDIV",
+      "ПЛОВДИВ<br>PLOVDIV"
+    ],
+    "distanceOffset": 0,
+    "x": 57916.21,
+    "y": 45030.5
+  },
+  {
+    "token": "bg_sofia",
+    "editorName": "sofia",
+    "defaultName": "СОФИЯ",
+    "nameVariants": [
+      "SOFIA",
+      "София",
+      "Sofia",
+      "СОФИЯ<br>SOFIA",
+      "София<br>Sofia"
+    ],
+    "distanceOffset": 0,
+    "x": 51010.09,
+    "y": 42963.96,
+    "searchRadius": 700
+  },
+  {
+    "token": "bg_ruse",
+    "editorName": "ruse",
+    "defaultName": "РУСЕ",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 61106.2,
+    "y": 35115.28
+  },
+  {
+    "token": "bg_velitar",
+    "editorName": "veli_tarnovo",
+    "defaultName": "ВЕЛИКО ТЪРНОВО",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 60805.75,
+    "y": 39134.34,
+    "searchRadius": 400
+  },
+  {
+    "token": "ro_bacau",
+    "editorName": "bacau",
+    "defaultName": "Bacău",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 62291.36,
+    "y": 18252.59
+  },
+  {
+    "token": "ro_brasov",
+    "editorName": "brasov",
+    "defaultName": "Brașov",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 57485.24,
+    "y": 24747.18
+  },
+  {
+    "token": "ro_bucuresti",
+    "editorName": "bucuresti",
+    "defaultName": "București",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 61136.76,
+    "y": 31109.29,
+    "searchRadius": 1200
+  },
+  {
+    "token": "ro_calarasi",
+    "editorName": "calarasi",
+    "defaultName": "Călărași",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 66212.9,
+    "y": 31148.7
+  },
+  {
+    "token": "ro_cernavoda",
+    "editorName": "cernavoda",
+    "defaultName": "Cernavodă",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 69056.21,
+    "y": 30567.21
+  },
+  {
+    "token": "ro_constanta",
+    "editorName": "constanta",
+    "defaultName": "Constanța",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 71615.66,
+    "y": 30908.74
+  },
+  {
+    "token": "ro_craiova",
+    "editorName": "craiova",
+    "defaultName": "Craiova",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 51871.37,
+    "y": 33273.89,
+    "searchRadius": 500
+  },
+  {
+    "token": "ro_galati",
+    "editorName": "galati",
+    "defaultName": "Galați",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 67064.68,
+    "y": 24525.12,
+    "searchRadius": 500
+  },
+  {
+    "token": "ro_hunedoara",
+    "editorName": "hunedoara",
+    "defaultName": "Hunedoara",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 48774.59,
+    "y": 26283.09
+  },
+  {
+    "token": "ro_iasi",
+    "editorName": "iasi",
+    "defaultName": "Iași",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 64560.59,
+    "y": 15322.02,
+    "searchRadius": 1000
+  },
+  {
+    "token": "ro_mangalia",
+    "editorName": "mangalia",
+    "defaultName": "Mangalia",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 71516.33,
+    "y": 33632.22
+  },
+  {
+    "token": "ro_pitesti",
+    "editorName": "pitesti",
+    "defaultName": "Pitești",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 56090.78,
+    "y": 29724.57
+  },
+  {
+    "token": "ro_resita",
+    "editorName": "resita",
+    "defaultName": "Reșița",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 44476.61,
+    "y": 29506.56
+  },
+  {
+    "token": "ro_targumur",
+    "editorName": "targu_mures",
+    "defaultName": "Târgu Mureș",
+    "nameVariants": [
+      "Tg. Mureș"
+    ],
+    "distanceOffset": 0,
+    "x": 53875.81,
+    "y": 20232.81,
+    "searchRadius": 500
+  },
+  {
+    "token": "ro_timisoara",
+    "editorName": "timisoara",
+    "defaultName": "Timișoara",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 41385.23,
+    "y": 26306.67
+  },
+  {
+    "token": "bg_varna",
+    "editorName": "varna",
+    "defaultName": "ВАРНА",
+    "nameVariants": [
+      "VARNA",
+      "ВАРНА<br>VARNA"
+    ],
+    "distanceOffset": 0,
+    "x": 69999.27,
+    "y": 36215.25,
+    "searchRadius": 600
+  },
+  {
+    "token": "fr_calais",
+    "editorName": "calais",
+    "defaultName": "CALAIS",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -29721.79,
+    "y": -4651.02
+  },
+  {
+    "token": "fr_lyon",
+    "editorName": "lyon",
+    "defaultName": "LYON",
+    "nameVariants": [
+      "Lyon"
+    ],
+    "distanceOffset": 0,
+    "x": -23121.65,
+    "y": 25684.32,
+    "searchRadius": 800
+  },
+  {
+    "token": "fr_metz",
+    "editorName": "metz",
+    "defaultName": "METZ",
+    "nameVariants": [
+      "Metz"
+    ],
+    "distanceOffset": 0,
+    "x": -16334.47,
+    "y": 7313.25
+  },
+  {
+    "token": "fr_dijon",
+    "editorName": "dijon",
+    "defaultName": "DIJON",
+    "nameVariants": [
+      "Dijon"
+    ],
+    "distanceOffset": 0,
+    "x": -22327.38,
+    "y": 16617.93,
+    "searchRadius": 300
+  },
+  {
+    "token": "fr_lille",
+    "editorName": "lille",
+    "defaultName": "LILLE",
+    "nameVariants": [
+      "Lille",
+      "Rijsel (Lille)"
+    ],
+    "distanceOffset": 0,
+    "x": -26451.86,
+    "y": -2165.09
+  },
+  {
+    "token": "fr_paris",
+    "editorName": "paris",
+    "defaultName": "PARIS",
+    "nameVariants": [
+      "Paris"
+    ],
+    "distanceOffset": 0,
+    "x": -28529.64,
+    "y": 4790.09,
+    "searchRadius": 500
+  },
+  {
+    "token": "it_milano",
+    "editorName": "milano",
+    "defaultName": "MILANO",
+    "nameVariants": [
+      "Milano",
+      "MILAN"
+    ],
+    "distanceOffset": 0,
+    "x": -5824.3,
+    "y": 29195.97
+  },
+  {
+    "token": "it_torino",
+    "editorName": "torino",
+    "defaultName": "TORINO",
+    "nameVariants": [
+      "TURIN",
+      "Torino"
+    ],
+    "distanceOffset": 0,
+    "x": -12983.12,
+    "y": 31199.07,
+    "searchRadius": 500
+  },
+  {
+    "token": "it_verona",
+    "editorName": "verona",
+    "defaultName": "VERONA",
+    "nameVariants": [
+      "Verona"
+    ],
+    "distanceOffset": 0,
+    "x": -207.03,
+    "y": 29635.6,
+    "searchRadius": 300
+  },
+  {
+    "token": "it_venezia",
+    "editorName": "venezia",
+    "defaultName": "VENEZIA",
+    "nameVariants": [
+      "Venedig"
+    ],
+    "distanceOffset": 0,
+    "x": 4769.19,
+    "y": 29993.88
+  },
+  {
+    "token": "hu_budapest",
+    "editorName": "budapest",
+    "defaultName": "Budapest",
+    "nameVariants": [
+      "Budimpešta/<br>Budapest"
+    ],
+    "distanceOffset": 0,
+    "x": 32578.25,
+    "y": 17856.34
+  },
+  {
+    "token": "hu_debrecen",
+    "editorName": "debrecen",
+    "defaultName": "Debrecen",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 41660.31,
+    "y": 17459.17,
+    "searchRadius": 600
+  },
+  {
+    "token": "hu_szeged",
+    "editorName": "szeged",
+    "defaultName": "Szeged",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 36735.04,
+    "y": 24415.88,
+    "searchRadius": 500
+  },
+  {
+    "token": "hu_pecs",
+    "editorName": "pecs",
+    "defaultName": "Pécs",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 29314.27,
+    "y": 26289.51
+  },
+  {
+    "token": "at_wien",
+    "editorName": "wien",
+    "defaultName": "Wien",
+    "nameVariants": [
+      "Bécs-Wien"
+    ],
+    "distanceOffset": 0,
+    "x": 21335.15,
+    "y": 13969.04
+  },
+  {
+    "token": "at_graz",
+    "editorName": "graz",
+    "defaultName": "Graz",
+    "nameVariants": [
+      "Gradec/Graz"
+    ],
+    "distanceOffset": 0,
+    "x": 18817.51,
+    "y": 20621.34
+  },
+  {
+    "token": "at_salzburg",
+    "editorName": "salzburg",
+    "defaultName": "Salzburg",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 9239.13,
+    "y": 15962.4
+  },
+  {
+    "token": "at_linz",
+    "editorName": "linz",
+    "defaultName": "Linz",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 13705.92,
+    "y": 13750.99
+  },
+  {
+    "token": "at_innsbruck",
+    "editorName": "innsbruck",
+    "defaultName": "Innsbruck",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 2220.96,
+    "y": 19596.67
+  },
+  {
+    "token": "at_klagenf",
+    "editorName": "klagenfurt",
+    "defaultName": "Klagenfurt",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 14696.8,
+    "y": 23203.98
+  },
+  {
+    "token": "sk_bratislav",
+    "editorName": "bratislava",
+    "defaultName": "BRATISLAVA",
+    "nameVariants": [
+      "Bratislava",
+      "Pozsony-Bratislava"
+    ],
+    "distanceOffset": 0,
+    "x": 24732.52,
+    "y": 14755.05
+  },
+  {
+    "token": "sk_bystrica",
+    "editorName": "bystrica",
+    "defaultName": "B.BYSTRICA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 32241.79,
+    "y": 10860.87
+  },
+  {
+    "token": "sk_kosice",
+    "editorName": "kosice",
+    "defaultName": "KOŠICE",
+    "nameVariants": [
+      "Kassa-Košice"
+    ],
+    "distanceOffset": 0,
+    "x": 39754.01,
+    "y": 10665.94
+  },
+  {
+    "token": "cz_brno",
+    "editorName": "brno",
+    "defaultName": "BRNO",
+    "nameVariants": [
+      "Brno"
+    ],
+    "distanceOffset": 0,
+    "x": 21934.96,
+    "y": 9006.99
+  },
+  {
+    "token": "cz_ostrava",
+    "editorName": "ostrava",
+    "defaultName": "OSTRAVA",
+    "nameVariants": [
+      "Ostrava"
+    ],
+    "distanceOffset": 0,
+    "x": 28220.11,
+    "y": 5276.32
+  },
+  {
+    "token": "cz_praha",
+    "editorName": "praha",
+    "defaultName": "PRAHA",
+    "nameVariants": [
+      "Praha",
+      "Prag/Praha"
+    ],
+    "distanceOffset": 0,
+    "x": 14736.27,
+    "y": 3728.64
+  },
+  {
+    "token": "ru_arzamas",
+    "editorName": "arzamas",
+    "defaultName": "АРЗАМAС",
+    "nameVariants": [
+      "ARZAMAS"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "38cee078e88a0000"
+  },
+  {
+    "token": "ru_bryansk",
+    "editorName": "bryansk",
+    "defaultName": "БРЯНСК",
+    "nameVariants": [
+      "BRYANSK",
+      "БРЯНСК<br>BRYANSK"
+    ],
+    "distanceOffset": 0,
+    "x": 81065.68,
+    "y": -23993.49,
+    "searchRadius": 1000
+  },
+  {
+    "token": "ru_cherepove",
+    "editorName": "cherepovets",
+    "defaultName": "ЧЕРЕПОВЕЦ",
+    "nameVariants": [
+      "CHEREPOVETS"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "3cb589d8c19b0002"
+  },
+  {
+    "token": "ru_dzerzhins",
+    "editorName": "dzerzhinsk",
+    "defaultName": "ДЗЕРЖИНСК",
+    "nameVariants": [
+      "DZERZHINSK"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "3d0400a420570002"
+  },
+  {
+    "token": "ru_ivanovo",
+    "editorName": "ivanovo",
+    "defaultName": "ИВАНОВО",
+    "nameVariants": [
+      "IVANOVO"
+    ],
+    "distanceOffset": 0,
+    "x": 94509.63,
+    "y": -51508.28,
+    "searchRadius": 1150
+  },
+  {
+    "token": "ru_kaluga",
+    "editorName": "kaluga",
+    "defaultName": "КАЛУГА",
+    "nameVariants": [
+      "KALUGA",
+      "КАЛУГА<br>KALUGA"
+    ],
+    "distanceOffset": 0,
+    "x": 85576.39,
+    "y": -33316.18,
+    "searchRadius": 1000
+  },
+  {
+    "token": "ru_kirishi",
+    "editorName": "kirishi",
+    "defaultName": "КИРИШИ",
+    "nameVariants": [
+      "KIRISHI"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "3be202108ce50003"
+  },
+  {
+    "token": "ru_kolomna",
+    "editorName": "kolomna",
+    "defaultName": "КОЛОМНА",
+    "nameVariants": [
+      "KOLOMNA"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "3d3df808fc0a00f7"
+  },
+  {
+    "token": "ru_kostroma",
+    "editorName": "kostroma",
+    "defaultName": "КОСТРОМА",
+    "nameVariants": [
+      "KOSTROMA"
+    ],
+    "distanceOffset": 0,
+    "x": 93529.59,
+    "y": -54747.19,
+    "searchRadius": 1000
+  },
+  {
+    "token": "ru_kovrov",
+    "editorName": "kovrov",
+    "defaultName": "КОВРОВ",
+    "nameVariants": [
+      "KOVROV"
+    ],
+    "distanceOffset": 0,
+    "x": 96565.53,
+    "y": -49142.1,
+    "searchRadius": 1000
+  },
+  {
+    "token": "ru_lodeynoye",
+    "editorName": "lodeynoye",
+    "defaultName": "ЛОДЕЙНОЕ ПОЛЕ",
+    "nameVariants": [
+      "LODEYNOYE POLE",
+      "ЛОДЕЙНОЕ ПОЛЕ<br>LODEYNOYE POLE"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "3c8fadc8f35c0003"
+  },
+  {
+    "token": "ru_moscow",
+    "editorName": "moscow",
+    "defaultName": "МОСКВА",
+    "nameVariants": [
+      "MOSKVA",
+      "MOSCOW",
+      "МОСКВА<br>MOSKVA",
+      "МОСКВА<br>MOSCOW"
+    ],
+    "distanceOffset": 0,
+    "x": 87160.87,
+    "y": -41572.66,
+    "searchRadius": 1000
+  },
+  {
+    "token": "ru_murom",
+    "editorName": "murom",
+    "defaultName": "МУРОМ",
+    "nameVariants": [
+      "MUROM",
+      "МУРОМ<br>MUROM"
+    ],
+    "distanceOffset": 0,
+    "x": 99362.97,
+    "y": -45439.16,
+    "searchRadius": 250
+  },
+  {
+    "token": "ru_nnovgorod",
+    "editorName": "n_novgorod",
+    "defaultName": "НИЖНИЙ НОВГОРОД",
+    "nameVariants": [
+      "NIZHNY NOVGOROD",
+      "Н.НОВГОРОД",
+      "N.NOVGOROD",
+      "НИЖ. НОВГОРОД",
+      "NIZH. NOVGOROD",
+      "НИЖ. НОВГОРОД<br>NIZH. NOVGOROD",
+      "Н.НОВГОРОД<br>N.NOVGOROD"
+    ],
+    "distanceOffset": 0,
+    "x": 104984.37,
+    "y": -50509.77,
+    "searchRadius": 1500
+  },
+  {
+    "token": "ru_novomosko",
+    "editorName": "novomoskovsk",
+    "defaultName": "НОВОМОСКОВСК",
+    "nameVariants": [
+      "NOVOMOSKOVSK"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "361d18b8c08a0002"
+  },
+  {
+    "token": "ru_obninsk",
+    "editorName": "obninsk",
+    "defaultName": "ОБНИНСК",
+    "nameVariants": [
+      "OBNINSK"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "3c254804c4ce0000"
+  },
+  {
+    "token": "ru_oryol",
+    "editorName": "oryol",
+    "defaultName": "ОРЁЛ",
+    "nameVariants": [
+      "ORYOL",
+      "ОРEЛ",
+      "OREL",
+      "ОРEЛ<br>ORYOL"
+    ],
+    "distanceOffset": 0,
+    "x": 86568.81,
+    "y": -23898.09,
+    "searchRadius": 1000
+  },
+  {
+    "token": "ru_petrozavo",
+    "editorName": "petrozavodsk",
+    "defaultName": "ПЕТРОЗАВОДСК",
+    "nameVariants": [
+      "PETROZAVODSK",
+      "ПЕТРОЗАВОДСК<br>PETROZAVODSK"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "3671cb5cbbca0000"
+  },
+  {
+    "token": "ru_ryazan",
+    "editorName": "ryazan",
+    "defaultName": "РЯЗАНЬ",
+    "nameVariants": [
+      "RYAZAN",
+      "РЯЗАНЬ<br>RYAZAN"
+    ],
+    "distanceOffset": 0,
+    "x": 95484.38,
+    "y": -37774.76,
+    "searchRadius": 1500
+  },
+  {
+    "token": "ru_rybinsk",
+    "editorName": "rybinsk",
+    "defaultName": "РЫБИНСК",
+    "nameVariants": [
+      "RYBINSK"
+    ],
+    "distanceOffset": 0,
+    "x": 85761.55,
+    "y": -54433.95,
+    "searchRadius": 1300
+  },
+  {
+    "token": "ru_rzhev",
+    "editorName": "rzhev",
+    "defaultName": "РЖЕВ",
+    "nameVariants": [
+      "RZHEV",
+      "РЖЕВ<br>RZHEV"
+    ],
+    "distanceOffset": 0,
+    "x": 76785.82,
+    "y": -41600.59,
+    "searchRadius": 1000
+  },
+  {
+    "token": "ru_saransk",
+    "editorName": "saransk",
+    "defaultName": "САРАНСК",
+    "nameVariants": [
+      "SARANSK",
+      "САРАНСК<br>SARANSK"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "3b2637b4df660002"
+  },
+  {
+    "token": "ru_smolensk",
+    "editorName": "smolensk",
+    "defaultName": "СМОЛЕНСК",
+    "nameVariants": [
+      "SMOLENSK"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "3d7872705b200000"
+  },
+  {
+    "token": "ru_tikhvin",
+    "editorName": "tikhvin",
+    "defaultName": "ТИХВИН",
+    "nameVariants": [
+      "TIKHVIN"
+    ],
+    "distanceOffset": 0,
+    "x": 69853.73,
+    "y": -58109.43,
+    "searchRadius": 1000
+  },
+  {
+    "token": "ru_tula",
+    "editorName": "tula",
+    "defaultName": "ТУЛА",
+    "nameVariants": [
+      "TULA"
+    ],
+    "distanceOffset": 0,
+    "x": 89581.73,
+    "y": -33526.85,
+    "searchRadius": 500
+  },
+  {
+    "token": "ru_tver",
+    "editorName": "tver",
+    "defaultName": "ТВЕРЬ",
+    "nameVariants": [
+      "TVER",
+      "ТВЕРЬ<br>TVER"
+    ],
+    "distanceOffset": 0,
+    "x": 80311.9,
+    "y": -45783.71,
+    "searchRadius": 900
+  },
+  {
+    "token": "ru_vluki",
+    "editorName": "v_luki",
+    "defaultName": "ВЕЛИКИЕ ЛУКИ",
+    "nameVariants": [
+      "VELIKIYE LUKI",
+      "В.ЛУКИ"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "35d7cfbca70a0002"
+  },
+  {
+    "token": "ru_vnovgorod",
+    "editorName": "v_novgorod",
+    "defaultName": "ВЕЛИКИЙ НОВГОРОД",
+    "nameVariants": [
+      "VELIKIY NOVGOROD",
+      "В.НОВГОРОД",
+      "ВЕЛИКИЙ НОВГОРОД<br>VELIKIY NOVGOROD"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "364c8f749a8a0000"
+  },
+  {
+    "token": "ru_vvolochyo",
+    "editorName": "v_volochyok",
+    "defaultName": "ВЫШНИЙ ВОЛОЧЁК",
+    "nameVariants": [
+      "VYSHNIY VOLOCHYOK"
+    ],
+    "distanceOffset": 0,
+    "x": 74998.62,
+    "y": -48931.93,
+    "searchRadius": 1500
+  },
+  {
+    "token": "ru_vladimir",
+    "editorName": "vladimir",
+    "defaultName": "ВЛАДИМИР",
+    "nameVariants": [
+      "VLADIMIR",
+      "ВЛАДИМИР<br>VLADIMIR"
+    ],
+    "distanceOffset": 0,
+    "x": 93797.48,
+    "y": -46613.8,
+    "searchRadius": 1500
+  },
+  {
+    "token": "ru_volkhov",
+    "editorName": "volkhov",
+    "defaultName": "ВОЛХОВ",
+    "nameVariants": [
+      "VOLKHOV"
+    ],
+    "distanceOffset": 0,
+    "x": 65840.57,
+    "y": -58550.83
+  },
+  {
+    "token": "ru_vologda",
+    "editorName": "vologda",
+    "defaultName": "ВОЛОГДА",
+    "nameVariants": [
+      "VOLOGDA",
+      "ВОЛОГДА<br>VOLOGDA"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "36708388bb4a0004"
+  },
+  {
+    "token": "ru_vyazma",
+    "editorName": "vyazma",
+    "defaultName": "ВЯЗЬМА",
+    "nameVariants": [
+      "VYAZMA",
+      "ВЯЗЬМА<br>VYAZMA"
+    ],
+    "distanceOffset": 0,
+    "x": 78090.31,
+    "y": -34547.8,
+    "searchRadius": 450
+  },
+  {
+    "token": "ru_vyksa",
+    "editorName": "vyksa",
+    "defaultName": "ВЫКСА",
+    "nameVariants": [
+      "VYKSA",
+      "ВЫКСА<br>VYKSA"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "38b667d0ccca0000"
+  },
+  {
+    "token": "ru_yaroslavl",
+    "editorName": "yaroslavl",
+    "defaultName": "ЯРОСЛАВЛЬ",
+    "nameVariants": [
+      "YAROSLAVL",
+      "ЯРОСЛАВЛЬ<br>YAROSLAVL"
+    ],
+    "distanceOffset": 0,
+    "x": 90066.28,
+    "y": -53373.09,
+    "searchRadius": 1000
+  },
+  {
+    "token": "pl_bialystok",
+    "editorName": "bialystok",
+    "defaultName": "Białystok",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 44011.31,
+    "y": -15119.64
+  },
+  {
+    "token": "pl_gdansk",
+    "editorName": "gdansk",
+    "defaultName": "Gdańsk",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 28579.86,
+    "y": -20659.05
+  },
+  {
+    "token": "pl_gdynia",
+    "editorName": "gdyne",
+    "defaultName": "Gdynia",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 28032.54,
+    "y": -22168.1
+  },
+  {
+    "token": "pl_katowice",
+    "editorName": "katowice",
+    "defaultName": "Katowice",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 30863.68,
+    "y": 2373.8
+  },
+  {
+    "token": "pl_krakow",
+    "editorName": "krakow",
+    "defaultName": "Kraków",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 34583.82,
+    "y": 2951.45
+  },
+  {
+    "token": "pl_lodz",
+    "editorName": "lodz",
+    "defaultName": "Łódź",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 31876.59,
+    "y": -6278.74
+  },
+  {
+    "token": "pl_lublin",
+    "editorName": "lublin",
+    "defaultName": "Lublin",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 42928.93,
+    "y": -4211.56
+  },
+  {
+    "token": "pl_olsztyn",
+    "editorName": "olsztyn",
+    "defaultName": "Olsztyn",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 34695.95,
+    "y": -17676.09
+  },
+  {
+    "token": "pl_poznan",
+    "editorName": "poznan",
+    "defaultName": "Poznań",
+    "nameVariants": [
+      "Posen (Poznań)",
+      "Posen",
+      "(Poznań)",
+      "Posen<br>(Poznań)"
+    ],
+    "distanceOffset": 0,
+    "x": 22948.56,
+    "y": -9270.93,
+    "searchRadius": 500
+  },
+  {
+    "token": "pl_szczecin",
+    "editorName": "szczecin",
+    "defaultName": "Szczecin",
+    "nameVariants": [
+      "Stettin (Szczecin)",
+      "Stettin",
+      "(Szczecin)",
+      "Stettin<br>(Szczecin)"
+    ],
+    "distanceOffset": 0,
+    "x": 14984.98,
+    "y": -15006.98
+  },
+  {
+    "token": "pl_warszawa",
+    "editorName": "warszawa",
+    "defaultName": "Warszawa",
+    "nameVariants": [
+      "VARŠUVA",
+      "Warschau",
+      "VARŠUVA<br>WARSZAWA",
+      "Warschau/Warszawa"
+    ],
+    "distanceOffset": 0,
+    "x": 37141.23,
+    "y": -9339.88,
+    "searchRadius": 500
+  },
+  {
+    "token": "pl_wroclaw",
+    "editorName": "wroclaw",
+    "defaultName": "Wrocław",
+    "nameVariants": [
+      "Breslau (Wrocław)",
+      "Breslau",
+      "(Wrocław)",
+      "Breslau<br>(Wrocław)"
+    ],
+    "distanceOffset": 0,
+    "x": 23502.78,
+    "y": -1716.84,
+    "searchRadius": 500
+  },
+  {
+    "token": "nl_amsterdam",
+    "editorName": "amsterdam",
+    "defaultName": "Amsterdam",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "searchRadius": 400,
+    "x": -18168.18,
+    "y": -11622.84
+  },
+  {
+    "token": "nl_groningen",
+    "editorName": "groningen",
+    "defaultName": "Groningen",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -12493.21,
+    "y": -15459.81
+  },
+  {
+    "token": "nl_rotterdam",
+    "editorName": "rotterdam",
+    "defaultName": "Rotterdam",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -20326.98,
+    "y": -8637.96
+  },
+  {
+    "token": "de_berlin",
+    "editorName": "berlin",
+    "defaultName": "Berlin",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 10185.26,
+    "y": -9814.42,
+    "searchRadius": 1500
+  },
+  {
+    "token": "de_bremen",
+    "editorName": "bremen",
+    "defaultName": "Bremen",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -5017.48,
+    "y": -14326.78,
+    "searchRadius": 1000
+  },
+  {
+    "token": "de_dortmund",
+    "editorName": "dortmund",
+    "defaultName": "Dortmund",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -10769.67,
+    "y": -6561.17,
+    "searchRadius": 1000
+  },
+  {
+    "token": "de_dresden",
+    "editorName": "dresden",
+    "defaultName": "Dresden",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 12182.59,
+    "y": -1888.45,
+    "searchRadius": 1000
+  },
+  {
+    "token": "de_duisburg",
+    "editorName": "duisburg",
+    "defaultName": "Duisburg",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -13667.22,
+    "y": -6199.18,
+    "searchRadius": 300
+  },
+  {
+    "token": "de_dusseld",
+    "editorName": "dusseldorf",
+    "defaultName": "Düsseldorf",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -12682.95,
+    "y": -4512.7
+  },
+  {
+    "token": "de_erfurt",
+    "editorName": "erfurt",
+    "defaultName": "Erfurt",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 2288.38,
+    "y": -2277.02,
+    "searchRadius": 600
+  },
+  {
+    "token": "de_hamburg",
+    "editorName": "hamburg",
+    "defaultName": "Hamburg",
+    "nameVariants": [
+      "Hamborg"
+    ],
+    "distanceOffset": 0,
+    "x": -1272.92,
+    "y": -16643.69,
+    "searchRadius": 1000
+  },
+  {
+    "token": "de_hannover",
+    "editorName": "hannover",
+    "defaultName": "Hannover",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -1575.83,
+    "y": -9283.99,
+    "searchRadius": 1000
+  },
+  {
+    "token": "de_frankfurt",
+    "editorName": "frankfurt",
+    "defaultName": "Frankfurt a.M.",
+    "nameVariants": [
+      "Frankfurt"
+    ],
+    "distanceOffset": 0,
+    "x": -6382.35,
+    "y": 2992.63,
+    "searchRadius": 1000
+  },
+  {
+    "token": "de_kassel",
+    "editorName": "kassel",
+    "defaultName": "Kassel",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -2926.23,
+    "y": -3481.48
+  },
+  {
+    "token": "de_kiel",
+    "editorName": "kiel",
+    "defaultName": "Kiel",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 906.68,
+    "y": -21556.75,
+    "searchRadius": 1000
+  },
+  {
+    "token": "de_koln",
+    "editorName": "koln",
+    "defaultName": "Köln",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -11986.85,
+    "y": -3011.34,
+    "searchRadius": 500
+  },
+  {
+    "token": "de_leipzig",
+    "editorName": "leipzig",
+    "defaultName": "Leipzig",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 6873.56,
+    "y": -3197.28,
+    "searchRadius": 1000
+  },
+  {
+    "token": "de_mannheim",
+    "editorName": "mannheim",
+    "defaultName": "Mannheim",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -8115.19,
+    "y": 5895.84,
+    "searchRadius": 1000
+  },
+  {
+    "token": "de_magdeburg",
+    "editorName": "magdeburg",
+    "defaultName": "Magdeburg",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 4496.65,
+    "y": -8734.48
+  },
+  {
+    "token": "de_osnabruck",
+    "editorName": "osnabruck",
+    "defaultName": "Osnabrück",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -7890.51,
+    "y": -9896.29
+  },
+  {
+    "token": "de_rostock",
+    "editorName": "rostock",
+    "defaultName": "Rostock",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 6472.36,
+    "y": -19421.84,
+    "searchRadius": 1000
+  },
+  {
+    "token": "de_nurnberg",
+    "editorName": "nurnberg",
+    "defaultName": "Nürnberg",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 2010.28,
+    "y": 6530.47,
+    "searchRadius": 1500
+  },
+  {
+    "token": "de_stuttgart",
+    "editorName": "stuttgart",
+    "defaultName": "Stuttgart",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -4600.21,
+    "y": 10651.28,
+    "searchRadius": 1000
+  },
+  {
+    "token": "de_munchen",
+    "editorName": "munchen",
+    "defaultName": "München",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 3838.02,
+    "y": 14147.13,
+    "searchRadius": 1000
+  },
+  {
+    "token": "fr_reims",
+    "editorName": "reims",
+    "defaultName": "REIMS",
+    "nameVariants": [
+      "Reims"
+    ],
+    "distanceOffset": 0,
+    "x": -24021.19,
+    "y": 5947.18
+  },
+  {
+    "token": "be_brussel",
+    "editorName": "brussel",
+    "defaultName": "Brussel",
+    "nameVariants": [
+      "BRUXELLES",
+      "Bruxelles"
+    ],
+    "distanceOffset": 0,
+    "x": -22011.71,
+    "y": -3456.34
+  },
+  {
+    "token": "be_liege",
+    "editorName": "liege",
+    "defaultName": "Liège",
+    "nameVariants": [
+      "Luik",
+      "Lüttich (Liège)",
+      "Lüttich",
+      "(Liège)"
+    ],
+    "distanceOffset": 0,
+    "x": -17406.89,
+    "y": -1474.28
+  },
+  {
+    "token": "uk_aberdeen",
+    "editorName": "aberdeen",
+    "defaultName": "Aberdeen",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -39053.79,
+    "y": -54761.29
+  },
+  {
+    "token": "uk_cambridge",
+    "editorName": "cambridge",
+    "defaultName": "Cambridge",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -36877.74,
+    "y": -15836.81
+  },
+  {
+    "token": "uk_cardiff",
+    "editorName": "cardiff",
+    "defaultName": "Cardiff",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -53983.49,
+    "y": -14843.2
+  },
+  {
+    "token": "uk_dover",
+    "editorName": "dover",
+    "defaultName": "Dover",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -33336.54,
+    "y": -7591.71
+  },
+  {
+    "token": "uk_birming",
+    "editorName": "birmingham",
+    "defaultName": "Birmingham",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -45989.64,
+    "y": -20462.48
+  },
+  {
+    "token": "uk_edinburgh",
+    "editorName": "edinburgh",
+    "defaultName": "Edinburgh",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -44957.34,
+    "y": -46650.12,
+    "searchRadius": 250
+  },
+  {
+    "token": "uk_felixsto",
+    "editorName": "felixstowe",
+    "defaultName": "Felixstowe",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -31960.48,
+    "y": -14469.03
+  },
+  {
+    "token": "uk_glasgow",
+    "editorName": "glasgow",
+    "defaultName": "Glasgow",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -49956.49,
+    "y": -48401.28,
+    "searchRadius": 300
+  },
+  {
+    "token": "uk_carlisle",
+    "editorName": "carlisle",
+    "defaultName": "Carlisle",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -45592.01,
+    "y": -39664.34
+  },
+  {
+    "token": "uk_liverpool",
+    "editorName": "liverpool",
+    "defaultName": "Liverpool",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -48356.17,
+    "y": -28691.13
+  },
+  {
+    "token": "uk_grimsby",
+    "editorName": "grimsby",
+    "defaultName": "Grimsby",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -36653.62,
+    "y": -26668.71
+  },
+  {
+    "token": "uk_mancheste",
+    "editorName": "manchester",
+    "defaultName": "Manchester",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -45671.64,
+    "y": -27833.37
+  },
+  {
+    "token": "uk_newcastle",
+    "editorName": "newcastle",
+    "defaultName": "Newcastle-upon-Tyne",
+    "nameVariants": [
+      "Newcastle"
+    ],
+    "distanceOffset": 0,
+    "x": -40144.95,
+    "y": -38581.22
+  },
+  {
+    "token": "uk_plymouth",
+    "editorName": "plymouth",
+    "defaultName": "Plymouth",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -59483.06,
+    "y": -8172.66
+  },
+  {
+    "token": "uk_sheffield",
+    "editorName": "sheffield",
+    "defaultName": "Sheffield",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -42828.77,
+    "y": -26764.04,
+    "searchRadius": 500
+  },
+  {
+    "token": "uk_southampt",
+    "editorName": "southampton",
+    "defaultName": "Southampton",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -46378.27,
+    "y": -7706.73
+  },
+  {
+    "token": "uk_swansea",
+    "editorName": "swansea",
+    "defaultName": "Swansea",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -56655.3,
+    "y": -17329.34
+  },
+  {
+    "token": "ru_krasnoslo",
+    "editorName": "krasnoslobodsk",
+    "defaultName": "КРАСНОСЛОБОДСК",
+    "nameVariants": [
+      "KRASNOSLOBODSK",
+      "КРАСНОСЛОБОДСК|KRASNOSLOBODSK"
+    ],
+    "distanceOffset": 0,
+    "x": 106968.61,
+    "y": -42577.75,
+    "searchRadius": 500
+  },
+  {
+    "token": "ru_sasovo",
+    "editorName": "sasovo",
+    "defaultName": "СAСОВО",
+    "nameVariants": [
+      "SASOVO"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "3f77a25cdd990000"
+  },
+  {
+    "token": "ru_zubtsov",
+    "editorName": "zubtsov",
+    "defaultName": "ЗУБЦОВ",
+    "nameVariants": [
+      "ZUBTSOV",
+      "ЗУБЦОВ<br>ZUBTSOV"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "35d912c45f0a0003"
+  },
+  {
+    "token": "ru_shimsk",
+    "editorName": "shimsk",
+    "defaultName": "ШИМСК",
+    "nameVariants": [
+      "SHIMSK"
+    ],
+    "distanceOffset": 0,
+    "x": 63502.53,
+    "y": -49141.9
+  },
+  {
+    "token": "es_gijon",
+    "editorName": "gijon",
+    "defaultName": "Gijón",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -70058.74,
+    "y": 29583.33,
+    "searchRadius": 500
+  },
+  {
+    "token": "es_malaga",
+    "editorName": "malaga",
+    "defaultName": "Málaga",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -74412.8,
+    "y": 68856.95
+  },
+  {
+    "token": "es_mengibar",
+    "editorName": "mengibar",
+    "defaultName": "Mengíbar",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -68465.47,
+    "y": 63010.89
+  },
+  {
+    "token": "pl_swiecko",
+    "editorName": "swiecko",
+    "defaultName": "Świecko",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 14828.24,
+    "y": -8839.97
+  },
+  {
+    "token": "pl_kolbaskow",
+    "editorName": "kolbaskowo",
+    "defaultName": "Kołbaskowo",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 13846.75,
+    "y": -14311.54
+  },
+  {
+    "token": "pl_barwinek",
+    "editorName": "barwinek",
+    "defaultName": "Barwinek",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 41121.97,
+    "y": 6392.3
+  },
+  {
+    "token": "pl_budzisko",
+    "editorName": "budzisko",
+    "defaultName": "Budzisko",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 43008.46,
+    "y": -21533.27
+  },
+  {
+    "token": "pl_ogrodniki",
+    "editorName": "ogrodniki",
+    "defaultName": "Ogrodniki",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 44720.38,
+    "y": -20674.32
+  },
+  {
+    "token": "ro_braila",
+    "editorName": "braila",
+    "defaultName": "Brǎila",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 67717.13,
+    "y": 26826.95
+  },
+  {
+    "token": "se_halmstad",
+    "editorName": "halmstad",
+    "defaultName": "HALMSTAD",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 10439.49,
+    "y": -33786.55
+  },
+  {
+    "token": "no_drammen",
+    "editorName": "drammen",
+    "defaultName": "Drammen",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 2523.32,
+    "y": -50801.68
+  },
+  {
+    "token": "no_larvik",
+    "editorName": "larvik",
+    "defaultName": "Larvik",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 892.4,
+    "y": -47316.35
+  },
+  {
+    "token": "lt_marijam",
+    "editorName": "marijampole",
+    "defaultName": "MARIJAMPOLĖ",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 43606.71,
+    "y": -23255.42,
+    "searchRadius": 200
+  },
+  {
+    "token": "lt_ukmerge",
+    "editorName": "ukmerge",
+    "defaultName": "UKMERGĖ",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 47522.04,
+    "y": -27221.87,
+    "searchRadius": 500
+  },
+  {
+    "token": "it_ferrara",
+    "editorName": "ferrara",
+    "defaultName": "FERRARA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 3461.29,
+    "y": 32784.57
+  },
+  {
+    "token": "fr_angers",
+    "editorName": "angers",
+    "defaultName": "ANGERS",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -43471.27,
+    "y": 12416.87
+  },
+  {
+    "token": "fr_amiens",
+    "editorName": "amiens",
+    "defaultName": "AMIENS",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -30580.25,
+    "y": 796.28
+  },
+  {
+    "token": "fr_gap",
+    "editorName": "gap",
+    "defaultName": "GAP",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -19583.86,
+    "y": 33068.13
+  },
+  {
+    "token": "fr_narbonne",
+    "editorName": "narbonne",
+    "defaultName": "NARBONNE",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -33450.32,
+    "y": 39312.12
+  },
+  {
+    "token": "fr_niort",
+    "editorName": "niort",
+    "defaultName": "NIORT",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -43281.57,
+    "y": 19396.88
+  },
+  {
+    "token": "fr_orleans",
+    "editorName": "orleans",
+    "defaultName": "ORLÉANS",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -34184.84,
+    "y": 12135.64
+  },
+  {
+    "token": "fr_pau",
+    "editorName": "pau",
+    "defaultName": "PAU",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -46861.6,
+    "y": 35965.86
+  },
+  {
+    "token": "fr_poitiers",
+    "editorName": "poitiers",
+    "defaultName": "POITIERS",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -40486.2,
+    "y": 17812.06
+  },
+  {
+    "token": "fr_tours",
+    "editorName": "tours",
+    "defaultName": "TOURS",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -38284.96,
+    "y": 14357.54
+  },
+  {
+    "token": "es_benidorm",
+    "editorName": "benidorm",
+    "defaultName": "Benidorm",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -51285.25,
+    "y": 62207.82
+  },
+  {
+    "token": "es_tordesill",
+    "editorName": "tordesillas",
+    "defaultName": "Tordesillas",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -70065.39,
+    "y": 41611,
+    "searchRadius": 1000
+  },
+  {
+    "token": "dk_kolding",
+    "editorName": "kolding",
+    "defaultName": "Kolding",
+    "nameVariants": [
+      "Kolding V"
+    ],
+    "distanceOffset": 0,
+    "x": -1547.47,
+    "y": -27850.07
+  },
+  {
+    "token": "dk_rodby",
+    "editorName": "rodby",
+    "defaultName": "Rødby",
+    "nameVariants": [],
+    "distanceOffset": 38,
+    "x": 5836.6,
+    "y": -23141.21
+  },
+  {
+    "token": "de_lubeck",
+    "editorName": "lubeck",
+    "defaultName": "Lübeck",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 2418.09,
+    "y": -18923.12
+  },
+  {
+    "token": "at_villach",
+    "editorName": "villach",
+    "defaultName": "Villach",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 11143.58,
+    "y": 22356.36,
+    "searchRadius": 350
+  },
+  {
+    "token": "lu_luxembour",
+    "editorName": "luxembourg",
+    "defaultName": "Luxembourg",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -16147.12,
+    "y": 4651.92
+  },
+  {
+    "token": "ch_zurich",
+    "editorName": "zurich",
+    "defaultName": "Zürich",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -8467.59,
+    "y": 17935.89,
+    "searchRadius": 500
+  },
+  {
+    "token": "ch_bern",
+    "editorName": "bern",
+    "defaultName": "Bern",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -12194.88,
+    "y": 20906.19,
+    "searchRadius": 900
+  },
+  {
+    "token": "ch_geneva",
+    "editorName": "geneva",
+    "defaultName": "Genève",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -16755.48,
+    "y": 23701.32,
+    "searchRadius": 600
+  },
+  {
+    "token": "ch_gotthard",
+    "editorName": "gotthard",
+    "defaultName": "Gotthard",
+    "nameVariants": [
+      "San Gottardo"
+    ],
+    "distanceOffset": 0,
+    "x": -8490.81,
+    "y": 22146.4,
+    "searchRadius": 20
+  },
+  {
+    "token": "at_bregenz",
+    "editorName": "bregenz",
+    "defaultName": "Bregenz",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -3650.46,
+    "y": 18295.61
+  },
+  {
+    "token": "at_leoben",
+    "editorName": "leoben",
+    "defaultName": "Leoben",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 17093.93,
+    "y": 18234.47
+  },
+  {
+    "token": "at_langen",
+    "editorName": "langen",
+    "defaultName": "Langen<sub scale=0.75> a.A.</sub>",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -2061.11,
+    "y": 20358.37
+  },
+  {
+    "token": "at_stanton",
+    "editorName": "st_anton",
+    "defaultName": "St.Anton<sub scale=0.75> a.A.</sub>",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -1252.41,
+    "y": 20362.3
+  },
+  {
+    "token": "pl_bezledy",
+    "editorName": "bezledy",
+    "defaultName": "Bezledy",
+    "nameVariants": [
+      "БЕЗЛЕДЫ"
+    ],
+    "distanceOffset": 0,
+    "x": 35459.93,
+    "y": -20504.42
+  },
+  {
+    "token": "pl_gorzyczki",
+    "editorName": "gorzyczki",
+    "defaultName": "Gorzyczki",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 28964.71,
+    "y": 3984.58
+  },
+  {
+    "token": "pl_cieszyn",
+    "editorName": "cieszyn",
+    "defaultName": "Cieszyn",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 29871.79,
+    "y": 5417.6
+  },
+  {
+    "token": "pl_grzechotk",
+    "editorName": "grzechotki",
+    "defaultName": "Grzechotki",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 32351.43,
+    "y": -20810.93
+  },
+  {
+    "token": "pl_kudowa",
+    "editorName": "kudowa",
+    "defaultName": "Kudowa-Słone",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 20715.09,
+    "y": 1928.22
+  },
+  {
+    "token": "pl_lubawka",
+    "editorName": "lubawka",
+    "defaultName": "Lubawka",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 19696.66,
+    "y": 371.12
+  },
+  {
+    "token": "pl_jakuszyce",
+    "editorName": "jakuszyce",
+    "defaultName": "Jakuszyce",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 18058.73,
+    "y": -376.57
+  },
+  {
+    "token": "pl_jedrzycho",
+    "editorName": "jedrzychowice",
+    "defaultName": "Jędrzychowice",
+    "nameVariants": [
+      "Görlitz"
+    ],
+    "distanceOffset": 0,
+    "x": 16674.34,
+    "y": -2507.9
+  },
+  {
+    "token": "pl_chyzne",
+    "editorName": "chyzne",
+    "defaultName": "Chyżne",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 33585.82,
+    "y": 6915.82
+  },
+  {
+    "token": "at_brenner",
+    "editorName": "brenner",
+    "defaultName": "Brenner",
+    "nameVariants": [
+      "BRENNERO"
+    ],
+    "distanceOffset": 0,
+    "x": 2730.03,
+    "y": 23610.88
+  },
+  {
+    "token": "es_jonquera",
+    "editorName": "la_jonquera",
+    "defaultName": "La Jonquera",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -34464.75,
+    "y": 43989.7
+  },
+  {
+    "token": "ru_sovetsk",
+    "editorName": "sovetsk",
+    "defaultName": "СОВЕТСК",
+    "nameVariants": [
+      "SOVETSK"
+    ],
+    "distanceOffset": 0,
+    "x": 38717.69,
+    "y": -25472.22,
+    "searchRadius": 300
+  },
+  {
+    "token": "ee_valga",
+    "editorName": "valga",
+    "defaultName": "VALGA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 49856.31,
+    "y": -42758.68
+  },
+  {
+    "token": "lv_valka",
+    "editorName": "valka",
+    "defaultName": "VALKA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 49883.41,
+    "y": -42711.72
+  },
+  {
+    "token": "ro_nadlac",
+    "editorName": "nadlac",
+    "defaultName": "Nădlac",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 40453.75,
+    "y": 23560.01
+  },
+  {
+    "token": "uk_london",
+    "editorName": "london",
+    "defaultName": "London",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -39434.25,
+    "y": -11559.24,
+    "searchRadius": 500
+  },
+  {
+    "token": "ru_pryazha",
+    "editorName": "pryazha",
+    "defaultName": "ПРЯЖА",
+    "nameVariants": [
+      "PRYAZHA",
+      "ПРЯЖА<br>PRYAZHA"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "4270325417dd0000"
+  },
+  {
+    "token": "ru_shatsk",
+    "editorName": "shatsk",
+    "defaultName": "ШАЦК",
+    "nameVariants": [
+      "SHATSK"
+    ],
+    "distanceOffset": 0,
+    "nodeUid": "3ff0752416ed0002",
+    "searchRadius": 50
+  },
+  {
+    "token": "ru_velizh",
+    "editorName": "velizh",
+    "defaultName": "ВЕЛИЖ",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "nodeUid": "3bb31d48e8800002"
+  },
+  {
+    "token": "ru_sheksna",
+    "editorName": "sheksna",
+    "defaultName": "ШЕКСНА",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "nodeUid": "3b789fb462000003"
+  },
+  {
+    "token": "ru_soltsy",
+    "editorName": "soltsy",
+    "defaultName": "СОЛЬЦЫ",
+    "nameVariants": [
+      "SOL'TSY",
+      "СОЛЬЦЫ<br>SOL'TSY"
+    ],
+    "distanceOffset": 0,
+    "x": 62290.37,
+    "y": -47631.22
+  },
+  {
+    "token": "ru_porkhov",
+    "editorName": "porkhov",
+    "defaultName": "ПОРХОВ",
+    "nameVariants": [
+      "PORKHOV",
+      "ПОРХОВ<br>POKRHOV"
+    ],
+    "distanceOffset": 0,
+    "x": 60361.6,
+    "y": -45282.38
+  },
+  {
+    "token": "ru_ostrov",
+    "editorName": "ostrov",
+    "defaultName": "ОСТРОВ",
+    "nameVariants": [
+      "OSTROV"
+    ],
+    "distanceOffset": 0,
+    "x": 57863.34,
+    "y": -41311.1
+  },
+  {
+    "token": "it_trieste",
+    "editorName": "trieste",
+    "defaultName": "TRIESTE",
+    "nameVariants": [
+      "Trieste"
+    ],
+    "distanceOffset": 0,
+    "searchRadius": 0,
+    "x": 10879.91,
+    "y": 27393.66
+  },
+  {
+    "token": "si_ljubljana",
+    "editorName": "ljubljana",
+    "defaultName": "Ljubljana",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 15333.7,
+    "y": 26043.15,
+    "searchRadius": 1000
+  },
+  {
+    "token": "si_maribor",
+    "editorName": "maribor",
+    "defaultName": "Maribor",
+    "nameVariants": [],
+    "distanceOffset": 54,
+    "x": 17923.22,
+    "y": 21561.56
+  },
+  {
+    "token": "at_stmichael",
+    "editorName": "st_michael",
+    "defaultName": "St.Michael<sub scale=0.75> i.L.</sub>",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 11487.37,
+    "y": 19818.55,
+    "searchRadius": 150
+  },
+  {
+    "token": "at_amstetten",
+    "editorName": "amstetten",
+    "defaultName": "Amstetten",
+    "nameVariants": [],
+    "distanceOffset": 3,
+    "x": 15406.59,
+    "y": 15127.48
+  },
+  {
+    "token": "at_wneustadt",
+    "editorName": "wr_neustadt",
+    "defaultName": "Wr.Neustadt",
+    "nameVariants": [],
+    "distanceOffset": 15,
+    "x": 21489.42,
+    "y": 17755.6,
+    "searchRadius": 70
+  },
+  {
+    "token": "de_passau",
+    "editorName": "passau",
+    "defaultName": "Passau",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 10526.51,
+    "y": 13074.18
+  },
+  {
+    "token": "at_freistadt",
+    "editorName": "freistadt",
+    "defaultName": "Freistadt",
+    "nameVariants": [],
+    "distanceOffset": 6,
+    "x": 14659.52,
+    "y": 12695.38
+  },
+  {
+    "token": "fr_strasbour",
+    "editorName": "strasbourg",
+    "defaultName": "STRASBOURG",
+    "nameVariants": [
+      "Strasbourg"
+    ],
+    "distanceOffset": 0,
+    "x": -10985.41,
+    "y": 11344.68,
+    "searchRadius": 500
+  },
+  {
+    "token": "be_antwerpen",
+    "editorName": "antwerpen",
+    "defaultName": "Antwerpen",
+    "nameVariants": [
+      "Anvers"
+    ],
+    "distanceOffset": 0,
+    "x": -21124.55,
+    "y": -5349.11
+  },
+  {
+    "token": "se_karlstad",
+    "editorName": "karlstad",
+    "defaultName": "Karlstad",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 12805.91,
+    "y": -48988.24
+  },
+  {
+    "token": "ch_basel",
+    "editorName": "basel",
+    "defaultName": "Basel",
+    "nameVariants": [
+      "BÂLE <sub scale=0.8>(BASEL)</sub>"
+    ],
+    "distanceOffset": 0,
+    "x": -11577.03,
+    "y": 16861.35,
+    "searchRadius": 100
+  },
+  {
+    "token": "de_bielefeld",
+    "editorName": "bielefeld",
+    "defaultName": "Bielefeld",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -8042.57,
+    "y": -7075.56
+  },
+  {
+    "token": "de_ulm",
+    "editorName": "ulm",
+    "defaultName": "Ulm",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -1669.2,
+    "y": 12644.84
+  },
+  {
+    "token": "de_memmingen",
+    "editorName": "memmingen",
+    "defaultName": "Memmingen",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -1569.41,
+    "y": 14995.78,
+    "searchRadius": 150
+  },
+  {
+    "token": "nl_hengelo",
+    "editorName": "hengelo",
+    "defaultName": "Hengelo",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -11566.76,
+    "y": -10356.83
+  },
+  {
+    "token": "nl_venlo",
+    "editorName": "venlo",
+    "defaultName": "Venlo",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -15330.26,
+    "y": -6397.41,
+    "searchRadius": 200
+  },
+  {
+    "token": "cz_mlboleslv",
+    "editorName": "ml_boleslav",
+    "defaultName": "ML. BOLESLAV",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 15963.06,
+    "y": 1623.85
+  },
+  {
+    "token": "dk_aarhus",
+    "editorName": "aarhus",
+    "defaultName": "Aarhus",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 191.27,
+    "y": -31214.01,
+    "searchRadius": 300
+  },
+  {
+    "token": "dk_randers",
+    "editorName": "randers",
+    "defaultName": "Randers",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 721.13,
+    "y": -32952.93,
+    "searchRadius": 300
+  },
+  {
+    "token": "dk_svenstrup",
+    "editorName": "svenstrup",
+    "defaultName": "Svenstrup",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 57.95,
+    "y": -34693.51,
+    "searchRadius": 250
+  },
+  {
+    "token": "dk_vendsyssl",
+    "editorName": "vendsyssel",
+    "defaultName": "Vendsyssel",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 995.51,
+    "y": -37079.64,
+    "searchRadius": 300
+  },
+  {
+    "token": "de_flensburg",
+    "editorName": "flensburg",
+    "defaultName": "Flensburg",
+    "nameVariants": [
+      "Padborg"
+    ],
+    "distanceOffset": 0,
+    "x": -1941.48,
+    "y": -24778.27
+  },
+  {
+    "token": "dk_eskilstrp",
+    "editorName": "eskilstrup",
+    "defaultName": "Eskilstrup",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 6008.17,
+    "y": -23392.01
+  },
+  {
+    "token": "dk_koge",
+    "editorName": "koge",
+    "defaultName": "Køge V",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 6929.58,
+    "y": -26522.44
+  },
+  {
+    "token": "se_uddevalla",
+    "editorName": "uddevalla",
+    "defaultName": "UDDEVALLA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 6355.13,
+    "y": -45058.41
+  },
+  {
+    "token": "se_stromstad",
+    "editorName": "stromstad",
+    "defaultName": "STRÖMSTAD",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 5490.62,
+    "y": -47245.59
+  },
+  {
+    "token": "se_ljungby",
+    "editorName": "ljungby",
+    "defaultName": "LJUNGBY",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 13239.46,
+    "y": -34443.78
+  },
+  {
+    "token": "se_kriststd",
+    "editorName": "kristianstad",
+    "defaultName": "KRISTIANSTAD",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 13790.62,
+    "y": -29762.91
+  },
+  {
+    "token": "se_vastervik",
+    "editorName": "vastervik",
+    "defaultName": "VÄSTERVIK",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 20852.98,
+    "y": -40836.16
+  },
+  {
+    "token": "se_norrtalje",
+    "editorName": "norrtalje",
+    "defaultName": "NORRTÄLJE",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 27012.51,
+    "y": -51181.25
+  },
+  {
+    "token": "se_sundsvall",
+    "editorName": "sundsvall",
+    "defaultName": "SUNDSVALL",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 24716.22,
+    "y": -52055.19
+  },
+  {
+    "token": "no_geilo",
+    "editorName": "geilo",
+    "defaultName": "Geilo",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -2480.21,
+    "y": -56290.23
+  },
+  {
+    "token": "no_haugesund",
+    "editorName": "haugesund",
+    "defaultName": "Haugesund",
+    "nameVariants": [],
+    "distanceOffset": 100,
+    "x": -7581.27,
+    "y": -53523.43
+  },
+  {
+    "token": "no_roldal",
+    "editorName": "roldal",
+    "defaultName": "Røldal",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -6599.74,
+    "y": -52658.16
+  },
+  {
+    "token": "no_askim",
+    "editorName": "askim",
+    "defaultName": "Askim",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 5385.73,
+    "y": -50259.43
+  },
+  {
+    "token": "no_svinesund",
+    "editorName": "svinesund",
+    "defaultName": "Svinesund",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 5531.67,
+    "y": -48685.97
+  },
+  {
+    "token": "ru_roslavl",
+    "editorName": "roslavl",
+    "defaultName": "РОСЛАВЛЬ",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 76084.62,
+    "y": -25937.26,
+    "searchRadius": 200
+  },
+  {
+    "token": "de_puttgardn",
+    "editorName": "puttgarden",
+    "defaultName": "Puttgarden",
+    "nameVariants": [],
+    "distanceOffset": 84,
+    "nodeUid": "26aa2f64b28d0163"
+  },
+  {
+    "token": "de_schwerin",
+    "editorName": "schwerin",
+    "defaultName": "Schwerin",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "nodeUid": "26ff15cc5e0d0126"
+  },
+  {
+    "token": "de_ffurtoder",
+    "editorName": "frankfurt_oder",
+    "defaultName": "Frankfurt (Oder)",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 14273.54,
+    "y": -8821.13
+  },
+  {
+    "token": "de_cottbus",
+    "editorName": "cottbus",
+    "defaultName": "Cottbus",
+    "nameVariants": [],
+    "distanceOffset": 36,
+    "nodeUid": "272429701f8d00c5"
+  },
+  {
+    "token": "de_chemnitz",
+    "editorName": "chemnitz",
+    "defaultName": "Chemnitz",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "nodeUid": "2b08c2bc10cd0000"
+  },
+  {
+    "token": "de_jena",
+    "editorName": "jena",
+    "defaultName": "Jena",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 3342.44,
+    "y": -537.19
+  },
+  {
+    "token": "de_wurzburg",
+    "editorName": "wurzburg",
+    "defaultName": "Würzburg",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -2559.23,
+    "y": 5064.47
+  },
+  {
+    "token": "de_sangerhau",
+    "editorName": "sangerhausen",
+    "defaultName": "Sangerhausen",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 1322.04,
+    "y": -4408.5
+  },
+  {
+    "token": "de_gottingen",
+    "editorName": "gottingen",
+    "defaultName": "Göttingen",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -807.82,
+    "y": -6064.98
+  },
+  {
+    "token": "cz_rozvadov",
+    "editorName": "rozvadov",
+    "defaultName": "Rozvadov",
+    "nameVariants": [
+      "Waidhaus"
+    ],
+    "distanceOffset": 0,
+    "x": 7227.83,
+    "y": 6015.71
+  },
+  {
+    "token": "de_giessen",
+    "editorName": "giessen",
+    "defaultName": "Gießen",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -5741.55,
+    "y": 40.19
+  },
+  {
+    "token": "de_siegen",
+    "editorName": "siegen",
+    "defaultName": "Siegen",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -8497.11,
+    "y": -1657.8
+  },
+  {
+    "token": "de_karlsruhe",
+    "editorName": "karlsruhe",
+    "defaultName": "Karlsruhe",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -8250.78,
+    "y": 9225.28
+  },
+  {
+    "token": "de_heilbronn",
+    "editorName": "heilbronn",
+    "defaultName": "Heilbronn",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -5268.43,
+    "y": 7529.85,
+    "searchRadius": 50
+  },
+  {
+    "token": "de_braunswg",
+    "editorName": "braunschweig",
+    "defaultName": "Braunschweig",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 2233.99,
+    "y": -8897.21
+  },
+  {
+    "token": "de_potsdam",
+    "editorName": "potsdam",
+    "defaultName": "Potsdam",
+    "nameVariants": [],
+    "distanceOffset": 25,
+    "nodeUid": "2722f8e84b4d0003"
+  },
+  {
+    "token": "de_bayreuth",
+    "editorName": "bayreuth",
+    "defaultName": "Bayreuth",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 4221.72,
+    "y": 3306.75
+  },
+  {
+    "token": "de_oldenburg",
+    "editorName": "oldenburg",
+    "defaultName": "Oldenburg",
+    "nameVariants": [],
+    "distanceOffset": 8,
+    "x": -7058.4,
+    "y": -15290.7,
+    "searchRadius": 150
+  },
+  {
+    "token": "de_rothenbrg",
+    "editorName": "rothenburg",
+    "defaultName": "Rothenburg",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -1875.45,
+    "y": 7309.75
+  },
+  {
+    "token": "pt_border_a6",
+    "editorName": "pt_spain_a6",
+    "defaultName": "ESPANHA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -83671.65,
+    "y": 53171.23
+  },
+  {
+    "token": "pt_border_a3",
+    "editorName": "pt_spain_a3",
+    "defaultName": "ESPANHA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -83440.52,
+    "y": 34543.52
+  },
+  {
+    "token": "pt_border_24",
+    "editorName": "pt_spain_a24",
+    "defaultName": "ESPANHA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -79505.51,
+    "y": 36457
+  },
+  {
+    "token": "pt_border_25",
+    "editorName": "pt_spain_a25",
+    "defaultName": "ESPANHA",
+    "nameVariants": [
+      "Portugal"
+    ],
+    "distanceOffset": 0,
+    "x": -78660.85,
+    "y": 43867.96
+  },
+  {
+    "token": "pt_border_22",
+    "editorName": "pt_spain_a22",
+    "defaultName": "ESPANHA",
+    "nameVariants": [
+      "Portugal"
+    ],
+    "distanceOffset": 0,
+    "x": -86360.16,
+    "y": 61950.18
+  },
+  {
+    "token": "pt_border_p8",
+    "editorName": "pt_spain_ip8",
+    "defaultName": "ESPANHA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -85110.18,
+    "y": 58273.38
+  },
+  {
+    "token": "es_border_a9",
+    "editorName": "es_portugal_ap9",
+    "defaultName": "Portugal",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -83464.7,
+    "y": 34713.15
+  },
+  {
+    "token": "es_irun",
+    "editorName": "irun",
+    "defaultName": "Irun",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -53470.46,
+    "y": 34333.37
+  },
+  {
+    "token": "nl_leeuwardn",
+    "editorName": "leeuwarden",
+    "defaultName": "Leeuwarden",
+    "nameVariants": [],
+    "distanceOffset": 35,
+    "x": -15514.3,
+    "y": -15399.82
+  },
+  {
+    "token": "nl_apeldoorn",
+    "editorName": "apeldoorn",
+    "defaultName": "Apeldoorn",
+    "nameVariants": [],
+    "distanceOffset": 8,
+    "x": -16384.87,
+    "y": -10031.36
+  },
+  {
+    "token": "pl_rzeszow",
+    "editorName": "rzeszów",
+    "defaultName": "Rzeszów",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 42060.03,
+    "y": 2901.38,
+    "searchRadius": 590
+  },
+  {
+    "token": "de_ingolstad",
+    "editorName": "ingolstadt",
+    "defaultName": "Ingolstadt",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 3422.57,
+    "y": 10705.31
+  },
+  {
+    "token": "de_augsburg",
+    "editorName": "augsburg",
+    "defaultName": "Augsburg",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -135.32,
+    "y": 12474.59
+  },
+  {
+    "token": "cz_plzen",
+    "editorName": "plzen",
+    "defaultName": "Plzeň",
+    "nameVariants": [
+      "Pilsen"
+    ],
+    "distanceOffset": 0,
+    "x": 10508.89,
+    "y": 6095.52
+  },
+  {
+    "token": "ch_lugano",
+    "editorName": "lugano",
+    "defaultName": "Lugano",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -7385.98,
+    "y": 25807.24,
+    "searchRadius": 20
+  },
+  {
+    "token": "ch_lausanne",
+    "editorName": "lausanne",
+    "defaultName": "Lausanne",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -16119.4,
+    "y": 21706.64,
+    "searchRadius": 20
+  },
+  {
+    "token": "ch_winterthu",
+    "editorName": "winterthur",
+    "defaultName": "Winterthur",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -6608.87,
+    "y": 17250.67,
+    "searchRadius": 200
+  },
+  {
+    "token": "ch_luzern",
+    "editorName": "luzern",
+    "defaultName": "Luzern",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -9275.95,
+    "y": 19661.84,
+    "searchRadius": 20
+  },
+  {
+    "token": "de_rottweil",
+    "editorName": "rottweil",
+    "defaultName": "Rottweil",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -7931.18,
+    "y": 13523.39
+  },
+  {
+    "token": "de_regensbrg",
+    "editorName": "regensburg",
+    "defaultName": "Regensburg",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 7870.1,
+    "y": 10334.23
+  },
+  {
+    "token": "ro_cluj",
+    "editorName": "cluj",
+    "defaultName": "Cluj-Napoca",
+    "nameVariants": [
+      "Cluj-<br>Napoca"
+    ],
+    "distanceOffset": 0,
+    "x": 49033.22,
+    "y": 18042.23
+  },
+  {
+    "token": "ro_giurgiu",
+    "editorName": "giurgiu",
+    "defaultName": "Giurgiu",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 60751.06,
+    "y": 33420.89
+  },
+  {
+    "token": "cz_jihlava",
+    "editorName": "jihlava",
+    "defaultName": "JIHLAVA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 18338.47,
+    "y": 7047.65
+  },
+  {
+    "token": "cz_hrkralove",
+    "editorName": "hr_kralove",
+    "defaultName": "HR. KRÁLOVÉ",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 19011.44,
+    "y": 3348.92
+  },
+  {
+    "token": "cz_olomouc",
+    "editorName": "olomouc",
+    "defaultName": "OLOMOUC",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 24608.86,
+    "y": 6646.88
+  },
+  {
+    "token": "cz_svitavy",
+    "editorName": "svitavy",
+    "defaultName": "Svitavy",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 22002.28,
+    "y": 5829.18
+  },
+  {
+    "token": "cz_cbudejovi",
+    "editorName": "c_budejovice",
+    "defaultName": "Č. BUDĚJOVICE",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 14165.25,
+    "y": 10609.76
+  },
+  {
+    "token": "uk_bristol",
+    "editorName": "bristol",
+    "defaultName": "Bristol",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -50154.25,
+    "y": -13825.47,
+    "searchRadius": 300
+  },
+  {
+    "token": "tr_kapikule",
+    "editorName": "kapikule",
+    "defaultName": "Kapıkule",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 63701.05,
+    "y": 46011.28
+  },
+  {
+    "token": "pl_bydgoszcz",
+    "editorName": "bydgoszcz",
+    "defaultName": "Bydgoszcz",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 26654.54,
+    "y": -13787.45
+  },
+  {
+    "token": "hu_dunauj",
+    "editorName": "dunaujvaros",
+    "defaultName": "Dunaújváros",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 31736.7,
+    "y": 21888.97
+  },
+  {
+    "token": "hu_kecskemet",
+    "editorName": "kecskemet",
+    "defaultName": "Kecskemét",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 33707.05,
+    "y": 19564.46
+  },
+  {
+    "token": "fr_chateaurx",
+    "editorName": "chateauroux",
+    "defaultName": "CHÂTEAUROUX",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -35301.29,
+    "y": 17927.11
+  },
+  {
+    "token": "fr_rouen",
+    "editorName": "rouen",
+    "defaultName": "ROUEN",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -35064.06,
+    "y": 3752.04
+  },
+  {
+    "token": "fr_auxerre",
+    "editorName": "auxerre",
+    "defaultName": "AUXERRE",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -26772.48,
+    "y": 13774.61
+  },
+  {
+    "token": "fr_avignon",
+    "editorName": "avignon",
+    "defaultName": "AVIGNON",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -24809.53,
+    "y": 34622.41
+  },
+  {
+    "token": "fr_caen",
+    "editorName": "caen",
+    "defaultName": "CAEN",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -40178.93,
+    "y": 3249.91
+  },
+  {
+    "token": "fr_nancy",
+    "editorName": "nancy",
+    "defaultName": "NANCY",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -17534.3,
+    "y": 10054.63
+  },
+  {
+    "token": "fr_chambery",
+    "editorName": "chambery",
+    "defaultName": "CHAMBÉRY",
+    "nameVariants": [
+      "Chambéry"
+    ],
+    "distanceOffset": 0,
+    "x": -19748.84,
+    "y": 27149.93,
+    "searchRadius": 100
+  },
+  {
+    "token": "pl_pila",
+    "editorName": "piła",
+    "defaultName": "Piła",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 22513.22,
+    "y": -13467.76
+  },
+  {
+    "token": "lv_skrunda",
+    "editorName": "skrunda",
+    "defaultName": "SKRUNDA",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 39493.97,
+    "y": -34665.86
+  },
+  {
+    "token": "fr_chamonix",
+    "editorName": "chamonix",
+    "defaultName": "CHAMONIX",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -17127.99,
+    "y": 25994.3,
+    "searchRadius": 100
+  },
+  {
+    "token": "ch_vevey",
+    "editorName": "vevey",
+    "defaultName": "Vevey",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -14100.27,
+    "y": 21901.39,
+    "searchRadius": 20
+  },
+  {
+    "token": "ch_martigny",
+    "editorName": "martigny",
+    "defaultName": "Martigny",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -14631.41,
+    "y": 23894.1,
+    "searchRadius": 200
+  },
+  {
+    "token": "ch_stbernard",
+    "editorName": "st_bernard",
+    "defaultName": "Gd-St-Bernard",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -14345.71,
+    "y": 25255.62,
+    "searchRadius": 800
+  },
+  {
+    "token": "it_aosta",
+    "editorName": "aosta",
+    "defaultName": "AOSTA",
+    "nameVariants": [
+      "Aoste"
+    ],
+    "distanceOffset": 0,
+    "x": -14482.68,
+    "y": 26951.58,
+    "searchRadius": 40
+  },
+  {
+    "token": "ch_chur",
+    "editorName": "chur",
+    "defaultName": "Chur",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -4617.35,
+    "y": 20035.72,
+    "searchRadius": 50
+  },
+  {
+    "token": "ch_bernardin",
+    "editorName": "bernardino",
+    "defaultName": "<font xscale=0.8>San Bernardino</font>",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -4700.11,
+    "y": 22768.34,
+    "searchRadius": 20
+  },
+  {
+    "token": "ch_magarethe",
+    "editorName": "magarethen",
+    "defaultName": "<font xscale=0.825>St.Margrethen</font>",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -4760.55,
+    "y": 18749.08,
+    "searchRadius": 200
+  },
+  {
+    "token": "hr_zagreb",
+    "editorName": "zagreb",
+    "defaultName": "Zagreb",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 21256.21,
+    "y": 27216.95,
+    "searchRadius": 800
+  },
+  {
+    "token": "hr_osijek",
+    "editorName": "osijek",
+    "defaultName": "Osijek",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 31700.23,
+    "y": 28869.9
+  },
+  {
+    "token": "hr_rijeka",
+    "editorName": "rijeka",
+    "defaultName": "Rijeka",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 15766.28,
+    "y": 29902.85,
+    "searchRadius": 500
+  },
+  {
+    "token": "hr_zadar",
+    "editorName": "zadar",
+    "defaultName": "Zadar",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 18225.74,
+    "y": 36970.84
+  },
+  {
+    "token": "hr_split",
+    "editorName": "split",
+    "defaultName": "Split",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 23226.73,
+    "y": 40076.02
+  },
+  {
+    "token": "si_koper",
+    "editorName": "koper",
+    "defaultName": "Koper",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 11404.7,
+    "y": 29780.2
+  },
+  {
+    "token": "si_novomesto",
+    "editorName": "novomesto",
+    "defaultName": "Novo mesto",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 17035.41,
+    "y": 27795.46
+  },
+  {
+    "token": "ba_tuzla",
+    "editorName": "tuzla",
+    "defaultName": "Tuzla<br>Тузла",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 31389.88,
+    "y": 33860.07,
+    "searchRadius": 700
+  },
+  {
+    "token": "ba_banjaluka",
+    "editorName": "banjaluka",
+    "defaultName": "Banja Luka<br>Бања Лука",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 25346.91,
+    "y": 33213.68,
+    "searchRadius": 500
+  },
+  {
+    "token": "ba_zenica",
+    "editorName": "zenica",
+    "defaultName": "Zenica",
+    "nameVariants": [
+      "Zenica<br>Зеница"
+    ],
+    "distanceOffset": 0,
+    "x": 28504.17,
+    "y": 36588.81
+  },
+  {
+    "token": "ba_sarajevo",
+    "editorName": "sarajevo",
+    "defaultName": "Sarajevo<br>Сарајево",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 30453.96,
+    "y": 38269.06,
+    "searchRadius": 1000
+  },
+  {
+    "token": "ba_mostar",
+    "editorName": "mostar",
+    "defaultName": "Mostar<br>Мостар",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 28577.21,
+    "y": 41103.63
+  },
+  {
+    "token": "me_podgorica",
+    "editorName": "podgorica",
+    "defaultName": "Podgorica",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 34074.07,
+    "y": 46010.88,
+    "searchRadius": 1000
+  },
+  {
+    "token": "me_niksic",
+    "editorName": "niksic",
+    "defaultName": "Nikšić",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 33791.43,
+    "y": 43462.04
+  },
+  {
+    "token": "me_bilejopol",
+    "editorName": "bijelopolje",
+    "defaultName": "Bijelo Polje",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 36184.2,
+    "y": 42118.37
+  },
+  {
+    "token": "xk_pristina",
+    "editorName": "pristina",
+    "defaultName": "Priština",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 42243.83,
+    "y": 43935.58,
+    "searchRadius": 1000
+  },
+  {
+    "token": "mk_skopje",
+    "editorName": "skopje",
+    "defaultName": "Скопје<br>Skopje",
+    "nameVariants": [
+      "Skopia",
+      "Σκόπια"
+    ],
+    "distanceOffset": 0,
+    "x": 43981.49,
+    "y": 47713.1,
+    "searchRadius": 1000
+  },
+  {
+    "token": "mk_bitola",
+    "editorName": "bitola",
+    "defaultName": "Bitola",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 44990.16,
+    "y": 51954.2
+  },
+  {
+    "token": "al_tirana",
+    "editorName": "tirana",
+    "defaultName": "TIRANA",
+    "nameVariants": [
+      "TIRANË"
+    ],
+    "distanceOffset": 0,
+    "x": 37744.31,
+    "y": 51059.49,
+    "searchRadius": 1000
+  },
+  {
+    "token": "al_fier",
+    "editorName": "fier",
+    "defaultName": "Fier",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 37245.54,
+    "y": 55410.82
+  },
+  {
+    "token": "al_vlore",
+    "editorName": "vlore",
+    "defaultName": "Vlorë",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 36875.14,
+    "y": 57037.01
+  },
+  {
+    "token": "al_durres",
+    "editorName": "durres",
+    "defaultName": "DURRËS",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 36455.21,
+    "y": 51884.2
+  },
+  {
+    "token": "rs_nis",
+    "editorName": "nis",
+    "defaultName": "Niš",
+    "nameVariants": [
+      "Ниш<br>Niš"
+    ],
+    "distanceOffset": 0,
+    "x": 46108.25,
+    "y": 39432.61,
+    "searchRadius": 1000
+  },
+  {
+    "token": "rs_vranje",
+    "editorName": "vranje",
+    "defaultName": "Врање<br>Vranje",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 44887.02,
+    "y": 43862.48
+  },
+  {
+    "token": "rs_kragujeva",
+    "editorName": "kragujevac",
+    "defaultName": "Крагујевац<br>Kragujevac",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 40861.8,
+    "y": 36793.06,
+    "searchRadius": 1000
+  },
+  {
+    "token": "rs_belgrade",
+    "editorName": "belgrade",
+    "defaultName": "Београд<br>Beograd",
+    "nameVariants": [
+      "Belgrade",
+      "Beograd"
+    ],
+    "distanceOffset": 0,
+    "x": 39174.36,
+    "y": 31589.7,
+    "searchRadius": 1000
+  },
+  {
+    "token": "rs_novisad",
+    "editorName": "novisad",
+    "defaultName": "Нови Сад<br>Novi Sad",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 36624.36,
+    "y": 29370.3,
+    "searchRadius": 300
+  },
+  {
+    "token": "ba_bihac",
+    "editorName": "bihac",
+    "defaultName": "Bihać<br>Бихаћ",
+    "nameVariants": [
+      "Bihać"
+    ],
+    "distanceOffset": 0,
+    "x": 20842.63,
+    "y": 32999.86,
+    "searchRadius": 40
+  },
+  {
+    "token": "ba_doboj",
+    "editorName": "doboj",
+    "defaultName": "Doboj",
+    "nameVariants": [
+      "Добој<br>Doboj"
+    ],
+    "distanceOffset": 0,
+    "x": 29557.11,
+    "y": 33142.73
+  },
+  {
+    "token": "mk_prilep",
+    "editorName": "prilep",
+    "defaultName": "Прилеп<br>Prilep",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 46015.61,
+    "y": 50812.61
+  },
+  {
+    "token": "mk_ohrid",
+    "editorName": "ohrid",
+    "defaultName": "Охрид<br>Ohrid",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 42290.13,
+    "y": 52203.09
+  },
+  {
+    "token": "rs_paracin",
+    "editorName": "paracin",
+    "defaultName": "Параћин<br>Paraćin",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 42533.94,
+    "y": 36783.97
+  },
+  {
+    "token": "rs_subotica",
+    "editorName": "subotica",
+    "defaultName": "Суботица<br>Subotica",
+    "nameVariants": [],
+    "distanceOffset": 10,
+    "x": 35386.57,
+    "y": 27103.47,
+    "searchRadius": 50
+  },
+  {
+    "token": "ba_jajce",
+    "editorName": "jajce",
+    "defaultName": "Jajce<br>Јајце",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 26169.14,
+    "y": 35323.16
+  },
+  {
+    "token": "hr_bajakovo",
+    "editorName": "bajakovo",
+    "defaultName": "Bajakovo",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 33530.52,
+    "y": 30902.5
+  },
+  {
+    "token": "al_elbasan",
+    "editorName": "elbasan",
+    "defaultName": "ELBASAN",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 38849.16,
+    "y": 53146.61
+  },
+  {
+    "token": "hr_plitvice",
+    "editorName": "plitvice",
+    "defaultName": "Plitvička<sub scale=0.5> </sub>jezera",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 19482.94,
+    "y": 32914.02
+  },
+  {
+    "token": "okucani",
+    "editorName": "okucani",
+    "defaultName": "Okučani",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 25762.09,
+    "y": 29679.95,
+    "searchRadius": 100
+  },
+  {
+    "token": "z_istok",
+    "editorName": "zistok",
+    "defaultName": "Zagreb istok",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 22249.37,
+    "y": 27442.72,
+    "searchRadius": 100
+  },
+  {
+    "token": "gorican",
+    "editorName": "gorican",
+    "defaultName": "Goričan",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 23389.8,
+    "y": 23653.29,
+    "searchRadius": 100
+  },
+  {
+    "token": "senj",
+    "editorName": "senj",
+    "defaultName": "Senj",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 16492.93,
+    "y": 32098.61
+  },
+  {
+    "token": "dubrovnik",
+    "editorName": "dubrovnik",
+    "defaultName": "Dubrovnik",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": 29732.34,
+    "y": 44548.91,
+    "searchRadius": 100
+  },
+  {
+    "token": "es_lugo",
+    "editorName": "lugo",
+    "defaultName": "Lugo",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -78153.69,
+    "y": 30101.72
+  },
+  {
+    "token": "es_bord_a62",
+    "editorName": "es_portugal_a62",
+    "defaultName": "Portugal",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -78659.02,
+    "y": 43859.24,
+    "searchRadius": 20
+  },
+  {
+    "token": "de_bremerhav",
+    "editorName": "bremerhaven",
+    "defaultName": "Bremerhaven",
+    "nameVariants": [],
+    "distanceOffset": 0,
+    "x": -4844.23,
+    "y": -17207.79
+  },
+  {
+    "token": "gr_thessalo",
+    "editorName": "thessaloniki",
+    "defaultName": "Thessaloniki",
+    "nameVariants": [
+      "Θεσσαλονίκη",
+      "<font xscale=0.8>Θεσσαλονίκη</font>",
+      "<font xscale=0.8>Thessaloniki</font>",
+      "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "<font xscale=0.8>ΘΕΣΣΑΛΟΝΙΚΗ</font>"
+    ],
+    "distanceOffset": 0,
+    "x": 51687.77,
+    "y": 54811.79,
+    "searchRadius": 1500
+  },
+  {
+    "token": "gr_athens",
+    "editorName": "athens",
+    "defaultName": "Athina",
+    "nameVariants": [
+      "Αθήνα",
+      "ΑΘΗΝΑ",
+      "Athens"
+    ],
+    "distanceOffset": 0,
+    "x": 56239.63,
+    "y": 69681.81,
+    "searchRadius": 700
+  },
+  {
+    "token": "gr_larisa",
+    "editorName": "larisa",
+    "defaultName": "Larisa",
+    "nameVariants": [
+      "Λάρισα",
+      "LARISSA",
+      "ΛΑΡΙΣΑ"
+    ],
+    "distanceOffset": 0,
+    "x": 50073.36,
+    "y": 61917.5,
+    "searchRadius": 620
+  },
+  {
+    "token": "gr_lamia",
+    "editorName": "lamia",
+    "defaultName": "Lamia",
+    "nameVariants": [
+      "Λαμία",
+      "ΛΑΜΙΑ"
+    ],
+    "distanceOffset": 0,
+    "x": 49784.93,
+    "y": 65262.33,
+    "searchRadius": 300
+  },
+  {
+    "token": "gr_igoumeni",
+    "editorName": "igoumenitsa",
+    "defaultName": "Igoumenitsa",
+    "nameVariants": [
+      "Ηγουμενίτσα"
+    ],
+    "distanceOffset": 0,
+    "x": 39814.4,
+    "y": 62923.61,
+    "searchRadius": 200
+  },
+  {
+    "token": "gr_ioannina",
+    "editorName": "ioannina",
+    "defaultName": "Ioannina",
+    "nameVariants": [
+      "Ιωάννινα",
+      "<font xscale=0.8>ΙΩΑΝΝΙΝΑ</font>",
+      "<font xscale=0.8>IOANNINA</font>",
+      "ΙΩΑΝΝΙΝΑ"
+    ],
+    "distanceOffset": 0,
+    "x": 42312.03,
+    "y": 61675.7,
+    "searchRadius": 800
+  },
+  {
+    "token": "gr_kalamata",
+    "editorName": "kalamata",
+    "defaultName": "Kalamata",
+    "nameVariants": [
+      "Καλαμάτα",
+      "ΚΑΛΑΜΑΤΑ"
+    ],
+    "distanceOffset": 0,
+    "x": 50520.29,
+    "y": 76727.71,
+    "searchRadius": 600
+  },
+  {
+    "token": "gr_kavala",
+    "editorName": "kavala",
+    "defaultName": "Kavala",
+    "nameVariants": [
+      "Καβάλα",
+      "ΚΑΒΑΛΑ"
+    ],
+    "distanceOffset": 0,
+    "x": 58336.18,
+    "y": 52674.55,
+    "searchRadius": 1000
+  },
+  {
+    "token": "gr_patras",
+    "editorName": "patras",
+    "defaultName": "Patra",
+    "nameVariants": [
+      "Πάτρα",
+      "ΠΑΤΡΑ"
+    ],
+    "distanceOffset": 0,
+    "x": 47503.54,
+    "y": 71202.29,
+    "searchRadius": 800
+  },
+  {
+    "token": "gr_trikala",
+    "editorName": "trikala",
+    "defaultName": "Trikala",
+    "nameVariants": [
+      "Τρίκαλα"
+    ],
+    "distanceOffset": 0,
+    "x": 47158.89,
+    "y": 62350.55,
+    "searchRadius": 400
+  },
+  {
+    "token": "gr_mitilini",
+    "editorName": "mitilini",
+    "defaultName": "Mytilini",
+    "nameVariants": [
+      "Μυτιλήνη"
+    ],
+    "distanceOffset": 0,
+    "x": 67230.55,
+    "y": 61825.2,
+    "searchRadius": 500
+  },
+  {
+    "token": "gr_chios",
+    "editorName": "chios",
+    "defaultName": "Chios",
+    "nameVariants": [
+      "Χίος"
+    ],
+    "distanceOffset": 0,
+    "x": 66358.27,
+    "y": 66265.3,
+    "searchRadius": 500
+  },
+  {
+    "token": "gr_rhodes",
+    "editorName": "rhodes",
+    "defaultName": "Rodos",
+    "nameVariants": [
+      "Ρόδος"
+    ],
+    "distanceOffset": 0,
+    "x": 77509.13,
+    "y": 76985.39,
+    "searchRadius": 500
+  },
+  {
+    "token": "gr_heraklion",
+    "editorName": "heraklion",
+    "defaultName": "Irakleio",
+    "nameVariants": [
+      "Ηράκλειο"
+    ],
+    "distanceOffset": 0,
+    "x": 66111.6,
+    "y": 85858.42,
+    "searchRadius": 200
+  },
+  {
+    "token": "gr_chania",
+    "editorName": "chania",
+    "defaultName": "Chania",
+    "nameVariants": [
+      "Χανιά"
+    ],
+    "distanceOffset": 0,
+    "x": 58609.57,
+    "y": 84584.82,
+    "searchRadius": 800
+  },
+  {
+    "token": "gr_korinth",
+    "editorName": "korinthos",
+    "defaultName": "Korinthos",
+    "nameVariants": [
+      "Κόρινθος",
+      "<font xscale=0.75>Korinthos</font>",
+      "<font xscale=0.75>Κόρινθος</font>"
+    ],
+    "distanceOffset": 0,
+    "x": 52482.84,
+    "y": 70656.42,
+    "searchRadius": 300
+  },
+  {
+    "token": "gr_agrinio",
+    "editorName": "agrinio",
+    "defaultName": "Agrinio",
+    "nameVariants": [
+      "Αγρίνιο"
+    ],
+    "distanceOffset": 15,
+    "x": 43869.39,
+    "y": 68090.72,
+    "searchRadius": 50
+  },
+  {
+    "token": "gr_tripoli",
+    "editorName": "tripoli",
+    "defaultName": "Tripoli",
+    "nameVariants": [
+      "Τρίπολη"
+    ],
+    "distanceOffset": 10,
+    "x": 50212.81,
+    "y": 73377.41,
+    "searchRadius": 100
+  },
+  {
+    "token": "gr_kozani",
+    "editorName": "kozani",
+    "defaultName": "Kozani",
+    "nameVariants": [
+      "Κοζάνη",
+      "ΚΟΖΑΝΗ"
+    ],
+    "distanceOffset": 5,
+    "x": 46522.05,
+    "y": 57765.66,
+    "searchRadius": 200
+  },
+  {
+    "token": "gr_serres",
+    "editorName": "serres",
+    "defaultName": "Serres",
+    "nameVariants": [
+      "Σέρρες"
+    ],
+    "distanceOffset": 5,
+    "x": 53635.68,
+    "y": 52296.32,
+    "searchRadius": 50
+  },
+  {
+    "token": "gr_border_k",
+    "editorName": "border_kipi",
+    "defaultName": "TURKEY",
+    "nameVariants": [
+      "ΤΟΥΡΚΙΑ"
+    ],
+    "distanceOffset": 0,
+    "x": 61334.28,
+    "y": 50507.61,
+    "searchRadius": 50
+  },
+  {
+    "token": "gr_rio",
+    "editorName": "rio",
+    "defaultName": "Rio",
+    "nameVariants": [
+      "Ρίο"
+    ],
+    "distanceOffset": 0,
+    "x": 47746.67,
+    "y": 70533.36,
+    "searchRadius": 300
+  },
+  {
+    "token": "gr_pyrgos",
+    "editorName": "pyrgos",
+    "defaultName": "Pyrgos",
+    "nameVariants": [
+      "Πύργος"
+    ],
+    "distanceOffset": 5,
+    "x": 45874.68,
+    "y": 73795.93,
+    "searchRadius": 100
+  },
+  {
+    "token": "gr_volos",
+    "editorName": "volos",
+    "defaultName": "Volos",
+    "nameVariants": [
+      "Βόλος"
+    ],
+    "distanceOffset": 15,
+    "x": 51341.08,
+    "y": 63755.13,
+    "searchRadius": 50
+  },
+  {
+    "token": "gr_karditsa",
+    "editorName": "karditsa",
+    "defaultName": "Karditsa",
+    "nameVariants": [
+      "Καρδίτσα"
+    ],
+    "distanceOffset": 8,
+    "x": 48340.68,
+    "y": 63857.23,
+    "searchRadius": 100
+  },
+  {
+    "token": "gr_komotini",
+    "editorName": "komotini",
+    "defaultName": "Komotini",
+    "nameVariants": [
+      "ΚΟΜΟΤΗΝΗ"
+    ],
+    "distanceOffset": 2,
+    "x": 60212.43,
+    "y": 50515.31,
+    "searchRadius": 50
+  },
+  {
+    "token": "gr_evzoni",
+    "editorName": "evzoni",
+    "defaultName": "Evzonoi",
+    "nameVariants": [
+      "ΕΥΖΩΝΟΙ"
+    ],
+    "distanceOffset": 0,
+    "x": 49884.07,
+    "y": 52553.23,
+    "searchRadius": 50
+  },
+  {
+    "token": "gr_thermo",
+    "editorName": "thermopiles",
+    "defaultName": "<font xscale=0.8>Thermopiles</font>",
+    "nameVariants": [
+      "<font xscale=0.8>Θερμοπύλες</font>"
+    ],
+    "distanceOffset": 0,
+    "x": 51942.56,
+    "y": 66826,
+    "searchRadius": 5
+  }
+]
