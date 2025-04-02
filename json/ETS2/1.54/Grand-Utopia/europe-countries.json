@@ -1,0 +1,892 @@
+[
+  {
+    "token": "albania",
+    "name": "Albania",
+    "id": 14,
+    "x": 39000,
+    "y": 55000,
+    "code": "AL",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 60,
+        "maxLimit": 60,
+        "urbanLimit": 40
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 40
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "austria",
+    "name": "Austria",
+    "id": 1,
+    "x": 14940,
+    "y": 18780,
+    "code": "A",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "belgium",
+    "name": "Belgium",
+    "id": 2,
+    "x": -21133,
+    "y": -1133,
+    "code": "B",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 60,
+        "maxLimit": 60,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 90
+      }
+    }
+  },
+  {
+    "token": "bosnia",
+    "name": "Bosnia and Herzegovina",
+    "id": 17,
+    "x": 29000,
+    "y": 36000,
+    "code": "BIH",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 70
+      }
+    }
+  },
+  {
+    "token": "bulgaria",
+    "name": "Bulgaria",
+    "id": 18,
+    "x": 57500,
+    "y": 44000,
+    "code": "BG",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 90
+      },
+      "slowRoad": {
+        "limit": 30,
+        "maxLimit": 30,
+        "urbanLimit": 30
+      }
+    }
+  },
+  {
+    "token": "croatia",
+    "name": "Croatia",
+    "id": 19,
+    "x": 23000,
+    "y": 29000,
+    "code": "HR",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 90
+      }
+    }
+  },
+  {
+    "token": "czech",
+    "name": "Czech Republic",
+    "id": 3,
+    "x": 18500,
+    "y": 6000,
+    "code": "CZ",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "denmark",
+    "name": "Denmark",
+    "id": 21,
+    "x": -2100,
+    "y": -31000,
+    "code": "DK",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "estonia",
+    "name": "Estonia",
+    "id": 22,
+    "x": 45000,
+    "y": -47500,
+    "code": "EST",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 90
+      }
+    }
+  },
+  {
+    "token": "finland",
+    "name": "Finland",
+    "id": 23,
+    "x": 42000,
+    "y": -65000,
+    "code": "FI",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "france",
+    "name": "France",
+    "id": 4,
+    "x": -32380,
+    "y": 20210,
+    "code": "F",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 90
+      }
+    }
+  },
+  {
+    "token": "germany",
+    "name": "Germany",
+    "id": 5,
+    "x": -2770,
+    "y": -370,
+    "code": "D",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 60,
+        "maxLimit": 60,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "greece",
+    "name": "Greece",
+    "id": 25,
+    "x": 45500,
+    "y": 61000,
+    "code": "GR",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "hungary",
+    "name": "Hungary",
+    "id": 13,
+    "x": 32055,
+    "y": 21000,
+    "code": "H",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "italy",
+    "name": "Italy",
+    "id": 6,
+    "x": -4210,
+    "y": 31600,
+    "code": "I",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "kosovo",
+    "name": "Kosovo",
+    "id": 204,
+    "x": 42000,
+    "y": 44000,
+    "code": "RKS",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 85,
+        "maxLimit": 85,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 85,
+        "maxLimit": 85,
+        "urbanLimit": 85
+      }
+    }
+  },
+  {
+    "token": "latvia",
+    "name": "Latvia",
+    "id": 28,
+    "x": 49500,
+    "y": -39000,
+    "code": "LV",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "lithuania",
+    "name": "Lithuania",
+    "id": 30,
+    "x": 42000,
+    "y": -28000,
+    "code": "LT",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 90
+      }
+    }
+  },
+  {
+    "token": "luxembourg",
+    "name": "Luxembourg",
+    "id": 12,
+    "x": -17090,
+    "y": 2880,
+    "code": "L",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 75,
+        "maxLimit": 75,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 90
+      }
+    }
+  },
+  {
+    "token": "macedonia",
+    "name": "North Macedonia",
+    "id": 203,
+    "x": 45500,
+    "y": 49000,
+    "code": "NMK",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "montenegro",
+    "name": "Montenegro",
+    "id": 34,
+    "x": 35000,
+    "y": 44000,
+    "code": "MNE",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 90
+      }
+    }
+  },
+  {
+    "token": "netherlands",
+    "name": "Netherlands",
+    "id": 7,
+    "x": -15575,
+    "y": -9660,
+    "code": "NL",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "norway",
+    "name": "Norway",
+    "id": 35,
+    "x": -2800,
+    "y": -55000,
+    "code": "N",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "poland",
+    "name": "Poland",
+    "id": 8,
+    "x": 32130,
+    "y": -8330,
+    "code": "PL",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "portugal",
+    "name": "Portugal",
+    "id": 36,
+    "x": -87500,
+    "y": 47000,
+    "code": "P",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 90
+      }
+    }
+  },
+  {
+    "token": "romania",
+    "name": "Romania",
+    "id": 37,
+    "x": 57500,
+    "y": 26000,
+    "code": "RO",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 100,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 100,
+        "maxLimit": 100,
+        "urbanLimit": 100
+      },
+      "slowRoad": {
+        "limit": 30,
+        "maxLimit": 30,
+        "urbanLimit": 30
+      }
+    }
+  },
+  {
+    "token": "russia",
+    "name": "Russia",
+    "id": 38,
+    "x": 59500,
+    "y": -51500,
+    "code": "RU",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 60
+      },
+      "expressway": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 60
+      },
+      "motorway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 60
+      }
+    }
+  },
+  {
+    "token": "serbia",
+    "name": "Serbia",
+    "id": 40,
+    "x": 41000,
+    "y": 36000,
+    "code": "SRB",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 70,
+        "maxLimit": 70,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 90
+      }
+    }
+  },
+  {
+    "token": "slovakia",
+    "name": "Slovakia",
+    "id": 11,
+    "x": 32055,
+    "y": 12500,
+    "code": "SK",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 90
+      }
+    }
+  },
+  {
+    "token": "slovenia",
+    "name": "Slovenia",
+    "id": 41,
+    "x": 14940,
+    "y": 26000,
+    "code": "SLO",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 90
+      }
+    }
+  },
+  {
+    "token": "spain",
+    "name": "Spain",
+    "id": 42,
+    "x": -67500,
+    "y": 52500,
+    "code": "E",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 90
+      }
+    }
+  },
+  {
+    "token": "sweden",
+    "name": "Sweden",
+    "id": 43,
+    "x": 14500,
+    "y": -45000,
+    "code": "S",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 70,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "switzerland",
+    "name": "Switzerland",
+    "id": 9,
+    "x": -9369,
+    "y": 21470,
+    "code": "CH",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 80
+      }
+    }
+  },
+  {
+    "token": "turkey",
+    "name": "Türkiye",
+    "id": 44,
+    "x": 69500,
+    "y": 47000,
+    "code": "TR",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 80,
+        "maxLimit": 80,
+        "urbanLimit": 50
+      },
+      "expressway": {
+        "limit": 85,
+        "maxLimit": 85,
+        "urbanLimit": 50
+      },
+      "motorway": {
+        "limit": 90,
+        "maxLimit": 90,
+        "urbanLimit": 90
+      },
+      "slowRoad": {
+        "limit": 30,
+        "maxLimit": 30,
+        "urbanLimit": 30
+      }
+    }
+  },
+  {
+    "token": "uk",
+    "name": "United Kingdom",
+    "id": 10,
+    "x": -42290,
+    "y": -14150,
+    "code": "GB",
+    "truckSpeedLimits": {
+      "localRoad": {
+        "limit": 50,
+        "maxLimit": 50,
+        "urbanLimit": 30
+      },
+      "expressway": {
+        "limit": 50,
+        "maxLimit": 50,
+        "urbanLimit": 30
+      },
+      "motorway": {
+        "limit": 60,
+        "maxLimit": 60,
+        "urbanLimit": 60
+      }
+    }
+  }
+]
